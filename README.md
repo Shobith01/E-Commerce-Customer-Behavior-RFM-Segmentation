@@ -1,2 +1,55 @@
-# E-Commerce-Customer-Behavior-RFM-Segmentation
-E-Commerce Customer Behavior &amp; RFM Segmentation using Excel, SQL and Tableau
+# E-Commerce Customer Behavior & RFM Segmentation
+
+## Project Overview
+End-to-end business analysis of 1,654 orders from 200 customers 
+to identify revenue drivers, customer segments, and retention 
+opportunities using RFM (Recency, Frequency, Monetary) analysis.
+
+## Tools Used
+| Tool | Purpose |
+|---|---|
+| Excel | Data cleaning, VLOOKUP joins, Pivot Tables, KPI summary |
+| SQL | RFM scoring, customer aggregation, revenue queries |
+| Tableau | Interactive dashboard with 6 visualizations |
+
+## Dataset Summary
+| Metric | Value |
+|---|---|
+| Total Customers | 200 |
+| Total Orders | 1,654 |
+| Time Period | Jan 2022 – Dec 2024 |
+| Cities | 12 US cities |
+| Categories | 7 product categories |
+| Membership Tiers | Free, Silver, Gold, Platinum |
+
+## Key Business Insights
+- Electronics is the top revenue category at $46K+ (30% of total)
+- Champions (19% of customers) drive 60% of total revenue
+- Average Order Value is $109 with a healthy return rate of 1.93%
+- Platinum members have 3.5x higher AOV than Free tier members
+- Los Angeles and New York are the highest revenue cities
+
+## RFM Customer Segments
+| Segment | Customers | Avg Monetary Value |
+|---|---|---|
+| Champions | 38 | $1,420 |
+| Loyal Customers | 44 | $980 |
+| At Risk | 28 | $620 |
+| Potential Loyalist | 31 | $540 |
+| Need Attention | 37 | $290 |
+| Lost Customers | 22 | $180 |
+
+## Dashboard Preview
+![Dashboard](dashboard.png)
+
+> Full dashboard walkthrough video: see `dashboard_walkthrough.mp4`
+
+## SQL Analysis Highlights
+All queries are in `rfm_analysis_queries.sql`. Key analyses include:
+- Customer-level RFM scoring with CASE WHEN logic
+- Revenue by category and city breakdown
+- Segment aggregation summary
+- Year-over-year growth calculation
+- Fraud/return rate analysis
+
+## Project Structure
