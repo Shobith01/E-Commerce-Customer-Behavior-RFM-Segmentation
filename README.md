@@ -53,3 +53,36 @@ All queries are in `rfm_analysis_queries.sql`. Key analyses include:
 - Fraud/return rate analysis
 
 ## Project Structure
+E-Commerce-Customer-Behavior-RFM-Segmentation/
+│
+├── data/
+│ ├── Ecommerce_Customer_Behavior.xlsx
+│ ├── customers.csv
+│ └── orders.csv
+│ └── SQL Customer Segmentation.xlsx
+│
+├── sql/
+│ └── ecommerce_rfm_analysis.sql
+│
+├── dashboard/
+│ ├── E-Commerce Customer Intelligence Dashboard.png
+│ 
+└── README.md
+
+
+## How to Reproduce This Analysis
+1. Download `customers.csv` and `orders.csv`
+2. Import both into any SQL editor
+   (DB Browser for SQLite is free — sqlitebrowser.org)
+3. Run queries from `ecommerce_rfm_analysis.sql` in order
+4. Open `Ecommerce_Customer_Behavior.xlsx` 
+   for the Excel pivot analysis
+5. View `E-Commerce Customer Intelligence Dashboard.png`  
+   for the final Tableau dashboard
+
+## Tools Required to Reproduce
+| Tool | Cost | Download |
+|---|---|---|
+| SQL Server Management Studio (SSMS) |Free Download Available | learn.microsoft.com |
+| Microsoft Excel | Paid / Office 365 | microsoft.com |
+| Tableau Desktop | Free trial available | tableau.com |
