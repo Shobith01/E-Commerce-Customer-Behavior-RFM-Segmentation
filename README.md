@@ -40,8 +40,7 @@ opportunities using RFM (Recency, Frequency, Monetary) analysis.
 | Lost Customers | 22 | $180 |
 
 ## Dashboard Preview
-![Dashboard](<img width="1200" height="750" alt="E-Commerce Customer Intelligence Dashboard" src="https://github.com/user-attachments/assets/b2a2fb8b-2f41-4bd2-b43b-03104fa0accc" />
-)
+![Dashboard](https://kommodo.ai/i/XE2A08xPqUaxrgDECFYS)
 
 
 ## SQL Analysis Highlights
