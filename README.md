@@ -53,21 +53,23 @@ All queries are in `rfm_analysis_queries.sql`. Key analyses include:
 - Fraud/return rate analysis
 
 ## Project Structure
+```text
 E-Commerce-Customer-Behavior-RFM-Segmentation/
 │
 ├── data/
-│ ├── Ecommerce_Customer_Behavior.xlsx
-│ ├── customers.csv
-│ └── orders.csv
-│ └── SQL Customer Segmentation.xlsx
+│   ├── Ecommerce_Customer_Behavior.xlsx
+│   ├── customers.csv
+│   ├── orders.csv
+│   └── SQL Customer Segmentation.xlsx
 │
 ├── sql/
-│ └── ecommerce_rfm_analysis.sql
+│   └── ecommerce_rfm_analysis.sql
 │
 ├── dashboard/
-│ ├── E-Commerce Customer Intelligence Dashboard.png
-│ 
+│   └── E-Commerce Customer Intelligence Dashboard.png
+│
 └── README.md
+```
 
 
 ## How to Reproduce This Analysis
