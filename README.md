@@ -42,7 +42,6 @@ opportunities using RFM (Recency, Frequency, Monetary) analysis.
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
 
-> Full dashboard walkthrough video: see `dashboard_walkthrough.mp4`
 
 ## SQL Analysis Highlights
 All queries are in `rfm_analysis_queries.sql`. Key analyses include:
