@@ -1,134 +1,196 @@
 # E-Commerce Customer Behavior & RFM Segmentation
 
 ## Project Overview
-End-to-end business analysis of 1,654 orders from 200 customers 
-to identify revenue drivers, customer segments, and retention 
-opportunities using RFM (Recency, Frequency, Monetary) analysis.
+
+An end-to-end Data Analysis and Business Analysis project using **Excel, SQL, and Tableau** to analyze customer behavior, identify revenue drivers, segment customers using **RFM (Recency, Frequency, Monetary) analysis**, and generate actionable business recommendations.
+
+The analysis is based on **1,654 orders from 200 customers** across a three-year period from 2022 to 2024.
 
 ---
 
 ## Business Problem
 
-An e-commerce company with **200 customers and 1,654 orders** across 3 years 
-(2022–2024) was facing three core problems:
+An e-commerce company was facing three key business challenges:
 
-**Problem 1 — No Customer Visibility**  
-The business was treating all customers the same — sending the same offers to 
-a Champion who spends $1,400 per order and a Lost Customer who hadn't bought 
-in 6 months. This led to wasted marketing spend and poor retention.
+### 1. No Customer Visibility
 
-**Problem 2 — No Clarity on Revenue Drivers**  
-Management didn't know which product categories, cities, or membership tiers 
-were actually driving revenue versus which ones looked busy but contributed 
-little. Decisions were being made on gut feel rather than data.
+The business was treating all customers similarly instead of tailoring strategies based on customer value and purchasing behavior.
 
-**Problem 3 — No Early Warning System**  
-There was no way to identify customers who were at risk of leaving before they 
-actually left. By the time the business noticed a customer was gone, it was 
-already too late to retain them.
+For example, a high-value Champion customer and an inactive Lost customer could receive the same type of marketing communication.
 
----
+This resulted in inefficient marketing efforts and limited customer retention opportunities.
 
-## Solution
+### 2. No Clarity on Revenue Drivers
 
-A full end-to-end analysis was built using **Excel, SQL, and Tableau** 
-across three phases:
+Management lacked a consolidated view of which:
 
-**Phase 1 — Data Preparation (Excel)**
-- Joined Customers and Orders tables using VLOOKUP on `customer_id`
-- Built pivot tables for revenue by category, membership tier, and order status
-- Created KPI summary cards: Total Revenue, AOV, Total Orders, Return Rate, Top Category
-- Calculated monthly trends to identify seasonality patterns
+- Product categories
+- Cities
+- Membership tiers
 
-**Phase 2 — RFM Segmentation (SQL)**
-- Calculated Recency (days since last purchase), Frequency (number of orders),
-  and Monetary (total spend) for every customer
-- Scored each customer 1–4 on all three dimensions using CASE WHEN logic
-- Classified every customer into one of 6 segments:
-  Champions, Loyal Customers, Potential Loyalist, At Risk, Need Attention, Lost Customers
-- Produced a segment summary table showing average spend and order frequency per group
+were contributing most to overall revenue.
 
-**Phase 3 — Interactive Dashboard (Tableau)**  
-Built a single-screen dashboard with 3 filters (Year, Membership, Category) containing:
-- Revenue by Category bar chart
-- Customer Segment horizontal bar chart
-- Monthly Revenue Trend line chart with average reference line
-- Revenue by City map (12 US cities geocoded)
-- Membership Tier Breakdown stacked bar chart
-- 5 KPI cards across the header
+Business decisions were therefore difficult to make using data-driven insights.
+
+### 3. No Early Warning System for Customer Churn
+
+The business had no structured method to identify customers who were becoming inactive before they were completely lost.
+
+An RFM-based customer segmentation approach was therefore used to identify high-value, loyal, at-risk, and lost customers.
 
 ---
 
-## Key Business Findings
+## Project Objective
+
+The objective of this project was to:
+
+- Analyze customer purchasing behavior.
+- Identify major revenue drivers.
+- Segment customers based on RFM scores.
+- Identify high-value and at-risk customer segments.
+- Analyze revenue by category, city, and membership tier.
+- Build an interactive dashboard for business stakeholders.
+- Translate analytical findings into actionable business recommendations.
+
+---
+
+# Project Approach
+
+The project was completed across three major phases.
+
+## Phase 1 — Data Preparation & Exploration Using Excel
+
+Excel was used for initial data preparation, exploration, and KPI analysis.
+
+### Activities Performed
+
+- Joined Customers and Orders data using `customer_id`.
+- Used VLOOKUP to create a master dataset.
+- Created Pivot Tables for revenue and customer analysis.
+- Analyzed revenue by product category.
+- Analyzed revenue by membership tier.
+- Analyzed order status and returns.
+- Calculated Total Revenue, Average Order Value, Total Orders, Return Rate, and Top Category.
+- Created monthly revenue analysis to identify trends.
+
+### Excel Deliverables
+
+The Excel analysis files are available in:
+
+`./excel/`
+
+---
+
+# Phase 2 — Customer Segmentation Using SQL
+
+SQL was used to perform customer-level analysis and RFM segmentation.
+
+### RFM Analysis
+
+Each customer was evaluated using three dimensions:
+
+**Recency**  
+Number of days since the customer's most recent delivered order.
+
+**Frequency**  
+Number of delivered orders placed by the customer.
+
+**Monetary**  
+Total amount spent on delivered orders.
+
+Customers were scored from **1 to 4** across the three RFM dimensions using SQL `CASE WHEN` logic.
+
+### Customer Segments
+
+The analysis classified customers into six segments:
+
+- Champions
+- Loyal Customers
+- Potential Loyalist
+- At Risk
+- Need Attention
+- Lost Customers
+
+### SQL Analysis Includes
+
+- Customer-level RFM calculations
+- RFM scoring using `CASE WHEN`
+- Customer segment classification
+- Revenue by product category
+- Revenue by city
+- Customer segment summaries
+- Year-over-year revenue analysis
+- Return rate analysis
+
+The complete SQL analysis is available in:
+
+`./sql/ecommerce_rfm_analysis.sql`
+
+---
+
+# Phase 3 — Interactive Dashboard Using Tableau
+
+An interactive **E-Commerce Customer Intelligence Dashboard** was created using Tableau.
+
+The dashboard provides a consolidated view of customer behavior, revenue performance, and business KPIs.
+
+### Dashboard Components
+
+- Total Revenue KPI
+- Total Orders KPI
+- Average Order Value KPI
+- Return Rate KPI
+- Top Category KPI
+- Revenue by Category
+- Customer Segment Analysis
+- Monthly Revenue Trend
+- Revenue by City
+- Membership Tier Breakdown
+
+### Dashboard Filters
+
+The dashboard includes filters for:
+
+- Year
+- Membership
+- Category
+
+The final dashboard image is available in:
+
+`./dashboard/`
+
+---
+
+# Key Business Findings
 
 | Finding | Business Insight |
 |---|---|
-| Electronics drives 30% of revenue | Prioritize inventory and promotions here |
-| 38 Champions generate 60% of revenue | Protect with loyalty rewards and early access |
-| 28 customers are At Risk | Trigger re-engagement campaigns immediately |
-| 22 customers are Lost | Low-cost win-back email campaign worth testing |
-| Platinum AOV is 3.5x Free tier | Membership upgrade campaigns have strong ROI |
-| Return rate is only 1.93% | Product quality and descriptions are healthy |
-| Revenue peaks in late 2024 | Scale inventory ahead of Q4 demand |
+| Electronics is the top revenue category | Prioritize inventory, promotions, and supplier planning around the strongest-performing category |
+| Champions are the highest-value customer segment | Protect high-value customers through loyalty and retention initiatives |
+| 28 customers are At Risk | Target these customers with re-engagement and win-back campaigns |
+| 22 customers are Lost | Test low-cost win-back campaigns to recover potentially valuable customers |
+| Platinum customers have significantly higher AOV than Free customers | Membership upgrade campaigns may provide opportunities to increase customer value |
+| Return Rate is 1.93% | The current return rate provides a useful baseline for future monitoring |
+| Revenue shows stronger performance toward late 2024 | Use historical trends to support future demand and inventory planning |
 
 ---
 
-## Business Recommendations
+# Key Dashboard KPIs
 
-**Marketing:** Target Champions with exclusive deals and early access — 
-they are the highest value segment. Avoid one-size-fits-all campaigns 
-that waste budget on low-value customers.
-
-**Retention:** The 28 At Risk customers need immediate action — a personalized 
-discount or "we miss you" email triggered within 30 days of last purchase 
-could recover significant revenue before they are lost.
-
-**Product:** Electronics is the clear revenue winner. Expand the catalogue 
-and negotiate better supplier terms given the volume this category drives.
-
-**Membership:** The AOV gap between Platinum ($290) and Free ($82) is massive. 
-A targeted Silver-to-Gold upgrade campaign with a one-time incentive would 
-likely pay for itself within 2 orders.
+| KPI | Value |
+|---|---:|
+| Total Revenue | $154,704.02 |
+| Total Orders | 1,419 |
+| Average Order Value | $109.02 |
+| Return Rate | 1.93% |
+| Top Category | Electronics |
 
 ---
 
-## Tools Used
-
-| Tool | Purpose |
-|---|---|
-| Excel | Data cleaning, VLOOKUP joins, Pivot Tables, KPI summary |
-| SQL | RFM scoring, customer aggregation, revenue queries |
-| Tableau | Interactive dashboard with 6 visualizations |
-
----
-
-## Dataset Summary
-
-| Metric | Value |
-|---|---|
-| Total Customers | 200 |
-| Total Orders | 1,654 |
-| Time Period | Jan 2022 – Dec 2024 |
-| Cities | 12 US cities |
-| Categories | 7 product categories |
-| Membership Tiers | Free, Silver, Gold, Platinum |
-
----
-
-## Key Business Insights
-
-- Electronics is the top revenue category at $46K+ (30% of total revenue)
-- Champions (19% of customers) drive 60% of total revenue
-- Average Order Value is $109 with a healthy return rate of 1.93%
-- Platinum members have 3.5x higher AOV than Free tier members
-- Los Angeles and New York are the highest revenue cities
-
----
-
-## RFM Customer Segments
+# RFM Customer Segmentation
 
 | Segment | Customers | Avg Monetary Value |
-|---|---|---|
+|---|---:|---:|
 | Champions | 38 | $1,420 |
 | Loyal Customers | 44 | $980 |
 | At Risk | 28 | $620 |
@@ -136,35 +198,145 @@ likely pay for itself within 2 orders.
 | Need Attention | 37 | $290 |
 | Lost Customers | 22 | $180 |
 
----
-
-## Dashboard Preview
-
-<img width="1200" height="750" alt="DashBoard" src="https://github.com/user-attachments/assets/8521e70d-34f1-46fd-958b-b69bbcb3630e" />
+The RFM segmentation helps the business move away from a one-size-fits-all customer strategy and instead prioritize customers based on their purchasing behavior and value.
 
 ---
 
-## SQL Analysis Highlights
+# Business Recommendations
 
-All queries are in `ecommerce_rfm_analysis.sql`. Key analyses include:
-- Customer-level RFM scoring with CASE WHEN logic
-- Revenue by category and city breakdown
-- Segment aggregation summary
-- Year-over-year growth calculation
-- Return rate analysis
+## 1. High-Value Customer Retention
+
+Champions and Loyal Customers represent the strongest-value customer segments.
+
+### Recommendation
+
+- Provide exclusive offers to high-value customers.
+- Introduce early access to new products and promotions.
+- Use personalized offers based on previous purchasing behavior.
+- Monitor purchasing activity to identify changes in customer engagement.
+
+### Expected Impact
+
+Protect existing revenue, increase repeat purchases, and improve customer lifetime value.
 
 ---
 
-## Project Structure
+## 2. At-Risk Customer Win-Back
+
+The analysis identifies **28 At Risk customers** who represent an opportunity for customer retention.
+
+### Recommendation
+
+- Launch targeted re-engagement campaigns.
+- Use personalized promotional offers.
+- Consider purchase history when designing offers.
+- Track whether customers return after the campaign.
+
+### Expected Impact
+
+Recover potential lost revenue and prevent At Risk customers from progressing into the Lost segment.
+
+---
+
+## 3. Membership Tier Conversion
+
+The membership analysis indicates differences in customer value across membership tiers.
+
+### Recommendation
+
+- Identify high-value customers in lower membership tiers.
+- Promote the benefits of higher membership levels.
+- Provide targeted upgrade incentives.
+- Track customer behavior after membership upgrades.
+
+### Expected Impact
+
+Increase membership engagement, customer spending, and long-term customer value.
+
+---
+
+# Business Analysis Documentation
+
+This project also includes Business Analysis documentation to demonstrate the translation of analytical findings into structured business requirements and actionable recommendations.
+
+### Business Requirements Document (BRD)
+
+The BRD defines:
+
+- Business background
+- Business objective
+- Stakeholders
+- Project scope
+- Out-of-scope items
+- Assumptions
+- Functional requirements
+- Non-functional requirements
+- Expected business outcomes
+
+[View Business Requirements Document](./documentation/BRD_ECommerce_RFM_v1.0.pdf)
+
+### User Stories
+
+The User Stories document defines stakeholder requirements and acceptance criteria for key business use cases.
+
+It also includes requirements traceability between user stories and functional requirements.
+
+[View User Stories](./documentation/UserStories_ECommerce_RFM.pdf)
+
+### Strategic Recommendations
+
+The Strategic Recommendations document converts analytical findings into actionable business recommendations focused on:
+
+- High-value customer retention
+- At-risk customer win-back
+- Membership growth
+- Revenue opportunities
+
+[View Strategic Recommendations](./documentation/Strategic_Recommendations_ECommerce_RFM.pdf)
+
+---
+
+# Dashboard Preview
+
+![E-Commerce Customer Intelligence Dashboard](./dashboard/E-Commerce%20Customer%20Intelligence%20Dashboard.png)
+
+---
+
+# Tools & Technologies
+
+| Tool | Purpose |
+|---|---|
+| Excel | Data preparation, VLOOKUP joins, Pivot Tables, KPI analysis |
+| SQL | Customer aggregation, RFM scoring, segmentation, revenue analysis |
+| Tableau | Interactive dashboard and data visualization |
+
+---
+
+# Dataset Summary
+
+| Metric | Value |
+|---|---:|
+| Total Customers | 200 |
+| Total Orders | 1,654 |
+| Time Period | Jan 2022 – Dec 2024 |
+| Cities | 12 US cities |
+| Product Categories | 7 |
+| Membership Tiers | Free, Silver, Gold, Platinum |
+
+---
+
+# Project Structure
 
 ```text
 E-Commerce-Customer-Behavior-RFM-Segmentation/
 │
 ├── data/
-│   ├── Ecommerce_Customer_Behavior.xlsx
 │   ├── customers.csv
-│   ├── orders.csv
-│   └── SQL Customer Segmentation.xlsx
+│   └── orders.csv
+│
+├── excel/
+│   ├── Ecommerce_Customer_Behavior.xlsx
+│   └── SQL Customer Segmentation.csv.xlsx
 │
 ├── sql/
 │   └── ecommerce_rfm_analysis.sql
@@ -172,28 +344,9 @@ E-Commerce-Customer-Behavior-RFM-Segmentation/
 ├── dashboard/
 │   └── E-Commerce Customer Intelligence Dashboard.png
 │
+├── documentation/
+│   ├── BRD_ECommerce_RFM_v1.0.pdf
+│   ├── UserStories_ECommerce_RFM.pdf
+│   └── Strategic_Recommendations_ECommerce_RFM.pdf
+│
 └── README.md
-```
-
----
-
-## How to Reproduce This Analysis
-
-1. Download `customers.csv` and `orders.csv`
-2. Import both into any SQL editor
-   (DB Browser for SQLite is free — sqlitebrowser.org)
-3. Run queries from `ecommerce_rfm_analysis.sql` in order
-4. Open `Ecommerce_Customer_Behavior.xlsx`
-   for the Excel pivot analysis
-5. View `E-Commerce Customer Intelligence Dashboard.png`
-   for the final Tableau dashboard
-
----
-
-## Tools Required to Reproduce
-
-| Tool | Cost | Download |
-|---|---|---|
-| DB Browser for SQLite | Free | sqlitebrowser.org |
-| Microsoft Excel | Paid / Office 365 | microsoft.com |
-| Tableau Desktop | Free trial available | tableau.com |
