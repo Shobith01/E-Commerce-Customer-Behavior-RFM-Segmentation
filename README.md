@@ -273,7 +273,7 @@ The BRD defines:
 - Non-functional requirements
 - Expected business outcomes
 
-[View Business Requirements Document](./documentation/BRD - E-Commerce Customer Behavior & RFM Segmentation.pdf)
+[View Business Requirements Document](./documentation/BRD%20-%20E-Commerce%20Customer%20Behavior%20%26%20RFM%20Segmentation.pdf)
 
 ### User Stories
 
@@ -281,7 +281,7 @@ The User Stories document defines stakeholder requirements and acceptance criter
 
 It also includes requirements traceability between user stories and functional requirements.
 
-[View User Stories](./documentation/UserStories_ E-Commerce Customer Behavior & RFM Segmentation.pdf)
+[View User Stories](./documentation/UserStories_E-Commerce%20Customer%20Behavior%20%26%20RFM%20Segmentation.pdf)
 
 ### Strategic Recommendations
 
@@ -292,7 +292,7 @@ The Strategic Recommendations document converts analytical findings into actiona
 - Membership growth
 - Revenue opportunities
 
-[View Strategic Recommendations](./documentation/Strategic Recommendations - E-Commerce Customer Behavior & RFM Segmentation.pdf)
+[View Strategic Recommendations](./documentation/Strategic%20Recommendations%20-%20E-Commerce%20Customer%20Behavior%20%26%20RFM%20Segmentation.pdf)
 
 ---
 
