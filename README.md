@@ -281,7 +281,7 @@ The User Stories document defines stakeholder requirements and acceptance criter
 
 It also includes requirements traceability between user stories and functional requirements.
 
-[View User Stories](./documentation/UserStories_E-Commerce%20Customer%20Behavior%20%26%20RFM%20Segmentation.pdf)
+[View User Stories](./documentation/UserStories_%20E-Commerce%20Customer%20Behavior%20%26%20RFM%20Segmentation.pdf)
 
 ### Strategic Recommendations
 
