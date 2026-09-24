@@ -1,0 +1,201 @@
+customer_id,first_name,last_name,email,city,state,age,gender,join_date,membership
+CUST-5001,Noah,Brown,user5001@email.com,Phoenix,AZ,25,Female,16-04-22,Platinum
+CUST-5002,Sophia,Wilson,user5002@email.com,San Jose,CA,18,Female,01-03-21,Gold
+CUST-5003,Sophia,Miller,user5003@email.com,San Diego,CA,29,Female,11-04-21,Free
+CUST-5004,James,Brown,user5004@email.com,Dallas,TX,32,Male,03-09-22,Free
+CUST-5005,Sophia,Johnson,user5005@email.com,Houston,TX,24,Male,24-10-23,Free
+CUST-5006,James,Johnson,user5006@email.com,Los Angeles,CA,52,Male,09-10-20,Free
+CUST-5007,Sophia,Smith,user5007@email.com,Dallas,TX,43,Male,08-06-20,Silver
+CUST-5008,Emma,Smith,user5008@email.com,San Antonio,TX,21,Female,21-07-21,Free
+CUST-5009,Ava,Wilson,user5009@email.com,Philadelphia,PA,54,Female,02-02-23,Silver
+CUST-5010,Ava,Wilson,user5010@email.com,Jacksonville,FL,23,Male,27-03-20,Free
+CUST-5011,Emma,Smith,user5011@email.com,Philadelphia,PA,48,Male,25-10-23,Gold
+CUST-5012,Liam,Davis,user5012@email.com,New York,NY,25,Female,16-04-20,Free
+CUST-5013,Noah,Johnson,user5013@email.com,Chicago,IL,28,Male,05-05-21,Free
+CUST-5014,Oliver,Miller,user5014@email.com,Houston,TX,49,Female,20-10-23,Gold
+CUST-5015,Isabella,Jones,user5015@email.com,Los Angeles,CA,52,Female,10-10-23,Free
+CUST-5016,James,Johnson,user5016@email.com,Houston,TX,20,Male,24-10-20,Free
+CUST-5017,Noah,Johnson,user5017@email.com,Los Angeles,CA,45,Male,04-09-20,Platinum
+CUST-5018,James,Wilson,user5018@email.com,San Antonio,TX,62,Female,07-08-22,Gold
+CUST-5019,Ava,Johnson,user5019@email.com,Austin,TX,51,Female,11-05-23,Platinum
+CUST-5020,James,Wilson,user5020@email.com,Phoenix,AZ,43,Female,28-12-22,Free
+CUST-5021,Ava,Johnson,user5021@email.com,Jacksonville,FL,27,Male,12-02-22,Platinum
+CUST-5022,Oliver,Wilson,user5022@email.com,Jacksonville,FL,56,Male,17-04-20,Free
+CUST-5023,Olivia,Jones,user5023@email.com,Jacksonville,FL,28,Female,02-11-20,Silver
+CUST-5024,Ava,Johnson,user5024@email.com,Jacksonville,FL,41,Female,21-02-23,Silver
+CUST-5025,Olivia,Davis,user5025@email.com,New York,NY,43,Male,14-08-20,Free
+CUST-5026,Emma,Jones,user5026@email.com,New York,NY,56,Female,21-03-23,Platinum
+CUST-5027,Emma,Wilson,user5027@email.com,Chicago,IL,64,Female,17-02-20,Silver
+CUST-5028,Sophia,Garcia,user5028@email.com,Chicago,IL,38,Female,08-04-23,Free
+CUST-5029,Isabella,Wilson,user5029@email.com,San Jose,CA,30,Female,23-10-23,Free
+CUST-5030,Elijah,Garcia,user5030@email.com,San Jose,CA,59,Female,07-11-22,Silver
+CUST-5031,Elijah,Brown,user5031@email.com,Philadelphia,PA,28,Female,22-05-21,Free
+CUST-5032,Ava,Davis,user5032@email.com,Phoenix,AZ,33,Male,16-05-23,Silver
+CUST-5033,Olivia,Smith,user5033@email.com,Los Angeles,CA,36,Female,14-05-22,Silver
+CUST-5034,Isabella,Johnson,user5034@email.com,San Jose,CA,61,Female,26-12-23,Gold
+CUST-5035,Isabella,Williams,user5035@email.com,Philadelphia,PA,42,Female,28-08-23,Silver
+CUST-5036,Oliver,Jones,user5036@email.com,San Jose,CA,36,Female,17-01-22,Gold
+CUST-5037,Liam,Miller,user5037@email.com,Austin,TX,39,Female,22-10-20,Free
+CUST-5038,Olivia,Johnson,user5038@email.com,Los Angeles,CA,46,Male,06-06-22,Free
+CUST-5039,Elijah,Johnson,user5039@email.com,San Jose,CA,60,Female,25-06-22,Gold
+CUST-5040,Emma,Davis,user5040@email.com,Chicago,IL,55,Male,17-07-22,Silver
+CUST-5041,Oliver,Smith,user5041@email.com,Houston,TX,48,Male,20-12-21,Platinum
+CUST-5042,Emma,Garcia,user5042@email.com,New York,NY,49,Female,09-01-20,Free
+CUST-5043,Elijah,Wilson,user5043@email.com,Los Angeles,CA,32,Male,22-09-21,Silver
+CUST-5044,Sophia,Brown,user5044@email.com,San Jose,CA,35,Female,10-03-21,Free
+CUST-5045,Noah,Garcia,user5045@email.com,Dallas,TX,58,Female,23-09-20,Silver
+CUST-5046,James,Davis,user5046@email.com,Houston,TX,64,Female,24-09-20,Free
+CUST-5047,Olivia,Johnson,user5047@email.com,San Diego,CA,58,Female,08-06-20,Free
+CUST-5048,Ava,Garcia,user5048@email.com,Dallas,TX,48,Female,24-12-22,Free
+CUST-5049,Sophia,Brown,user5049@email.com,New York,NY,56,Male,14-01-20,Gold
+CUST-5050,Oliver,Davis,user5050@email.com,Houston,TX,63,Male,10-04-23,Free
+CUST-5051,Oliver,Davis,user5051@email.com,Los Angeles,CA,29,Female,16-08-22,Platinum
+CUST-5052,Emma,Smith,user5052@email.com,Chicago,IL,28,Male,12-01-21,Platinum
+CUST-5053,James,Wilson,user5053@email.com,San Diego,CA,23,Female,14-09-22,Platinum
+CUST-5054,James,Smith,user5054@email.com,Dallas,TX,26,Female,15-10-20,Platinum
+CUST-5055,Sophia,Jones,user5055@email.com,Chicago,IL,36,Male,23-03-20,Free
+CUST-5056,Olivia,Jones,user5056@email.com,Dallas,TX,35,Female,08-01-22,Free
+CUST-5057,Emma,Wilson,user5057@email.com,Jacksonville,FL,60,Female,28-03-22,Silver
+CUST-5058,Emma,Miller,user5058@email.com,Jacksonville,FL,59,Female,07-12-20,Gold
+CUST-5059,Liam,Garcia,user5059@email.com,Chicago,IL,37,Male,21-05-20,Silver
+CUST-5060,Isabella,Johnson,user5060@email.com,Houston,TX,26,Male,04-11-22,Silver
+CUST-5061,Isabella,Johnson,user5061@email.com,New York,NY,46,Female,20-05-21,Free
+CUST-5062,Liam,Garcia,user5062@email.com,Austin,TX,56,Male,25-08-21,Silver
+CUST-5063,Isabella,Smith,user5063@email.com,San Antonio,TX,30,Male,02-12-23,Silver
+CUST-5064,Liam,Wilson,user5064@email.com,San Antonio,TX,27,Female,20-02-23,Platinum
+CUST-5065,Ava,Davis,user5065@email.com,San Jose,CA,62,Male,03-03-21,Silver
+CUST-5066,Ava,Miller,user5066@email.com,Los Angeles,CA,36,Male,17-07-20,Free
+CUST-5067,James,Miller,user5067@email.com,San Diego,CA,43,Female,12-07-20,Gold
+CUST-5068,Noah,Jones,user5068@email.com,Austin,TX,21,Male,10-02-20,Gold
+CUST-5069,Noah,Miller,user5069@email.com,Los Angeles,CA,38,Male,01-07-23,Free
+CUST-5070,Emma,Jones,user5070@email.com,Philadelphia,PA,62,Female,12-05-22,Free
+CUST-5071,Sophia,Davis,user5071@email.com,Houston,TX,25,Female,28-08-20,Free
+CUST-5072,Oliver,Miller,user5072@email.com,Austin,TX,37,Male,22-12-20,Silver
+CUST-5073,Noah,Smith,user5073@email.com,Dallas,TX,43,Female,02-10-21,Free
+CUST-5074,Oliver,Jones,user5074@email.com,Austin,TX,23,Male,01-06-23,Silver
+CUST-5075,Ava,Smith,user5075@email.com,Houston,TX,33,Female,12-09-23,Free
+CUST-5076,Isabella,Wilson,user5076@email.com,Dallas,TX,55,Male,14-12-22,Platinum
+CUST-5077,Noah,Smith,user5077@email.com,Austin,TX,56,Male,04-07-23,Free
+CUST-5078,Elijah,Garcia,user5078@email.com,San Diego,CA,35,Male,15-04-22,Silver
+CUST-5079,Sophia,Garcia,user5079@email.com,Chicago,IL,40,Male,06-03-22,Free
+CUST-5080,Olivia,Smith,user5080@email.com,San Antonio,TX,55,Male,27-07-23,Gold
+CUST-5081,Noah,Wilson,user5081@email.com,Dallas,TX,28,Male,13-03-23,Free
+CUST-5082,Elijah,Brown,user5082@email.com,Chicago,IL,58,Male,13-12-20,Free
+CUST-5083,Sophia,Davis,user5083@email.com,New York,NY,48,Male,02-08-23,Silver
+CUST-5084,Emma,Smith,user5084@email.com,Chicago,IL,24,Male,16-05-23,Platinum
+CUST-5085,Liam,Miller,user5085@email.com,Los Angeles,CA,18,Male,05-05-22,Free
+CUST-5086,Liam,Jones,user5086@email.com,San Diego,CA,34,Female,16-10-22,Free
+CUST-5087,James,Davis,user5087@email.com,Jacksonville,FL,59,Male,05-11-20,Gold
+CUST-5088,Emma,Garcia,user5088@email.com,Phoenix,AZ,47,Female,03-01-20,Silver
+CUST-5089,James,Wilson,user5089@email.com,Houston,TX,45,Female,04-05-21,Silver
+CUST-5090,Olivia,Williams,user5090@email.com,New York,NY,53,Female,17-03-21,Silver
+CUST-5091,Elijah,Brown,user5091@email.com,San Jose,CA,29,Female,20-03-20,Free
+CUST-5092,Elijah,Garcia,user5092@email.com,San Antonio,TX,29,Male,22-07-20,Platinum
+CUST-5093,Emma,Garcia,user5093@email.com,San Jose,CA,45,Male,26-11-21,Platinum
+CUST-5094,Emma,Smith,user5094@email.com,Los Angeles,CA,57,Male,02-06-22,Free
+CUST-5095,James,Williams,user5095@email.com,Philadelphia,PA,42,Female,21-01-20,Platinum
+CUST-5096,James,Johnson,user5096@email.com,Chicago,IL,34,Female,21-05-20,Silver
+CUST-5097,Isabella,Wilson,user5097@email.com,Chicago,IL,64,Male,07-08-20,Free
+CUST-5098,Elijah,Wilson,user5098@email.com,San Diego,CA,35,Female,05-08-21,Silver
+CUST-5099,James,Wilson,user5099@email.com,San Antonio,TX,51,Male,14-09-23,Free
+CUST-5100,James,Garcia,user5100@email.com,Phoenix,AZ,32,Female,15-10-21,Free
+CUST-5101,Emma,Johnson,user5101@email.com,San Jose,CA,58,Female,17-10-22,Free
+CUST-5102,Oliver,Wilson,user5102@email.com,San Jose,CA,57,Male,16-07-21,Free
+CUST-5103,Elijah,Brown,user5103@email.com,Chicago,IL,47,Female,13-01-21,Free
+CUST-5104,Olivia,Davis,user5104@email.com,San Jose,CA,59,Female,27-10-22,Free
+CUST-5105,Oliver,Davis,user5105@email.com,Austin,TX,53,Female,25-01-22,Free
+CUST-5106,Isabella,Johnson,user5106@email.com,Philadelphia,PA,21,Male,26-08-21,Platinum
+CUST-5107,Isabella,Smith,user5107@email.com,Houston,TX,33,Male,02-09-20,Platinum
+CUST-5108,Isabella,Wilson,user5108@email.com,San Diego,CA,23,Female,01-02-21,Free
+CUST-5109,Elijah,Johnson,user5109@email.com,San Jose,CA,38,Female,27-12-22,Gold
+CUST-5110,Elijah,Garcia,user5110@email.com,San Antonio,TX,19,Female,19-10-21,Silver
+CUST-5111,Isabella,Johnson,user5111@email.com,San Diego,CA,62,Female,17-05-20,Free
+CUST-5112,Elijah,Johnson,user5112@email.com,Dallas,TX,33,Male,17-12-20,Free
+CUST-5113,Sophia,Wilson,user5113@email.com,New York,NY,36,Female,15-07-23,Free
+CUST-5114,Oliver,Brown,user5114@email.com,Phoenix,AZ,36,Male,10-06-23,Free
+CUST-5115,Oliver,Miller,user5115@email.com,Los Angeles,CA,25,Female,13-03-21,Platinum
+CUST-5116,Isabella,Williams,user5116@email.com,San Diego,CA,52,Female,20-09-21,Free
+CUST-5117,Emma,Jones,user5117@email.com,San Jose,CA,21,Male,06-10-22,Silver
+CUST-5118,Olivia,Johnson,user5118@email.com,Houston,TX,62,Male,03-12-21,Silver
+CUST-5119,Isabella,Garcia,user5119@email.com,Jacksonville,FL,34,Male,20-06-22,Free
+CUST-5120,Elijah,Brown,user5120@email.com,Houston,TX,58,Male,23-07-20,Free
+CUST-5121,Olivia,Wilson,user5121@email.com,San Jose,CA,21,Female,06-04-21,Silver
+CUST-5122,Ava,Garcia,user5122@email.com,Austin,TX,59,Male,26-09-21,Silver
+CUST-5123,Ava,Davis,user5123@email.com,Phoenix,AZ,18,Female,07-02-20,Gold
+CUST-5124,Isabella,Smith,user5124@email.com,San Antonio,TX,62,Male,22-07-22,Platinum
+CUST-5125,James,Smith,user5125@email.com,Dallas,TX,47,Male,02-12-20,Gold
+CUST-5126,Emma,Williams,user5126@email.com,Chicago,IL,31,Female,01-09-23,Free
+CUST-5127,Isabella,Davis,user5127@email.com,Phoenix,AZ,46,Male,27-05-21,Free
+CUST-5128,Elijah,Garcia,user5128@email.com,San Jose,CA,59,Male,17-02-21,Silver
+CUST-5129,Noah,Smith,user5129@email.com,San Jose,CA,29,Female,17-02-20,Platinum
+CUST-5130,Emma,Johnson,user5130@email.com,Phoenix,AZ,20,Male,05-06-23,Free
+CUST-5131,Ava,Jones,user5131@email.com,Dallas,TX,39,Female,14-07-21,Free
+CUST-5132,Emma,Jones,user5132@email.com,San Jose,CA,47,Male,03-12-23,Silver
+CUST-5133,Oliver,Johnson,user5133@email.com,San Antonio,TX,41,Female,19-06-22,Silver
+CUST-5134,Olivia,Davis,user5134@email.com,Phoenix,AZ,57,Male,12-07-22,Silver
+CUST-5135,Oliver,Smith,user5135@email.com,San Diego,CA,43,Female,02-06-23,Free
+CUST-5136,Emma,Smith,user5136@email.com,Dallas,TX,36,Male,10-07-23,Free
+CUST-5137,Olivia,Smith,user5137@email.com,Phoenix,AZ,25,Male,04-06-22,Gold
+CUST-5138,Elijah,Garcia,user5138@email.com,Philadelphia,PA,34,Male,13-01-21,Silver
+CUST-5139,Isabella,Garcia,user5139@email.com,Chicago,IL,64,Female,04-06-22,Gold
+CUST-5140,Ava,Garcia,user5140@email.com,Chicago,IL,35,Female,02-10-20,Free
+CUST-5141,Liam,Davis,user5141@email.com,Austin,TX,62,Male,22-03-21,Free
+CUST-5142,Sophia,Garcia,user5142@email.com,San Diego,CA,24,Female,05-09-20,Silver
+CUST-5143,Sophia,Smith,user5143@email.com,San Jose,CA,56,Female,17-01-23,Silver
+CUST-5144,Emma,Williams,user5144@email.com,Phoenix,AZ,62,Female,09-07-23,Free
+CUST-5145,Liam,Williams,user5145@email.com,Houston,TX,32,Female,25-03-23,Free
+CUST-5146,Isabella,Garcia,user5146@email.com,Chicago,IL,63,Female,17-06-20,Silver
+CUST-5147,Isabella,Jones,user5147@email.com,Philadelphia,PA,35,Female,19-09-22,Free
+CUST-5148,Sophia,Smith,user5148@email.com,Houston,TX,40,Female,09-09-21,Platinum
+CUST-5149,Emma,Williams,user5149@email.com,San Diego,CA,27,Female,16-01-21,Free
+CUST-5150,Olivia,Miller,user5150@email.com,New York,NY,21,Female,20-08-20,Free
+CUST-5151,James,Brown,user5151@email.com,Dallas,TX,59,Male,03-01-21,Silver
+CUST-5152,Sophia,Jones,user5152@email.com,San Antonio,TX,55,Male,17-02-22,Silver
+CUST-5153,Oliver,Williams,user5153@email.com,Philadelphia,PA,55,Male,27-07-23,Silver
+CUST-5154,Elijah,Johnson,user5154@email.com,San Antonio,TX,35,Female,03-12-23,Silver
+CUST-5155,Oliver,Johnson,user5155@email.com,Los Angeles,CA,25,Male,23-01-22,Free
+CUST-5156,Sophia,Wilson,user5156@email.com,San Antonio,TX,20,Male,03-03-22,Free
+CUST-5157,James,Smith,user5157@email.com,Philadelphia,PA,61,Male,23-05-23,Silver
+CUST-5158,Ava,Jones,user5158@email.com,Chicago,IL,34,Male,06-03-23,Platinum
+CUST-5159,Elijah,Johnson,user5159@email.com,Austin,TX,59,Female,02-04-23,Silver
+CUST-5160,Emma,Williams,user5160@email.com,Los Angeles,CA,47,Female,11-04-21,Silver
+CUST-5161,Oliver,Wilson,user5161@email.com,Los Angeles,CA,36,Male,22-06-20,Free
+CUST-5162,Ava,Smith,user5162@email.com,San Antonio,TX,51,Male,22-12-20,Platinum
+CUST-5163,Ava,Williams,user5163@email.com,San Diego,CA,50,Female,28-07-22,Silver
+CUST-5164,Ava,Johnson,user5164@email.com,Dallas,TX,41,Male,16-12-21,Gold
+CUST-5165,Sophia,Miller,user5165@email.com,Jacksonville,FL,54,Female,04-05-22,Free
+CUST-5166,Elijah,Brown,user5166@email.com,Chicago,IL,20,Female,04-06-20,Silver
+CUST-5167,Elijah,Smith,user5167@email.com,Phoenix,AZ,25,Female,13-01-20,Silver
+CUST-5168,Liam,Wilson,user5168@email.com,Phoenix,AZ,46,Male,27-08-20,Free
+CUST-5169,Isabella,Jones,user5169@email.com,Jacksonville,FL,19,Male,28-02-20,Free
+CUST-5170,Emma,Wilson,user5170@email.com,Chicago,IL,28,Female,19-12-21,Free
+CUST-5171,Isabella,Williams,user5171@email.com,Los Angeles,CA,61,Male,06-05-21,Free
+CUST-5172,Emma,Garcia,user5172@email.com,New York,NY,40,Male,15-08-20,Free
+CUST-5173,Noah,Smith,user5173@email.com,San Diego,CA,50,Male,21-11-20,Free
+CUST-5174,Noah,Johnson,user5174@email.com,Los Angeles,CA,37,Female,19-05-23,Free
+CUST-5175,Oliver,Wilson,user5175@email.com,New York,NY,65,Male,09-11-22,Free
+CUST-5176,James,Miller,user5176@email.com,San Antonio,TX,22,Male,22-12-22,Free
+CUST-5177,Liam,Smith,user5177@email.com,Jacksonville,FL,55,Female,28-09-21,Free
+CUST-5178,Ava,Jones,user5178@email.com,San Antonio,TX,30,Male,09-01-23,Silver
+CUST-5179,Olivia,Davis,user5179@email.com,Houston,TX,46,Female,01-02-23,Free
+CUST-5180,Emma,Wilson,user5180@email.com,Philadelphia,PA,43,Female,15-11-21,Gold
+CUST-5181,Isabella,Brown,user5181@email.com,Phoenix,AZ,21,Male,10-04-21,Free
+CUST-5182,Olivia,Brown,user5182@email.com,Austin,TX,41,Male,01-05-21,Free
+CUST-5183,Elijah,Smith,user5183@email.com,Jacksonville,FL,60,Female,07-12-20,Platinum
+CUST-5184,James,Williams,user5184@email.com,Los Angeles,CA,28,Female,09-09-21,Free
+CUST-5185,Noah,Jones,user5185@email.com,San Jose,CA,21,Female,10-09-22,Gold
+CUST-5186,Noah,Garcia,user5186@email.com,Phoenix,AZ,33,Male,06-11-23,Silver
+CUST-5187,Emma,Jones,user5187@email.com,San Jose,CA,61,Female,24-12-20,Free
+CUST-5188,Sophia,Garcia,user5188@email.com,Austin,TX,34,Male,01-09-23,Free
+CUST-5189,Noah,Brown,user5189@email.com,Chicago,IL,35,Female,28-02-21,Silver
+CUST-5190,Elijah,Jones,user5190@email.com,Dallas,TX,59,Female,11-03-23,Silver
+CUST-5191,Olivia,Johnson,user5191@email.com,San Diego,CA,30,Male,20-05-23,Free
+CUST-5192,Isabella,Garcia,user5192@email.com,San Jose,CA,52,Female,08-05-23,Free
+CUST-5193,James,Davis,user5193@email.com,San Diego,CA,27,Female,14-10-23,Free
+CUST-5194,Olivia,Smith,user5194@email.com,Philadelphia,PA,38,Male,11-04-22,Silver
+CUST-5195,Elijah,Miller,user5195@email.com,New York,NY,20,Male,03-05-21,Silver
+CUST-5196,Elijah,Smith,user5196@email.com,Phoenix,AZ,19,Female,19-08-20,Free
+CUST-5197,James,Williams,user5197@email.com,San Diego,CA,41,Male,03-01-20,Silver
+CUST-5198,Sophia,Davis,user5198@email.com,Dallas,TX,58,Female,18-01-20,Free
+CUST-5199,Emma,Jones,user5199@email.com,Houston,TX,47,Female,08-10-22,Silver
+CUST-5200,Ava,Garcia,user5200@email.com,Austin,TX,64,Female,20-12-21,Silver

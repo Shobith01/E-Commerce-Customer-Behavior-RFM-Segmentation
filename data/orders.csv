@@ -1,0 +1,1655 @@
+order_id,customer_id,order_date,category,product_name,unit_price,quantity,discount_pct,final_price,order_total,payment_method,order_status,rating
+ORD-20001,CUST-5001,27-02-24,Books,Business Analytics,39.99,1,0,39.99,39.99,PayPal,Delivered,4
+ORD-20002,CUST-5001,19-03-24,Toys,Action Figure,19.99,2,0,19.99,39.98,Wallet,Delivered,5
+ORD-20003,CUST-5001,05-01-22,Toys,Puzzle 1000pcs,24.99,2,15,21.24,42.48,Wallet,Delivered,5
+ORD-20004,CUST-5001,14-11-22,Home & Kitchen,Blender,64.99,3,0,64.99,194.97,Credit Card,Delivered,
+ORD-20005,CUST-5001,01-07-24,Clothing,Cotton T-Shirt,24.99,4,0,24.99,99.96,Credit Card,Delivered,4
+ORD-20006,CUST-5001,11-05-23,Home & Kitchen,Blender,64.99,2,5,61.74,123.48,UPI,Delivered,5
+ORD-20007,CUST-5002,10-09-23,Home & Kitchen,Blender,64.99,1,15,55.24,55.24,PayPal,Delivered,
+ORD-20008,CUST-5003,20-08-22,Sports,Resistance Bands,19.99,3,0,19.99,59.97,Debit Card,Delivered,5
+ORD-20009,CUST-5003,04-06-22,Electronics,Bluetooth Speaker,49.99,4,5,47.49,189.96,UPI,Delivered,
+ORD-20010,CUST-5003,16-07-23,Sports,Yoga Mat,29.99,3,15,25.49,76.47,UPI,Delivered,4
+ORD-20011,CUST-5003,26-07-23,Sports,Resistance Bands,19.99,3,0,19.99,59.97,UPI,Delivered,5
+ORD-20012,CUST-5003,05-01-23,Toys,Puzzle 1000pcs,24.99,1,10,22.49,22.49,PayPal,Cancelled,3
+ORD-20013,CUST-5003,01-03-22,Home & Kitchen,Coffee Maker,59.99,4,0,59.99,239.96,UPI,Delivered,5
+ORD-20014,CUST-5003,24-06-22,Home & Kitchen,Air Fryer,89.99,1,5,85.49,85.49,Wallet,Delivered,5
+ORD-20015,CUST-5003,17-03-22,Electronics,Smart Watch,199.99,3,10,179.99,539.97,Credit Card,Delivered,
+ORD-20016,CUST-5003,06-04-22,Electronics,Wireless Earbuds,79.99,1,5,75.99,75.99,PayPal,Delivered,5
+ORD-20017,CUST-5003,11-10-23,Sports,Water Bottle,24.99,3,20,19.99,59.97,Wallet,Delivered,
+ORD-20018,CUST-5003,02-12-23,Beauty,Lip Balm Set,14.99,3,5,14.24,42.72,Credit Card,Delivered,4
+ORD-20019,CUST-5004,11-07-24,Home & Kitchen,Non-stick Pan Set,44.99,1,20,35.99,35.99,PayPal,Delivered,5
+ORD-20020,CUST-5004,23-01-23,Home & Kitchen,Coffee Maker,59.99,2,0,59.99,119.98,Debit Card,Delivered,5
+ORD-20021,CUST-5004,22-03-22,Home & Kitchen,Non-stick Pan Set,44.99,4,15,38.24,152.96,Credit Card,Delivered,5
+ORD-20022,CUST-5004,19-09-24,Beauty,Hair Mask,24.99,4,0,24.99,99.96,Credit Card,Delivered,1
+ORD-20023,CUST-5004,16-03-24,Clothing,Running Shoes,89.99,2,10,80.99,161.98,UPI,Delivered,4
+ORD-20024,CUST-5004,07-11-24,Books,Fiction Novel,14.99,1,10,13.49,13.49,Credit Card,Delivered,5
+ORD-20025,CUST-5004,20-01-23,Beauty,Face Serum,39.99,4,10,35.99,143.96,Wallet,Delivered,
+ORD-20026,CUST-5004,13-03-24,Beauty,Hair Mask,24.99,2,15,21.24,42.48,Wallet,Delivered,4
+ORD-20027,CUST-5004,27-02-22,Clothing,Yoga Pants,44.99,2,5,42.74,85.48,UPI,Delivered,3
+ORD-20028,CUST-5004,01-03-22,Clothing,Yoga Pants,44.99,1,0,44.99,44.99,Debit Card,Delivered,5
+ORD-20029,CUST-5004,12-04-23,Beauty,Face Serum,39.99,3,20,31.99,95.97,Credit Card,Processing,
+ORD-20030,CUST-5004,16-06-23,Electronics,Smart Watch,199.99,4,20,159.99,639.96,UPI,Delivered,5
+ORD-20031,CUST-5004,06-10-22,Toys,Action Figure,19.99,4,0,19.99,79.96,Debit Card,Delivered,5
+ORD-20032,CUST-5005,10-10-23,Beauty,Moisturizer SPF 50,29.99,3,20,23.99,71.97,Wallet,Delivered,
+ORD-20033,CUST-5005,10-10-24,Clothing,Running Shoes,89.99,1,0,89.99,89.99,UPI,Delivered,5
+ORD-20034,CUST-5005,11-09-22,Sports,Jump Rope,14.99,2,0,14.99,29.98,Credit Card,Delivered,3
+ORD-20035,CUST-5005,13-11-22,Books,Fiction Novel,14.99,1,15,12.74,12.74,UPI,Delivered,5
+ORD-20036,CUST-5005,21-10-23,Beauty,Moisturizer SPF 50,29.99,1,20,23.99,23.99,PayPal,Delivered,3
+ORD-20037,CUST-5005,14-10-24,Home & Kitchen,Air Fryer,89.99,2,20,71.99,143.98,Debit Card,Delivered,5
+ORD-20038,CUST-5005,13-01-23,Electronics,Bluetooth Speaker,49.99,1,15,42.49,42.49,Wallet,Delivered,
+ORD-20039,CUST-5005,24-03-23,Electronics,Wireless Earbuds,79.99,3,5,75.99,227.97,Wallet,Delivered,5
+ORD-20040,CUST-5005,18-08-23,Toys,LEGO Classic Set,49.99,3,20,39.99,119.97,UPI,Delivered,
+ORD-20041,CUST-5006,18-03-22,Sports,Resistance Bands,19.99,1,15,16.99,16.99,Debit Card,Delivered,4
+ORD-20042,CUST-5006,10-07-24,Clothing,Cotton T-Shirt,24.99,4,0,24.99,99.96,Credit Card,Delivered,
+ORD-20043,CUST-5006,03-01-24,Books,Data Science Handbook,49.99,1,0,49.99,49.99,Wallet,Delivered,4
+ORD-20044,CUST-5006,27-08-22,Books,Business Analytics,39.99,4,15,33.99,135.96,Debit Card,Delivered,5
+ORD-20045,CUST-5006,23-06-22,Sports,Jump Rope,14.99,2,15,12.74,25.48,Credit Card,Delivered,5
+ORD-20046,CUST-5006,26-08-24,Home & Kitchen,Air Fryer,89.99,1,15,76.49,76.49,Debit Card,Processing,5
+ORD-20047,CUST-5006,19-08-22,Toys,Action Figure,19.99,4,0,19.99,79.96,Debit Card,Delivered,5
+ORD-20048,CUST-5006,18-03-23,Home & Kitchen,Coffee Maker,59.99,4,0,59.99,239.96,UPI,Delivered,3
+ORD-20049,CUST-5006,11-06-22,Sports,Yoga Mat,29.99,4,0,29.99,119.96,PayPal,Delivered,3
+ORD-20050,CUST-5006,27-02-22,Home & Kitchen,Non-stick Pan Set,44.99,2,0,44.99,89.98,Debit Card,Delivered,
+ORD-20051,CUST-5006,24-05-23,Home & Kitchen,Air Fryer,89.99,1,0,89.99,89.99,Credit Card,Returned,
+ORD-20052,CUST-5006,24-07-23,Sports,Jump Rope,14.99,2,5,14.24,28.48,Wallet,Shipped,5
+ORD-20053,CUST-5006,07-04-24,Beauty,Moisturizer SPF 50,29.99,2,10,26.99,53.98,PayPal,Delivered,
+ORD-20054,CUST-5007,19-03-22,Sports,Water Bottle,24.99,2,0,24.99,49.98,Wallet,Delivered,
+ORD-20055,CUST-5007,05-04-24,Sports,Resistance Bands,19.99,2,0,19.99,39.98,Debit Card,Delivered,5
+ORD-20056,CUST-5007,12-12-23,Sports,Water Bottle,24.99,3,20,19.99,59.97,UPI,Delivered,
+ORD-20057,CUST-5007,08-12-22,Clothing,Yoga Pants,44.99,4,20,35.99,143.96,UPI,Delivered,
+ORD-20058,CUST-5007,23-06-23,Home & Kitchen,Air Fryer,89.99,4,0,89.99,359.96,Debit Card,Shipped,5
+ORD-20059,CUST-5007,15-02-22,Clothing,Denim Jacket,69.99,2,20,55.99,111.98,Credit Card,Delivered,
+ORD-20060,CUST-5007,19-04-22,Books,Fiction Novel,14.99,1,10,13.49,13.49,Wallet,Delivered,5
+ORD-20061,CUST-5007,10-11-24,Beauty,Hair Mask,24.99,4,15,21.24,84.96,Credit Card,Delivered,
+ORD-20062,CUST-5007,11-07-23,Sports,Jump Rope,14.99,2,20,11.99,23.98,Debit Card,Delivered,4
+ORD-20063,CUST-5007,18-02-22,Beauty,Moisturizer SPF 50,29.99,2,0,29.99,59.98,Debit Card,Delivered,5
+ORD-20064,CUST-5007,12-04-24,Toys,Action Figure,19.99,2,10,17.99,35.98,Credit Card,Delivered,3
+ORD-20065,CUST-5008,27-10-22,Electronics,USB-C Hub,34.99,3,15,29.74,89.22,Credit Card,Delivered,
+ORD-20066,CUST-5008,06-08-23,Electronics,Smart Watch,199.99,4,0,199.99,799.96,Wallet,Delivered,5
+ORD-20067,CUST-5008,09-03-22,Toys,Remote Control Car,39.99,4,5,37.99,151.96,PayPal,Delivered,5
+ORD-20068,CUST-5008,02-08-23,Home & Kitchen,Blender,64.99,3,0,64.99,194.97,PayPal,Delivered,5
+ORD-20069,CUST-5008,06-11-23,Toys,Remote Control Car,39.99,4,0,39.99,159.96,Debit Card,Delivered,4
+ORD-20070,CUST-5008,01-05-24,Books,Business Analytics,39.99,3,5,37.99,113.97,Credit Card,Delivered,
+ORD-20071,CUST-5008,06-12-22,Books,Python for Beginners,29.99,3,0,29.99,89.97,UPI,Delivered,5
+ORD-20072,CUST-5008,13-11-22,Books,Python for Beginners,29.99,3,0,29.99,89.97,UPI,Delivered,
+ORD-20073,CUST-5009,25-05-22,Toys,Puzzle 1000pcs,24.99,1,15,21.24,21.24,Debit Card,Delivered,4
+ORD-20074,CUST-5009,20-03-23,Beauty,Lip Balm Set,14.99,4,20,11.99,47.96,Wallet,Delivered,4
+ORD-20075,CUST-5009,04-04-23,Toys,Action Figure,19.99,1,15,16.99,16.99,UPI,Delivered,4
+ORD-20076,CUST-5009,20-01-24,Toys,Remote Control Car,39.99,4,20,31.99,127.96,UPI,Shipped,5
+ORD-20077,CUST-5009,22-06-23,Home & Kitchen,Blender,64.99,1,0,64.99,64.99,PayPal,Returned,4
+ORD-20078,CUST-5009,13-02-22,Beauty,Hair Mask,24.99,2,0,24.99,49.98,UPI,Delivered,5
+ORD-20079,CUST-5009,24-07-23,Toys,LEGO Classic Set,49.99,3,0,49.99,149.97,Wallet,Delivered,5
+ORD-20080,CUST-5009,27-06-23,Electronics,USB-C Hub,34.99,2,0,34.99,69.98,PayPal,Delivered,3
+ORD-20081,CUST-5009,13-04-22,Home & Kitchen,Coffee Maker,59.99,1,15,50.99,50.99,Wallet,Delivered,4
+ORD-20082,CUST-5009,17-11-24,Beauty,Hair Mask,24.99,3,20,19.99,59.97,UPI,Delivered,5
+ORD-20083,CUST-5009,02-04-23,Home & Kitchen,Air Fryer,89.99,3,5,85.49,256.47,UPI,Delivered,5
+ORD-20084,CUST-5009,18-07-24,Clothing,Running Shoes,89.99,3,5,85.49,256.47,PayPal,Delivered,5
+ORD-20085,CUST-5009,19-12-22,Books,Business Analytics,39.99,4,0,39.99,159.96,Credit Card,Delivered,
+ORD-20086,CUST-5009,12-05-24,Electronics,Smart Watch,199.99,4,10,179.99,719.96,Debit Card,Delivered,4
+ORD-20087,CUST-5010,19-05-22,Books,Python for Beginners,29.99,1,20,23.99,23.99,Debit Card,Delivered,5
+ORD-20088,CUST-5010,13-10-24,Home & Kitchen,Air Fryer,89.99,3,0,89.99,269.97,PayPal,Delivered,3
+ORD-20089,CUST-5010,01-10-22,Electronics,Bluetooth Speaker,49.99,2,5,47.49,94.98,UPI,Delivered,2
+ORD-20090,CUST-5010,17-05-23,Beauty,Moisturizer SPF 50,29.99,3,0,29.99,89.97,PayPal,Delivered,3
+ORD-20091,CUST-5010,16-01-23,Toys,Action Figure,19.99,2,5,18.99,37.98,PayPal,Delivered,4
+ORD-20092,CUST-5010,15-05-23,Toys,Action Figure,19.99,4,10,17.99,71.96,PayPal,Delivered,5
+ORD-20093,CUST-5011,18-09-24,Beauty,Moisturizer SPF 50,29.99,2,5,28.49,56.98,Credit Card,Delivered,4
+ORD-20094,CUST-5011,09-12-24,Beauty,Moisturizer SPF 50,29.99,3,0,29.99,89.97,PayPal,Delivered,3
+ORD-20095,CUST-5011,20-09-23,Home & Kitchen,Non-stick Pan Set,44.99,2,15,38.24,76.48,PayPal,Delivered,3
+ORD-20096,CUST-5011,14-07-22,Sports,Water Bottle,24.99,3,20,19.99,59.97,Wallet,Delivered,3
+ORD-20097,CUST-5012,21-07-23,Sports,Yoga Mat,29.99,2,10,26.99,53.98,Wallet,Delivered,4
+ORD-20098,CUST-5012,28-11-22,Beauty,Face Serum,39.99,3,0,39.99,119.97,Wallet,Delivered,4
+ORD-20099,CUST-5012,13-08-24,Toys,Remote Control Car,39.99,2,0,39.99,79.98,PayPal,Delivered,5
+ORD-20100,CUST-5012,09-12-24,Sports,Resistance Bands,19.99,3,5,18.99,56.97,UPI,Delivered,5
+ORD-20101,CUST-5012,06-08-22,Home & Kitchen,Non-stick Pan Set,44.99,3,0,44.99,134.97,UPI,Delivered,5
+ORD-20102,CUST-5012,28-09-23,Clothing,Denim Jacket,69.99,1,0,69.99,69.99,Wallet,Delivered,
+ORD-20103,CUST-5012,16-01-22,Sports,Water Bottle,24.99,1,0,24.99,24.99,UPI,Delivered,3
+ORD-20104,CUST-5012,11-02-24,Books,Fiction Novel,14.99,3,10,13.49,40.47,Credit Card,Delivered,3
+ORD-20105,CUST-5012,05-02-24,Books,Python for Beginners,29.99,3,0,29.99,89.97,UPI,Shipped,4
+ORD-20106,CUST-5012,01-09-23,Clothing,Yoga Pants,44.99,3,0,44.99,134.97,Wallet,Shipped,
+ORD-20107,CUST-5012,26-12-22,Home & Kitchen,Blender,64.99,2,10,58.49,116.98,UPI,Delivered,4
+ORD-20108,CUST-5012,01-07-22,Toys,LEGO Classic Set,49.99,2,10,44.99,89.98,Credit Card,Delivered,5
+ORD-20109,CUST-5013,10-10-23,Clothing,Yoga Pants,44.99,1,0,44.99,44.99,Credit Card,Delivered,5
+ORD-20110,CUST-5013,19-09-23,Sports,Water Bottle,24.99,3,5,23.74,71.22,UPI,Delivered,
+ORD-20111,CUST-5013,14-04-24,Clothing,Yoga Pants,44.99,4,0,44.99,179.96,Wallet,Delivered,5
+ORD-20112,CUST-5013,10-05-24,Sports,Yoga Mat,29.99,2,15,25.49,50.98,Debit Card,Delivered,5
+ORD-20113,CUST-5013,22-07-23,Home & Kitchen,Non-stick Pan Set,44.99,1,5,42.74,42.74,Credit Card,Delivered,4
+ORD-20114,CUST-5013,02-08-22,Electronics,USB-C Hub,34.99,1,0,34.99,34.99,Credit Card,Delivered,4
+ORD-20115,CUST-5013,27-12-23,Books,Data Science Handbook,49.99,3,0,49.99,149.97,Wallet,Delivered,
+ORD-20116,CUST-5013,24-05-24,Toys,LEGO Classic Set,49.99,1,0,49.99,49.99,Debit Card,Delivered,5
+ORD-20117,CUST-5013,09-05-24,Home & Kitchen,Non-stick Pan Set,44.99,1,0,44.99,44.99,Debit Card,Delivered,2
+ORD-20118,CUST-5013,08-01-24,Toys,Action Figure,19.99,4,20,15.99,63.96,Wallet,Delivered,3
+ORD-20119,CUST-5014,13-11-24,Clothing,Running Shoes,89.99,4,0,89.99,359.96,Debit Card,Delivered,5
+ORD-20120,CUST-5014,14-09-23,Books,Python for Beginners,29.99,2,10,26.99,53.98,Debit Card,Delivered,4
+ORD-20121,CUST-5014,23-02-23,Beauty,Face Serum,39.99,3,0,39.99,119.97,PayPal,Delivered,5
+ORD-20122,CUST-5015,13-11-24,Clothing,Running Shoes,89.99,4,5,85.49,341.96,UPI,Cancelled,4
+ORD-20123,CUST-5015,23-09-22,Home & Kitchen,Non-stick Pan Set,44.99,4,5,42.74,170.96,Wallet,Delivered,4
+ORD-20124,CUST-5015,21-06-24,Toys,Action Figure,19.99,1,15,16.99,16.99,Debit Card,Delivered,5
+ORD-20125,CUST-5015,27-05-24,Electronics,USB-C Hub,34.99,4,20,27.99,111.96,Wallet,Delivered,3
+ORD-20126,CUST-5015,11-02-24,Sports,Yoga Mat,29.99,2,0,29.99,59.98,Wallet,Delivered,
+ORD-20127,CUST-5015,23-03-23,Books,Python for Beginners,29.99,1,20,23.99,23.99,Credit Card,Delivered,3
+ORD-20128,CUST-5015,14-04-24,Toys,LEGO Classic Set,49.99,2,0,49.99,99.98,Debit Card,Delivered,3
+ORD-20129,CUST-5015,27-07-22,Toys,Puzzle 1000pcs,24.99,2,0,24.99,49.98,Credit Card,Delivered,5
+ORD-20130,CUST-5015,23-12-24,Clothing,Yoga Pants,44.99,2,10,40.49,80.98,UPI,Returned,
+ORD-20131,CUST-5015,10-06-22,Toys,Remote Control Car,39.99,4,15,33.99,135.96,Wallet,Delivered,4
+ORD-20132,CUST-5016,26-04-23,Beauty,Lip Balm Set,14.99,3,15,12.74,38.22,PayPal,Shipped,5
+ORD-20133,CUST-5016,03-04-23,Sports,Water Bottle,24.99,1,0,24.99,24.99,UPI,Delivered,4
+ORD-20134,CUST-5016,19-02-22,Books,Fiction Novel,14.99,4,20,11.99,47.96,Wallet,Processing,5
+ORD-20135,CUST-5016,07-01-24,Books,Python for Beginners,29.99,2,5,28.49,56.98,Debit Card,Delivered,5
+ORD-20136,CUST-5016,16-06-23,Beauty,Face Serum,39.99,4,0,39.99,159.96,UPI,Delivered,
+ORD-20137,CUST-5016,04-05-24,Electronics,USB-C Hub,34.99,2,10,31.49,62.98,Credit Card,Delivered,
+ORD-20138,CUST-5016,12-08-24,Beauty,Moisturizer SPF 50,29.99,4,0,29.99,119.96,UPI,Delivered,3
+ORD-20139,CUST-5016,22-10-23,Clothing,Cotton T-Shirt,24.99,1,10,22.49,22.49,Wallet,Delivered,2
+ORD-20140,CUST-5017,05-02-24,Electronics,Bluetooth Speaker,49.99,2,0,49.99,99.98,UPI,Delivered,4
+ORD-20141,CUST-5017,14-12-23,Home & Kitchen,Air Fryer,89.99,4,10,80.99,323.96,UPI,Delivered,4
+ORD-20142,CUST-5018,06-03-23,Electronics,Bluetooth Speaker,49.99,3,0,49.99,149.97,UPI,Shipped,4
+ORD-20143,CUST-5018,09-08-22,Sports,Jump Rope,14.99,3,10,13.49,40.47,Debit Card,Shipped,
+ORD-20144,CUST-5018,10-05-22,Electronics,Smart Watch,199.99,3,0,199.99,599.97,Debit Card,Delivered,5
+ORD-20145,CUST-5018,12-10-24,Sports,Yoga Mat,29.99,4,0,29.99,119.96,Wallet,Delivered,3
+ORD-20146,CUST-5018,07-02-22,Beauty,Moisturizer SPF 50,29.99,4,5,28.49,113.96,Wallet,Returned,
+ORD-20147,CUST-5018,14-05-24,Home & Kitchen,Coffee Maker,59.99,4,5,56.99,227.96,Credit Card,Delivered,4
+ORD-20148,CUST-5018,01-02-22,Clothing,Cotton T-Shirt,24.99,3,10,22.49,67.47,Wallet,Shipped,5
+ORD-20149,CUST-5018,27-08-22,Beauty,Moisturizer SPF 50,29.99,1,10,26.99,26.99,Wallet,Delivered,3
+ORD-20150,CUST-5018,24-04-22,Beauty,Moisturizer SPF 50,29.99,3,0,29.99,89.97,PayPal,Delivered,5
+ORD-20151,CUST-5019,27-09-23,Home & Kitchen,Coffee Maker,59.99,2,0,59.99,119.98,Wallet,Delivered,3
+ORD-20152,CUST-5019,03-05-23,Sports,Yoga Mat,29.99,2,0,29.99,59.98,Credit Card,Delivered,5
+ORD-20153,CUST-5019,07-09-23,Beauty,Lip Balm Set,14.99,1,0,14.99,14.99,PayPal,Delivered,4
+ORD-20154,CUST-5019,06-05-24,Home & Kitchen,Non-stick Pan Set,44.99,2,5,42.74,85.48,Wallet,Delivered,3
+ORD-20155,CUST-5019,07-09-22,Electronics,Bluetooth Speaker,49.99,2,10,44.99,89.98,Debit Card,Delivered,
+ORD-20156,CUST-5019,19-08-24,Toys,Action Figure,19.99,4,20,15.99,63.96,UPI,Processing,
+ORD-20157,CUST-5019,13-09-23,Electronics,Smart Watch,199.99,1,10,179.99,179.99,Wallet,Returned,
+ORD-20158,CUST-5019,18-12-24,Toys,Puzzle 1000pcs,24.99,2,0,24.99,49.98,Wallet,Delivered,
+ORD-20159,CUST-5019,14-07-23,Electronics,Wireless Earbuds,79.99,3,20,63.99,191.97,Wallet,Delivered,4
+ORD-20160,CUST-5019,07-12-22,Clothing,Running Shoes,89.99,2,5,85.49,170.98,Credit Card,Delivered,4
+ORD-20161,CUST-5019,01-10-23,Toys,Puzzle 1000pcs,24.99,3,0,24.99,74.97,Credit Card,Delivered,
+ORD-20162,CUST-5019,05-08-24,Home & Kitchen,Air Fryer,89.99,1,10,80.99,80.99,PayPal,Delivered,
+ORD-20163,CUST-5020,07-02-23,Beauty,Lip Balm Set,14.99,1,10,13.49,13.49,Debit Card,Delivered,4
+ORD-20164,CUST-5020,21-03-23,Electronics,Bluetooth Speaker,49.99,1,10,44.99,44.99,PayPal,Delivered,4
+ORD-20165,CUST-5020,07-04-22,Toys,Remote Control Car,39.99,3,10,35.99,107.97,UPI,Delivered,4
+ORD-20166,CUST-5020,12-05-22,Beauty,Hair Mask,24.99,4,20,19.99,79.96,Wallet,Cancelled,
+ORD-20167,CUST-5020,25-02-22,Clothing,Denim Jacket,69.99,2,5,66.49,132.98,Credit Card,Delivered,3
+ORD-20168,CUST-5020,21-07-22,Home & Kitchen,Non-stick Pan Set,44.99,3,0,44.99,134.97,Debit Card,Delivered,3
+ORD-20169,CUST-5020,03-06-24,Books,Data Science Handbook,49.99,4,15,42.49,169.96,Debit Card,Delivered,5
+ORD-20170,CUST-5020,27-03-23,Beauty,Hair Mask,24.99,1,0,24.99,24.99,PayPal,Delivered,5
+ORD-20171,CUST-5020,13-05-22,Electronics,Smart Watch,199.99,1,0,199.99,199.99,Wallet,Delivered,
+ORD-20172,CUST-5020,03-09-23,Books,Data Science Handbook,49.99,1,10,44.99,44.99,Wallet,Shipped,4
+ORD-20173,CUST-5020,16-03-22,Home & Kitchen,Coffee Maker,59.99,4,0,59.99,239.96,UPI,Delivered,5
+ORD-20174,CUST-5020,19-05-22,Sports,Yoga Mat,29.99,3,20,23.99,71.97,Debit Card,Delivered,
+ORD-20175,CUST-5020,02-07-24,Toys,Puzzle 1000pcs,24.99,4,15,21.24,84.96,Wallet,Delivered,3
+ORD-20176,CUST-5020,02-10-22,Electronics,Smart Watch,199.99,3,0,199.99,599.97,PayPal,Processing,
+ORD-20177,CUST-5020,27-07-22,Toys,Remote Control Car,39.99,2,15,33.99,67.98,Wallet,Delivered,3
+ORD-20178,CUST-5021,21-05-22,Toys,LEGO Classic Set,49.99,3,5,47.49,142.47,UPI,Shipped,3
+ORD-20179,CUST-5021,16-11-22,Clothing,Yoga Pants,44.99,2,10,40.49,80.98,UPI,Delivered,5
+ORD-20180,CUST-5021,05-03-22,Home & Kitchen,Non-stick Pan Set,44.99,4,20,35.99,143.96,UPI,Delivered,3
+ORD-20181,CUST-5021,01-06-23,Home & Kitchen,Air Fryer,89.99,2,0,89.99,179.98,Credit Card,Delivered,3
+ORD-20182,CUST-5022,28-09-23,Clothing,Running Shoes,89.99,4,5,85.49,341.96,Debit Card,Shipped,5
+ORD-20183,CUST-5022,05-06-23,Books,Python for Beginners,29.99,1,10,26.99,26.99,UPI,Delivered,4
+ORD-20184,CUST-5022,13-01-22,Toys,Action Figure,19.99,4,0,19.99,79.96,UPI,Processing,
+ORD-20185,CUST-5022,24-01-23,Home & Kitchen,Blender,64.99,4,15,55.24,220.96,Credit Card,Delivered,3
+ORD-20186,CUST-5022,15-02-24,Beauty,Face Serum,39.99,1,0,39.99,39.99,Credit Card,Delivered,5
+ORD-20187,CUST-5022,15-06-23,Clothing,Running Shoes,89.99,1,0,89.99,89.99,PayPal,Delivered,5
+ORD-20188,CUST-5022,16-10-22,Sports,Water Bottle,24.99,1,0,24.99,24.99,Wallet,Returned,
+ORD-20189,CUST-5022,14-05-23,Home & Kitchen,Blender,64.99,4,0,64.99,259.96,Debit Card,Delivered,4
+ORD-20190,CUST-5022,25-03-23,Electronics,Wireless Earbuds,79.99,2,5,75.99,151.98,Debit Card,Delivered,5
+ORD-20191,CUST-5022,10-07-22,Clothing,Denim Jacket,69.99,2,20,55.99,111.98,Wallet,Delivered,
+ORD-20192,CUST-5022,01-09-22,Toys,Puzzle 1000pcs,24.99,3,20,19.99,59.97,UPI,Cancelled,
+ORD-20193,CUST-5022,26-10-22,Clothing,Denim Jacket,69.99,2,10,62.99,125.98,Wallet,Returned,5
+ORD-20194,CUST-5023,11-04-23,Home & Kitchen,Coffee Maker,59.99,4,0,59.99,239.96,Wallet,Delivered,
+ORD-20195,CUST-5023,18-05-24,Electronics,USB-C Hub,34.99,3,15,29.74,89.22,UPI,Delivered,3
+ORD-20196,CUST-5023,27-08-24,Electronics,Wireless Earbuds,79.99,1,0,79.99,79.99,PayPal,Shipped,5
+ORD-20197,CUST-5023,06-05-24,Toys,Remote Control Car,39.99,3,5,37.99,113.97,UPI,Delivered,
+ORD-20198,CUST-5023,05-09-22,Toys,Remote Control Car,39.99,1,0,39.99,39.99,Debit Card,Delivered,3
+ORD-20199,CUST-5023,11-02-23,Books,Fiction Novel,14.99,2,0,14.99,29.98,Wallet,Shipped,
+ORD-20200,CUST-5023,27-09-23,Toys,Puzzle 1000pcs,24.99,1,15,21.24,21.24,Wallet,Shipped,5
+ORD-20201,CUST-5023,07-07-24,Toys,Puzzle 1000pcs,24.99,2,0,24.99,49.98,Credit Card,Delivered,5
+ORD-20202,CUST-5023,07-06-22,Books,Data Science Handbook,49.99,4,0,49.99,199.96,Credit Card,Delivered,
+ORD-20203,CUST-5023,03-03-24,Electronics,Wireless Earbuds,79.99,3,20,63.99,191.97,UPI,Processing,3
+ORD-20204,CUST-5023,01-06-22,Sports,Jump Rope,14.99,2,0,14.99,29.98,UPI,Delivered,4
+ORD-20205,CUST-5024,06-10-23,Electronics,Smart Watch,199.99,4,0,199.99,799.96,Wallet,Delivered,
+ORD-20206,CUST-5024,15-01-23,Home & Kitchen,Blender,64.99,2,0,64.99,129.98,Debit Card,Delivered,5
+ORD-20207,CUST-5024,02-11-23,Clothing,Cotton T-Shirt,24.99,2,0,24.99,49.98,PayPal,Delivered,3
+ORD-20208,CUST-5024,08-08-24,Books,Data Science Handbook,49.99,1,20,39.99,39.99,UPI,Delivered,3
+ORD-20209,CUST-5024,18-06-22,Books,Fiction Novel,14.99,1,5,14.24,14.24,Debit Card,Delivered,5
+ORD-20210,CUST-5024,16-06-23,Electronics,USB-C Hub,34.99,2,5,33.24,66.48,UPI,Delivered,3
+ORD-20211,CUST-5024,19-08-24,Clothing,Denim Jacket,69.99,3,5,66.49,199.47,Wallet,Delivered,4
+ORD-20212,CUST-5024,25-08-24,Sports,Yoga Mat,29.99,3,10,26.99,80.97,Debit Card,Delivered,
+ORD-20213,CUST-5024,05-09-22,Beauty,Hair Mask,24.99,1,0,24.99,24.99,UPI,Delivered,5
+ORD-20214,CUST-5024,14-02-23,Clothing,Cotton T-Shirt,24.99,2,10,22.49,44.98,Wallet,Delivered,5
+ORD-20215,CUST-5024,24-01-23,Electronics,Bluetooth Speaker,49.99,4,0,49.99,199.96,Debit Card,Delivered,5
+ORD-20216,CUST-5024,13-08-23,Home & Kitchen,Non-stick Pan Set,44.99,4,5,42.74,170.96,UPI,Delivered,4
+ORD-20217,CUST-5024,04-03-22,Clothing,Cotton T-Shirt,24.99,1,0,24.99,24.99,Wallet,Delivered,
+ORD-20218,CUST-5024,20-11-24,Books,Python for Beginners,29.99,3,0,29.99,89.97,UPI,Delivered,
+ORD-20219,CUST-5024,12-01-23,Clothing,Denim Jacket,69.99,2,0,69.99,139.98,Wallet,Delivered,5
+ORD-20220,CUST-5025,05-04-24,Sports,Resistance Bands,19.99,3,10,17.99,53.97,UPI,Delivered,5
+ORD-20221,CUST-5025,20-05-22,Home & Kitchen,Non-stick Pan Set,44.99,3,10,40.49,121.47,Debit Card,Delivered,5
+ORD-20222,CUST-5025,28-03-23,Sports,Resistance Bands,19.99,2,0,19.99,39.98,Credit Card,Delivered,4
+ORD-20223,CUST-5026,07-02-24,Clothing,Denim Jacket,69.99,2,0,69.99,139.98,Wallet,Delivered,4
+ORD-20224,CUST-5026,15-11-24,Toys,LEGO Classic Set,49.99,2,0,49.99,99.98,Wallet,Delivered,4
+ORD-20225,CUST-5026,13-08-23,Electronics,USB-C Hub,34.99,4,0,34.99,139.96,UPI,Delivered,4
+ORD-20226,CUST-5026,13-06-22,Home & Kitchen,Coffee Maker,59.99,3,0,59.99,179.97,Wallet,Delivered,
+ORD-20227,CUST-5027,02-08-24,Toys,Puzzle 1000pcs,24.99,4,5,23.74,94.96,Debit Card,Delivered,3
+ORD-20228,CUST-5027,13-05-23,Books,Business Analytics,39.99,1,0,39.99,39.99,Debit Card,Delivered,
+ORD-20229,CUST-5028,13-08-24,Clothing,Cotton T-Shirt,24.99,4,0,24.99,99.96,Credit Card,Delivered,4
+ORD-20230,CUST-5028,16-11-22,Books,Python for Beginners,29.99,3,15,25.49,76.47,Credit Card,Delivered,4
+ORD-20231,CUST-5028,21-01-22,Clothing,Denim Jacket,69.99,2,0,69.99,139.98,UPI,Delivered,4
+ORD-20232,CUST-5028,13-01-23,Beauty,Lip Balm Set,14.99,1,0,14.99,14.99,PayPal,Shipped,5
+ORD-20233,CUST-5028,03-05-22,Sports,Water Bottle,24.99,4,10,22.49,89.96,PayPal,Delivered,4
+ORD-20234,CUST-5028,24-11-23,Clothing,Cotton T-Shirt,24.99,3,0,24.99,74.97,Debit Card,Delivered,
+ORD-20235,CUST-5028,19-02-22,Clothing,Running Shoes,89.99,4,20,71.99,287.96,UPI,Delivered,
+ORD-20236,CUST-5028,15-07-22,Toys,Remote Control Car,39.99,1,0,39.99,39.99,PayPal,Shipped,5
+ORD-20237,CUST-5029,01-03-22,Home & Kitchen,Non-stick Pan Set,44.99,2,15,38.24,76.48,Debit Card,Delivered,5
+ORD-20238,CUST-5029,06-11-23,Toys,Puzzle 1000pcs,24.99,3,0,24.99,74.97,PayPal,Delivered,4
+ORD-20239,CUST-5029,03-10-23,Toys,Puzzle 1000pcs,24.99,1,0,24.99,24.99,UPI,Shipped,4
+ORD-20240,CUST-5029,04-09-24,Electronics,Smart Watch,199.99,2,10,179.99,359.98,Debit Card,Delivered,4
+ORD-20241,CUST-5029,13-11-23,Beauty,Hair Mask,24.99,3,10,22.49,67.47,PayPal,Delivered,5
+ORD-20242,CUST-5029,17-10-22,Toys,Remote Control Car,39.99,1,20,31.99,31.99,PayPal,Processing,
+ORD-20243,CUST-5029,02-03-24,Clothing,Cotton T-Shirt,24.99,3,15,21.24,63.72,Wallet,Delivered,5
+ORD-20244,CUST-5029,13-08-22,Home & Kitchen,Non-stick Pan Set,44.99,2,5,42.74,85.48,UPI,Delivered,
+ORD-20245,CUST-5029,18-07-24,Books,Data Science Handbook,49.99,1,20,39.99,39.99,Wallet,Delivered,4
+ORD-20246,CUST-5029,17-08-24,Clothing,Running Shoes,89.99,1,20,71.99,71.99,Debit Card,Delivered,
+ORD-20247,CUST-5029,09-04-23,Clothing,Denim Jacket,69.99,4,0,69.99,279.96,UPI,Processing,5
+ORD-20248,CUST-5029,05-10-22,Books,Python for Beginners,29.99,2,5,28.49,56.98,Debit Card,Delivered,
+ORD-20249,CUST-5029,05-09-22,Sports,Yoga Mat,29.99,4,0,29.99,119.96,Credit Card,Processing,3
+ORD-20250,CUST-5029,15-01-22,Toys,LEGO Classic Set,49.99,2,5,47.49,94.98,PayPal,Delivered,
+ORD-20251,CUST-5029,23-08-22,Clothing,Running Shoes,89.99,2,0,89.99,179.98,UPI,Delivered,3
+ORD-20252,CUST-5030,08-12-23,Clothing,Denim Jacket,69.99,3,5,66.49,199.47,Wallet,Delivered,4
+ORD-20253,CUST-5030,18-02-22,Books,Fiction Novel,14.99,2,0,14.99,29.98,UPI,Delivered,2
+ORD-20254,CUST-5030,25-08-24,Books,Python for Beginners,29.99,1,5,28.49,28.49,PayPal,Delivered,4
+ORD-20255,CUST-5031,13-09-23,Electronics,USB-C Hub,34.99,2,0,34.99,69.98,Debit Card,Shipped,5
+ORD-20256,CUST-5031,17-10-22,Beauty,Moisturizer SPF 50,29.99,3,15,25.49,76.47,Credit Card,Delivered,4
+ORD-20257,CUST-5031,15-03-23,Clothing,Yoga Pants,44.99,2,20,35.99,71.98,Debit Card,Delivered,1
+ORD-20258,CUST-5031,28-02-23,Toys,Remote Control Car,39.99,3,0,39.99,119.97,Debit Card,Shipped,3
+ORD-20259,CUST-5031,06-11-22,Sports,Jump Rope,14.99,3,10,13.49,40.47,PayPal,Delivered,
+ORD-20260,CUST-5031,21-09-22,Beauty,Lip Balm Set,14.99,3,0,14.99,44.97,Wallet,Delivered,
+ORD-20261,CUST-5031,23-11-23,Electronics,Smart Watch,199.99,2,15,169.99,339.98,Wallet,Delivered,5
+ORD-20262,CUST-5031,16-10-24,Electronics,Smart Watch,199.99,1,20,159.99,159.99,PayPal,Delivered,
+ORD-20263,CUST-5031,07-07-23,Toys,LEGO Classic Set,49.99,2,15,42.49,84.98,Wallet,Delivered,4
+ORD-20264,CUST-5032,26-01-22,Electronics,Wireless Earbuds,79.99,1,10,71.99,71.99,Wallet,Delivered,4
+ORD-20265,CUST-5032,14-09-22,Sports,Yoga Mat,29.99,1,0,29.99,29.99,Debit Card,Delivered,3
+ORD-20266,CUST-5032,21-08-24,Home & Kitchen,Air Fryer,89.99,1,0,89.99,89.99,Wallet,Delivered,5
+ORD-20267,CUST-5032,25-07-23,Beauty,Hair Mask,24.99,1,0,24.99,24.99,Wallet,Delivered,
+ORD-20268,CUST-5032,13-04-24,Electronics,Bluetooth Speaker,49.99,3,20,39.99,119.97,UPI,Delivered,
+ORD-20269,CUST-5032,04-08-23,Beauty,Lip Balm Set,14.99,3,5,14.24,42.72,Wallet,Delivered,3
+ORD-20270,CUST-5032,17-04-23,Clothing,Cotton T-Shirt,24.99,3,15,21.24,63.72,Credit Card,Delivered,4
+ORD-20271,CUST-5032,16-02-24,Home & Kitchen,Blender,64.99,2,15,55.24,110.48,Credit Card,Delivered,4
+ORD-20272,CUST-5033,28-08-24,Books,Data Science Handbook,49.99,3,0,49.99,149.97,Credit Card,Delivered,
+ORD-20273,CUST-5033,12-07-22,Toys,Remote Control Car,39.99,3,0,39.99,119.97,PayPal,Delivered,
+ORD-20274,CUST-5033,22-07-22,Beauty,Moisturizer SPF 50,29.99,1,0,29.99,29.99,Wallet,Cancelled,
+ORD-20275,CUST-5033,23-10-24,Toys,Remote Control Car,39.99,4,0,39.99,159.96,Credit Card,Delivered,4
+ORD-20276,CUST-5033,08-12-22,Toys,Action Figure,19.99,1,15,16.99,16.99,UPI,Delivered,4
+ORD-20277,CUST-5033,18-08-23,Sports,Yoga Mat,29.99,4,5,28.49,113.96,Debit Card,Delivered,4
+ORD-20278,CUST-5033,27-07-23,Books,Fiction Novel,14.99,4,0,14.99,59.96,Wallet,Delivered,
+ORD-20279,CUST-5033,04-02-24,Books,Fiction Novel,14.99,3,10,13.49,40.47,Credit Card,Delivered,4
+ORD-20280,CUST-5033,03-06-23,Beauty,Hair Mask,24.99,4,0,24.99,99.96,Debit Card,Delivered,
+ORD-20281,CUST-5033,02-01-23,Toys,Remote Control Car,39.99,1,5,37.99,37.99,PayPal,Delivered,4
+ORD-20282,CUST-5033,24-01-24,Electronics,Smart Watch,199.99,4,20,159.99,639.96,Wallet,Delivered,3
+ORD-20283,CUST-5033,15-12-22,Books,Fiction Novel,14.99,1,5,14.24,14.24,Wallet,Delivered,5
+ORD-20284,CUST-5033,19-03-23,Beauty,Moisturizer SPF 50,29.99,3,0,29.99,89.97,UPI,Delivered,
+ORD-20285,CUST-5034,01-08-22,Books,Business Analytics,39.99,3,5,37.99,113.97,PayPal,Processing,5
+ORD-20286,CUST-5034,15-10-24,Toys,Puzzle 1000pcs,24.99,4,0,24.99,99.96,Wallet,Delivered,
+ORD-20287,CUST-5034,04-01-22,Electronics,Wireless Earbuds,79.99,1,15,67.99,67.99,PayPal,Delivered,5
+ORD-20288,CUST-5034,23-03-22,Beauty,Lip Balm Set,14.99,2,0,14.99,29.98,Wallet,Delivered,
+ORD-20289,CUST-5035,03-10-24,Clothing,Cotton T-Shirt,24.99,2,0,24.99,49.98,Wallet,Delivered,5
+ORD-20290,CUST-5035,11-07-24,Clothing,Running Shoes,89.99,3,0,89.99,269.97,Wallet,Shipped,
+ORD-20291,CUST-5035,19-10-22,Sports,Jump Rope,14.99,2,0,14.99,29.98,UPI,Delivered,4
+ORD-20292,CUST-5035,19-02-22,Sports,Resistance Bands,19.99,2,0,19.99,39.98,UPI,Cancelled,5
+ORD-20293,CUST-5035,25-09-24,Sports,Water Bottle,24.99,3,0,24.99,74.97,Credit Card,Delivered,2
+ORD-20294,CUST-5036,04-07-24,Clothing,Cotton T-Shirt,24.99,2,0,24.99,49.98,Credit Card,Delivered,
+ORD-20295,CUST-5036,11-10-23,Books,Fiction Novel,14.99,3,0,14.99,44.97,Wallet,Delivered,3
+ORD-20296,CUST-5036,21-03-24,Electronics,Smart Watch,199.99,4,15,169.99,679.96,Credit Card,Delivered,5
+ORD-20297,CUST-5036,02-03-24,Electronics,Wireless Earbuds,79.99,1,15,67.99,67.99,Credit Card,Delivered,5
+ORD-20298,CUST-5036,01-02-23,Home & Kitchen,Blender,64.99,1,0,64.99,64.99,Credit Card,Delivered,5
+ORD-20299,CUST-5036,13-04-22,Beauty,Lip Balm Set,14.99,3,5,14.24,42.72,PayPal,Delivered,5
+ORD-20300,CUST-5036,18-09-22,Sports,Yoga Mat,29.99,4,15,25.49,101.96,PayPal,Delivered,4
+ORD-20301,CUST-5036,17-11-23,Sports,Resistance Bands,19.99,2,20,15.99,31.98,PayPal,Shipped,
+ORD-20302,CUST-5036,08-12-24,Toys,Action Figure,19.99,2,5,18.99,37.98,Debit Card,Delivered,5
+ORD-20303,CUST-5037,01-05-24,Toys,Puzzle 1000pcs,24.99,4,15,21.24,84.96,UPI,Delivered,
+ORD-20304,CUST-5037,16-02-22,Electronics,Bluetooth Speaker,49.99,2,20,39.99,79.98,Debit Card,Processing,
+ORD-20305,CUST-5037,24-08-22,Clothing,Running Shoes,89.99,1,5,85.49,85.49,Debit Card,Delivered,
+ORD-20306,CUST-5037,24-05-23,Beauty,Hair Mask,24.99,1,10,22.49,22.49,PayPal,Delivered,2
+ORD-20307,CUST-5037,10-09-22,Home & Kitchen,Non-stick Pan Set,44.99,1,0,44.99,44.99,PayPal,Delivered,
+ORD-20308,CUST-5037,25-06-24,Clothing,Yoga Pants,44.99,1,0,44.99,44.99,Debit Card,Delivered,5
+ORD-20309,CUST-5037,13-06-24,Books,Business Analytics,39.99,3,0,39.99,119.97,Debit Card,Delivered,1
+ORD-20310,CUST-5037,08-05-23,Home & Kitchen,Blender,64.99,2,0,64.99,129.98,PayPal,Delivered,
+ORD-20311,CUST-5037,06-06-23,Books,Fiction Novel,14.99,3,15,12.74,38.22,PayPal,Delivered,4
+ORD-20312,CUST-5037,07-06-24,Home & Kitchen,Air Fryer,89.99,4,10,80.99,323.96,UPI,Delivered,4
+ORD-20313,CUST-5037,18-02-23,Sports,Yoga Mat,29.99,3,0,29.99,89.97,Credit Card,Processing,
+ORD-20314,CUST-5037,16-09-22,Home & Kitchen,Air Fryer,89.99,2,5,85.49,170.98,Wallet,Delivered,4
+ORD-20315,CUST-5037,06-11-22,Electronics,Wireless Earbuds,79.99,1,10,71.99,71.99,Credit Card,Delivered,3
+ORD-20316,CUST-5037,23-08-23,Books,Data Science Handbook,49.99,4,20,39.99,159.96,PayPal,Delivered,3
+ORD-20317,CUST-5037,04-06-22,Toys,LEGO Classic Set,49.99,1,20,39.99,39.99,UPI,Delivered,2
+ORD-20318,CUST-5038,04-07-23,Clothing,Running Shoes,89.99,3,15,76.49,229.47,Wallet,Delivered,5
+ORD-20319,CUST-5038,15-03-24,Beauty,Hair Mask,24.99,4,5,23.74,94.96,Wallet,Shipped,5
+ORD-20320,CUST-5038,15-10-24,Sports,Water Bottle,24.99,1,0,24.99,24.99,PayPal,Shipped,5
+ORD-20321,CUST-5038,05-06-22,Books,Python for Beginners,29.99,1,0,29.99,29.99,Wallet,Delivered,5
+ORD-20322,CUST-5038,16-07-22,Beauty,Hair Mask,24.99,3,0,24.99,74.97,PayPal,Delivered,
+ORD-20323,CUST-5038,09-06-23,Sports,Yoga Mat,29.99,3,20,23.99,71.97,Credit Card,Delivered,3
+ORD-20324,CUST-5038,15-12-22,Beauty,Lip Balm Set,14.99,1,0,14.99,14.99,Credit Card,Processing,
+ORD-20325,CUST-5038,20-11-24,Books,Data Science Handbook,49.99,4,0,49.99,199.96,UPI,Delivered,5
+ORD-20326,CUST-5039,12-09-22,Toys,LEGO Classic Set,49.99,3,0,49.99,149.97,UPI,Delivered,5
+ORD-20327,CUST-5039,02-12-22,Toys,Remote Control Car,39.99,4,20,31.99,127.96,PayPal,Delivered,4
+ORD-20328,CUST-5039,07-08-23,Clothing,Yoga Pants,44.99,3,0,44.99,134.97,Debit Card,Delivered,5
+ORD-20329,CUST-5039,06-04-24,Beauty,Face Serum,39.99,1,20,31.99,31.99,Wallet,Delivered,
+ORD-20330,CUST-5040,22-10-22,Clothing,Running Shoes,89.99,4,15,76.49,305.96,UPI,Delivered,4
+ORD-20331,CUST-5040,27-03-24,Home & Kitchen,Air Fryer,89.99,3,15,76.49,229.47,Debit Card,Delivered,4
+ORD-20332,CUST-5040,02-02-23,Toys,LEGO Classic Set,49.99,4,20,39.99,159.96,PayPal,Delivered,5
+ORD-20333,CUST-5040,08-04-23,Beauty,Moisturizer SPF 50,29.99,1,5,28.49,28.49,Credit Card,Delivered,
+ORD-20334,CUST-5040,02-06-23,Sports,Resistance Bands,19.99,3,10,17.99,53.97,UPI,Delivered,4
+ORD-20335,CUST-5040,06-02-23,Beauty,Face Serum,39.99,3,0,39.99,119.97,Credit Card,Delivered,
+ORD-20336,CUST-5040,21-01-24,Sports,Water Bottle,24.99,4,0,24.99,99.96,UPI,Delivered,
+ORD-20337,CUST-5040,15-04-23,Books,Business Analytics,39.99,2,15,33.99,67.98,UPI,Shipped,
+ORD-20338,CUST-5040,16-11-22,Clothing,Cotton T-Shirt,24.99,2,20,19.99,39.98,PayPal,Delivered,
+ORD-20339,CUST-5040,15-11-24,Books,Data Science Handbook,49.99,3,0,49.99,149.97,PayPal,Processing,
+ORD-20340,CUST-5041,26-05-23,Home & Kitchen,Air Fryer,89.99,2,0,89.99,179.98,Debit Card,Delivered,5
+ORD-20341,CUST-5041,14-06-24,Clothing,Running Shoes,89.99,4,0,89.99,359.96,Wallet,Delivered,4
+ORD-20342,CUST-5041,22-08-24,Sports,Water Bottle,24.99,2,20,19.99,39.98,Credit Card,Delivered,
+ORD-20343,CUST-5041,25-10-23,Books,Fiction Novel,14.99,4,10,13.49,53.96,Credit Card,Delivered,4
+ORD-20344,CUST-5041,25-04-23,Sports,Water Bottle,24.99,2,15,21.24,42.48,Credit Card,Delivered,5
+ORD-20345,CUST-5041,12-03-24,Beauty,Face Serum,39.99,1,0,39.99,39.99,Wallet,Delivered,
+ORD-20346,CUST-5041,08-01-22,Home & Kitchen,Blender,64.99,2,10,58.49,116.98,Debit Card,Delivered,
+ORD-20347,CUST-5041,17-06-24,Electronics,Smart Watch,199.99,4,20,159.99,639.96,Credit Card,Delivered,
+ORD-20348,CUST-5041,15-08-24,Books,Fiction Novel,14.99,2,10,13.49,26.98,UPI,Delivered,4
+ORD-20349,CUST-5041,05-08-24,Sports,Jump Rope,14.99,4,0,14.99,59.96,Credit Card,Delivered,3
+ORD-20350,CUST-5041,20-11-24,Home & Kitchen,Non-stick Pan Set,44.99,3,5,42.74,128.22,Credit Card,Shipped,5
+ORD-20351,CUST-5042,01-09-22,Home & Kitchen,Blender,64.99,3,15,55.24,165.72,PayPal,Delivered,
+ORD-20352,CUST-5042,16-03-23,Home & Kitchen,Blender,64.99,4,15,55.24,220.96,UPI,Delivered,5
+ORD-20353,CUST-5042,16-03-22,Home & Kitchen,Air Fryer,89.99,3,10,80.99,242.97,UPI,Delivered,
+ORD-20354,CUST-5042,17-10-23,Home & Kitchen,Blender,64.99,2,5,61.74,123.48,Wallet,Delivered,5
+ORD-20355,CUST-5042,17-10-22,Home & Kitchen,Air Fryer,89.99,3,5,85.49,256.47,Wallet,Delivered,
+ORD-20356,CUST-5042,16-10-24,Books,Python for Beginners,29.99,2,0,29.99,59.98,Credit Card,Delivered,4
+ORD-20357,CUST-5043,18-02-22,Beauty,Lip Balm Set,14.99,3,15,12.74,38.22,Debit Card,Delivered,
+ORD-20358,CUST-5043,02-10-23,Toys,LEGO Classic Set,49.99,3,5,47.49,142.47,UPI,Returned,5
+ORD-20359,CUST-5043,09-06-24,Toys,Action Figure,19.99,1,20,15.99,15.99,Credit Card,Delivered,
+ORD-20360,CUST-5043,18-12-24,Home & Kitchen,Air Fryer,89.99,2,0,89.99,179.98,UPI,Delivered,4
+ORD-20361,CUST-5043,28-07-22,Sports,Jump Rope,14.99,2,15,12.74,25.48,UPI,Delivered,
+ORD-20362,CUST-5043,22-05-22,Sports,Resistance Bands,19.99,2,0,19.99,39.98,Debit Card,Delivered,
+ORD-20363,CUST-5043,03-12-23,Clothing,Yoga Pants,44.99,2,0,44.99,89.98,Debit Card,Delivered,4
+ORD-20364,CUST-5043,28-04-22,Beauty,Moisturizer SPF 50,29.99,1,5,28.49,28.49,Debit Card,Shipped,5
+ORD-20365,CUST-5043,12-09-22,Beauty,Hair Mask,24.99,1,0,24.99,24.99,Debit Card,Delivered,
+ORD-20366,CUST-5043,22-06-22,Clothing,Running Shoes,89.99,3,0,89.99,269.97,Debit Card,Delivered,
+ORD-20367,CUST-5044,21-03-23,Home & Kitchen,Air Fryer,89.99,2,0,89.99,179.98,PayPal,Delivered,4
+ORD-20368,CUST-5044,12-02-22,Books,Fiction Novel,14.99,1,0,14.99,14.99,Credit Card,Delivered,5
+ORD-20369,CUST-5044,18-09-23,Clothing,Yoga Pants,44.99,1,0,44.99,44.99,Debit Card,Delivered,5
+ORD-20370,CUST-5044,25-09-22,Clothing,Denim Jacket,69.99,1,0,69.99,69.99,PayPal,Delivered,5
+ORD-20371,CUST-5044,08-09-22,Electronics,USB-C Hub,34.99,3,15,29.74,89.22,Wallet,Delivered,5
+ORD-20372,CUST-5044,08-07-22,Electronics,Smart Watch,199.99,1,15,169.99,169.99,Wallet,Delivered,4
+ORD-20373,CUST-5044,18-02-24,Beauty,Hair Mask,24.99,4,5,23.74,94.96,Credit Card,Returned,5
+ORD-20374,CUST-5044,25-12-24,Electronics,Wireless Earbuds,79.99,1,0,79.99,79.99,UPI,Delivered,5
+ORD-20375,CUST-5045,10-02-23,Clothing,Cotton T-Shirt,24.99,4,5,23.74,94.96,UPI,Delivered,4
+ORD-20376,CUST-5046,21-05-24,Electronics,Bluetooth Speaker,49.99,1,0,49.99,49.99,PayPal,Delivered,
+ORD-20377,CUST-5046,11-04-24,Beauty,Hair Mask,24.99,2,5,23.74,47.48,Debit Card,Delivered,2
+ORD-20378,CUST-5047,26-06-22,Sports,Resistance Bands,19.99,4,0,19.99,79.96,Debit Card,Delivered,2
+ORD-20379,CUST-5047,01-07-22,Clothing,Denim Jacket,69.99,1,5,66.49,66.49,PayPal,Delivered,1
+ORD-20380,CUST-5047,28-01-24,Toys,Puzzle 1000pcs,24.99,4,10,22.49,89.96,UPI,Delivered,
+ORD-20381,CUST-5047,08-09-23,Electronics,Bluetooth Speaker,49.99,3,0,49.99,149.97,UPI,Delivered,5
+ORD-20382,CUST-5047,27-09-23,Toys,Remote Control Car,39.99,3,0,39.99,119.97,Wallet,Delivered,4
+ORD-20383,CUST-5048,21-02-23,Beauty,Hair Mask,24.99,2,0,24.99,49.98,Wallet,Delivered,5
+ORD-20384,CUST-5048,21-05-24,Home & Kitchen,Coffee Maker,59.99,1,0,59.99,59.99,Debit Card,Delivered,
+ORD-20385,CUST-5048,01-03-22,Books,Python for Beginners,29.99,2,0,29.99,59.98,PayPal,Delivered,4
+ORD-20386,CUST-5049,28-11-23,Electronics,Wireless Earbuds,79.99,2,0,79.99,159.98,Wallet,Delivered,
+ORD-20387,CUST-5049,05-05-24,Books,Fiction Novel,14.99,3,0,14.99,44.97,Credit Card,Processing,5
+ORD-20388,CUST-5049,12-04-22,Electronics,Bluetooth Speaker,49.99,3,0,49.99,149.97,UPI,Returned,4
+ORD-20389,CUST-5049,04-06-24,Sports,Yoga Mat,29.99,1,15,25.49,25.49,UPI,Delivered,3
+ORD-20390,CUST-5049,28-09-23,Home & Kitchen,Non-stick Pan Set,44.99,4,20,35.99,143.96,Credit Card,Delivered,3
+ORD-20391,CUST-5049,11-06-24,Clothing,Denim Jacket,69.99,3,5,66.49,199.47,Wallet,Delivered,
+ORD-20392,CUST-5049,03-12-22,Sports,Yoga Mat,29.99,2,15,25.49,50.98,Debit Card,Delivered,4
+ORD-20393,CUST-5049,21-04-24,Electronics,Smart Watch,199.99,2,15,169.99,339.98,UPI,Delivered,
+ORD-20394,CUST-5049,09-04-23,Clothing,Yoga Pants,44.99,2,0,44.99,89.98,PayPal,Delivered,3
+ORD-20395,CUST-5049,25-04-24,Electronics,Wireless Earbuds,79.99,2,5,75.99,151.98,Wallet,Returned,3
+ORD-20396,CUST-5049,26-01-24,Toys,Puzzle 1000pcs,24.99,1,5,23.74,23.74,Wallet,Delivered,5
+ORD-20397,CUST-5049,05-04-23,Clothing,Cotton T-Shirt,24.99,4,10,22.49,89.96,PayPal,Processing,4
+ORD-20398,CUST-5049,10-10-24,Sports,Water Bottle,24.99,4,5,23.74,94.96,UPI,Delivered,4
+ORD-20399,CUST-5050,16-11-23,Books,Data Science Handbook,49.99,4,5,47.49,189.96,Debit Card,Delivered,5
+ORD-20400,CUST-5050,05-03-24,Toys,LEGO Classic Set,49.99,2,20,39.99,79.98,Wallet,Shipped,
+ORD-20401,CUST-5050,05-01-22,Electronics,Wireless Earbuds,79.99,3,0,79.99,239.97,Wallet,Delivered,5
+ORD-20402,CUST-5050,27-05-22,Books,Fiction Novel,14.99,1,5,14.24,14.24,UPI,Delivered,4
+ORD-20403,CUST-5050,15-04-23,Clothing,Cotton T-Shirt,24.99,4,0,24.99,99.96,Wallet,Delivered,
+ORD-20404,CUST-5050,21-04-22,Electronics,Smart Watch,199.99,2,20,159.99,319.98,Debit Card,Cancelled,1
+ORD-20405,CUST-5050,20-12-22,Beauty,Lip Balm Set,14.99,2,15,12.74,25.48,Debit Card,Delivered,5
+ORD-20406,CUST-5051,06-01-22,Electronics,USB-C Hub,34.99,2,20,27.99,55.98,UPI,Delivered,
+ORD-20407,CUST-5052,02-05-24,Books,Fiction Novel,14.99,2,20,11.99,23.98,Debit Card,Delivered,
+ORD-20408,CUST-5052,14-11-22,Clothing,Yoga Pants,44.99,3,0,44.99,134.97,Debit Card,Delivered,5
+ORD-20409,CUST-5052,22-06-24,Toys,Remote Control Car,39.99,3,0,39.99,119.97,PayPal,Delivered,5
+ORD-20410,CUST-5052,16-10-22,Home & Kitchen,Blender,64.99,4,0,64.99,259.96,Wallet,Delivered,5
+ORD-20411,CUST-5052,19-06-23,Books,Fiction Novel,14.99,2,5,14.24,28.48,Debit Card,Delivered,4
+ORD-20412,CUST-5052,09-11-24,Electronics,Wireless Earbuds,79.99,2,5,75.99,151.98,UPI,Shipped,
+ORD-20413,CUST-5052,06-10-23,Home & Kitchen,Air Fryer,89.99,4,20,71.99,287.96,Credit Card,Shipped,
+ORD-20414,CUST-5052,06-07-24,Books,Python for Beginners,29.99,3,10,26.99,80.97,Debit Card,Delivered,
+ORD-20415,CUST-5053,09-09-24,Toys,LEGO Classic Set,49.99,1,0,49.99,49.99,Debit Card,Delivered,5
+ORD-20416,CUST-5053,25-12-23,Electronics,Smart Watch,199.99,1,0,199.99,199.99,Wallet,Delivered,4
+ORD-20417,CUST-5053,09-01-22,Sports,Jump Rope,14.99,4,20,11.99,47.96,UPI,Shipped,
+ORD-20418,CUST-5053,04-12-22,Toys,Remote Control Car,39.99,1,10,35.99,35.99,Wallet,Delivered,5
+ORD-20419,CUST-5053,19-06-23,Books,Fiction Novel,14.99,3,20,11.99,35.97,Credit Card,Delivered,4
+ORD-20420,CUST-5053,03-02-23,Books,Fiction Novel,14.99,3,0,14.99,44.97,Credit Card,Delivered,
+ORD-20421,CUST-5053,09-01-22,Toys,Puzzle 1000pcs,24.99,2,0,24.99,49.98,Credit Card,Delivered,3
+ORD-20422,CUST-5053,14-08-24,Electronics,Wireless Earbuds,79.99,1,0,79.99,79.99,Wallet,Delivered,3
+ORD-20423,CUST-5053,11-08-22,Beauty,Hair Mask,24.99,2,5,23.74,47.48,PayPal,Delivered,5
+ORD-20424,CUST-5054,13-04-24,Toys,Action Figure,19.99,2,10,17.99,35.98,Wallet,Delivered,
+ORD-20425,CUST-5054,27-05-24,Home & Kitchen,Air Fryer,89.99,3,15,76.49,229.47,Debit Card,Delivered,4
+ORD-20426,CUST-5054,05-04-22,Home & Kitchen,Blender,64.99,1,0,64.99,64.99,UPI,Cancelled,4
+ORD-20427,CUST-5054,03-04-24,Sports,Jump Rope,14.99,4,5,14.24,56.96,Debit Card,Delivered,4
+ORD-20428,CUST-5054,26-06-23,Home & Kitchen,Coffee Maker,59.99,2,20,47.99,95.98,Wallet,Delivered,4
+ORD-20429,CUST-5054,20-04-24,Sports,Yoga Mat,29.99,1,0,29.99,29.99,UPI,Delivered,
+ORD-20430,CUST-5054,10-11-24,Electronics,Wireless Earbuds,79.99,3,15,67.99,203.97,Wallet,Delivered,4
+ORD-20431,CUST-5054,20-04-22,Home & Kitchen,Coffee Maker,59.99,2,0,59.99,119.98,Debit Card,Delivered,5
+ORD-20432,CUST-5054,08-10-24,Home & Kitchen,Air Fryer,89.99,2,10,80.99,161.98,Wallet,Delivered,5
+ORD-20433,CUST-5054,17-06-24,Electronics,Smart Watch,199.99,2,0,199.99,399.98,Debit Card,Delivered,5
+ORD-20434,CUST-5054,10-06-23,Sports,Resistance Bands,19.99,3,0,19.99,59.97,Credit Card,Processing,4
+ORD-20435,CUST-5054,05-04-22,Clothing,Denim Jacket,69.99,1,20,55.99,55.99,Wallet,Delivered,
+ORD-20436,CUST-5054,10-02-22,Clothing,Denim Jacket,69.99,1,15,59.49,59.49,Debit Card,Delivered,4
+ORD-20437,CUST-5054,09-05-24,Books,Data Science Handbook,49.99,2,0,49.99,99.98,Credit Card,Delivered,1
+ORD-20438,CUST-5054,23-06-24,Books,Fiction Novel,14.99,3,0,14.99,44.97,Wallet,Delivered,5
+ORD-20439,CUST-5055,26-09-22,Home & Kitchen,Blender,64.99,2,15,55.24,110.48,Wallet,Delivered,4
+ORD-20440,CUST-5055,23-02-22,Electronics,Smart Watch,199.99,2,0,199.99,399.98,PayPal,Delivered,
+ORD-20441,CUST-5055,06-04-22,Beauty,Hair Mask,24.99,2,5,23.74,47.48,Credit Card,Delivered,4
+ORD-20442,CUST-5055,25-01-23,Toys,Remote Control Car,39.99,4,0,39.99,159.96,Credit Card,Delivered,
+ORD-20443,CUST-5055,13-08-24,Beauty,Lip Balm Set,14.99,4,15,12.74,50.96,Debit Card,Delivered,3
+ORD-20444,CUST-5055,24-10-22,Electronics,Wireless Earbuds,79.99,2,0,79.99,159.98,UPI,Delivered,3
+ORD-20445,CUST-5055,11-05-22,Home & Kitchen,Non-stick Pan Set,44.99,4,20,35.99,143.96,Debit Card,Delivered,4
+ORD-20446,CUST-5055,02-04-22,Clothing,Yoga Pants,44.99,1,15,38.24,38.24,Debit Card,Delivered,4
+ORD-20447,CUST-5055,17-11-23,Electronics,USB-C Hub,34.99,2,5,33.24,66.48,Credit Card,Delivered,4
+ORD-20448,CUST-5055,12-01-24,Clothing,Yoga Pants,44.99,1,5,42.74,42.74,Wallet,Delivered,5
+ORD-20449,CUST-5055,02-09-23,Toys,LEGO Classic Set,49.99,2,5,47.49,94.98,UPI,Shipped,3
+ORD-20450,CUST-5055,21-03-23,Books,Fiction Novel,14.99,4,10,13.49,53.96,UPI,Delivered,4
+ORD-20451,CUST-5055,12-02-23,Toys,Remote Control Car,39.99,4,0,39.99,159.96,Wallet,Delivered,
+ORD-20452,CUST-5055,25-06-22,Home & Kitchen,Blender,64.99,2,0,64.99,129.98,Credit Card,Cancelled,
+ORD-20453,CUST-5056,13-11-24,Electronics,Bluetooth Speaker,49.99,4,0,49.99,199.96,PayPal,Delivered,4
+ORD-20454,CUST-5056,27-06-22,Electronics,Wireless Earbuds,79.99,3,0,79.99,239.97,PayPal,Delivered,5
+ORD-20455,CUST-5056,08-10-22,Clothing,Yoga Pants,44.99,2,15,38.24,76.48,PayPal,Delivered,5
+ORD-20456,CUST-5056,25-10-22,Clothing,Running Shoes,89.99,3,5,85.49,256.47,Wallet,Shipped,3
+ORD-20457,CUST-5056,12-05-23,Beauty,Face Serum,39.99,4,0,39.99,159.96,Wallet,Delivered,4
+ORD-20458,CUST-5056,01-02-22,Electronics,Bluetooth Speaker,49.99,3,0,49.99,149.97,Wallet,Delivered,5
+ORD-20459,CUST-5056,04-05-22,Sports,Jump Rope,14.99,4,10,13.49,53.96,Credit Card,Delivered,5
+ORD-20460,CUST-5056,21-09-24,Books,Data Science Handbook,49.99,2,20,39.99,79.98,UPI,Delivered,5
+ORD-20461,CUST-5056,15-04-22,Beauty,Moisturizer SPF 50,29.99,2,20,23.99,47.98,UPI,Delivered,
+ORD-20462,CUST-5056,11-04-23,Clothing,Running Shoes,89.99,1,0,89.99,89.99,Debit Card,Returned,4
+ORD-20463,CUST-5056,16-08-23,Toys,Action Figure,19.99,3,0,19.99,59.97,Wallet,Delivered,
+ORD-20464,CUST-5057,06-01-23,Home & Kitchen,Coffee Maker,59.99,4,5,56.99,227.96,PayPal,Delivered,5
+ORD-20465,CUST-5057,28-02-22,Books,Fiction Novel,14.99,2,5,14.24,28.48,PayPal,Delivered,5
+ORD-20466,CUST-5057,07-11-23,Toys,LEGO Classic Set,49.99,1,20,39.99,39.99,Wallet,Delivered,5
+ORD-20467,CUST-5057,07-07-23,Toys,Remote Control Car,39.99,2,0,39.99,79.98,Debit Card,Delivered,4
+ORD-20468,CUST-5057,23-06-22,Beauty,Moisturizer SPF 50,29.99,4,0,29.99,119.96,Wallet,Delivered,4
+ORD-20469,CUST-5057,24-12-22,Electronics,Smart Watch,199.99,3,0,199.99,599.97,Wallet,Delivered,
+ORD-20470,CUST-5057,17-08-23,Clothing,Running Shoes,89.99,4,10,80.99,323.96,Credit Card,Processing,
+ORD-20471,CUST-5057,21-07-22,Home & Kitchen,Coffee Maker,59.99,3,5,56.99,170.97,Debit Card,Delivered,
+ORD-20472,CUST-5057,28-07-24,Sports,Water Bottle,24.99,4,15,21.24,84.96,UPI,Delivered,4
+ORD-20473,CUST-5057,09-11-23,Books,Fiction Novel,14.99,2,0,14.99,29.98,UPI,Delivered,3
+ORD-20474,CUST-5057,18-01-24,Beauty,Moisturizer SPF 50,29.99,3,5,28.49,85.47,UPI,Delivered,
+ORD-20475,CUST-5057,02-05-24,Electronics,Bluetooth Speaker,49.99,4,10,44.99,179.96,Credit Card,Delivered,
+ORD-20476,CUST-5057,05-02-24,Toys,Puzzle 1000pcs,24.99,2,5,23.74,47.48,Credit Card,Delivered,4
+ORD-20477,CUST-5058,12-04-22,Sports,Resistance Bands,19.99,4,5,18.99,75.96,PayPal,Delivered,4
+ORD-20478,CUST-5058,23-03-23,Books,Fiction Novel,14.99,4,15,12.74,50.96,Wallet,Delivered,4
+ORD-20479,CUST-5058,06-07-24,Toys,Action Figure,19.99,3,0,19.99,59.97,Credit Card,Delivered,
+ORD-20480,CUST-5058,14-05-22,Home & Kitchen,Blender,64.99,1,10,58.49,58.49,Wallet,Delivered,
+ORD-20481,CUST-5058,21-11-23,Home & Kitchen,Air Fryer,89.99,3,5,85.49,256.47,UPI,Delivered,5
+ORD-20482,CUST-5058,04-02-22,Electronics,USB-C Hub,34.99,1,0,34.99,34.99,Debit Card,Delivered,5
+ORD-20483,CUST-5058,27-12-22,Home & Kitchen,Blender,64.99,4,0,64.99,259.96,Debit Card,Delivered,
+ORD-20484,CUST-5058,12-10-23,Clothing,Denim Jacket,69.99,1,15,59.49,59.49,UPI,Delivered,4
+ORD-20485,CUST-5058,25-11-22,Toys,Action Figure,19.99,3,10,17.99,53.97,UPI,Delivered,4
+ORD-20486,CUST-5058,11-09-23,Sports,Water Bottle,24.99,3,15,21.24,63.72,Debit Card,Delivered,4
+ORD-20487,CUST-5058,17-03-23,Toys,Remote Control Car,39.99,3,0,39.99,119.97,Debit Card,Delivered,
+ORD-20488,CUST-5058,04-09-23,Home & Kitchen,Coffee Maker,59.99,2,15,50.99,101.98,PayPal,Delivered,5
+ORD-20489,CUST-5058,24-02-24,Books,Data Science Handbook,49.99,1,0,49.99,49.99,Credit Card,Delivered,2
+ORD-20490,CUST-5059,07-06-22,Sports,Jump Rope,14.99,2,0,14.99,29.98,Wallet,Delivered,5
+ORD-20491,CUST-5059,01-08-23,Beauty,Hair Mask,24.99,3,15,21.24,63.72,Credit Card,Delivered,
+ORD-20492,CUST-5059,07-09-22,Books,Python for Beginners,29.99,1,0,29.99,29.99,Wallet,Delivered,
+ORD-20493,CUST-5059,09-10-23,Toys,Remote Control Car,39.99,2,15,33.99,67.98,Debit Card,Delivered,5
+ORD-20494,CUST-5059,01-06-22,Clothing,Denim Jacket,69.99,1,15,59.49,59.49,Debit Card,Delivered,4
+ORD-20495,CUST-5059,02-03-23,Beauty,Moisturizer SPF 50,29.99,1,15,25.49,25.49,Debit Card,Delivered,5
+ORD-20496,CUST-5059,07-04-23,Clothing,Running Shoes,89.99,3,20,71.99,215.97,PayPal,Delivered,5
+ORD-20497,CUST-5059,07-10-24,Toys,Remote Control Car,39.99,1,15,33.99,33.99,PayPal,Delivered,3
+ORD-20498,CUST-5060,16-11-22,Electronics,Bluetooth Speaker,49.99,3,15,42.49,127.47,PayPal,Delivered,5
+ORD-20499,CUST-5060,24-07-24,Beauty,Face Serum,39.99,4,0,39.99,159.96,Debit Card,Delivered,1
+ORD-20500,CUST-5060,18-02-23,Beauty,Moisturizer SPF 50,29.99,2,0,29.99,59.98,Credit Card,Delivered,5
+ORD-20501,CUST-5060,01-10-24,Books,Data Science Handbook,49.99,2,0,49.99,99.98,UPI,Delivered,4
+ORD-20502,CUST-5060,11-04-23,Home & Kitchen,Air Fryer,89.99,2,0,89.99,179.98,Credit Card,Delivered,2
+ORD-20503,CUST-5060,13-08-24,Sports,Yoga Mat,29.99,3,5,28.49,85.47,Wallet,Delivered,
+ORD-20504,CUST-5060,10-03-22,Toys,Remote Control Car,39.99,2,0,39.99,79.98,Wallet,Delivered,2
+ORD-20505,CUST-5060,01-11-22,Home & Kitchen,Blender,64.99,4,0,64.99,259.96,Wallet,Delivered,5
+ORD-20506,CUST-5060,04-03-23,Home & Kitchen,Coffee Maker,59.99,2,10,53.99,107.98,PayPal,Shipped,4
+ORD-20507,CUST-5060,19-10-23,Books,Python for Beginners,29.99,4,0,29.99,119.96,Wallet,Delivered,4
+ORD-20508,CUST-5060,19-02-22,Home & Kitchen,Blender,64.99,2,20,51.99,103.98,Wallet,Delivered,
+ORD-20509,CUST-5060,27-04-24,Home & Kitchen,Blender,64.99,1,0,64.99,64.99,Credit Card,Delivered,5
+ORD-20510,CUST-5061,25-11-22,Books,Data Science Handbook,49.99,3,0,49.99,149.97,PayPal,Delivered,5
+ORD-20511,CUST-5061,08-12-22,Home & Kitchen,Air Fryer,89.99,1,0,89.99,89.99,PayPal,Delivered,4
+ORD-20512,CUST-5061,19-05-24,Sports,Jump Rope,14.99,3,20,11.99,35.97,Wallet,Delivered,5
+ORD-20513,CUST-5061,15-06-22,Sports,Yoga Mat,29.99,4,0,29.99,119.96,PayPal,Shipped,4
+ORD-20514,CUST-5061,06-02-23,Electronics,Wireless Earbuds,79.99,2,20,63.99,127.98,Credit Card,Delivered,5
+ORD-20515,CUST-5062,18-04-23,Toys,Puzzle 1000pcs,24.99,2,15,21.24,42.48,UPI,Delivered,
+ORD-20516,CUST-5062,19-02-22,Beauty,Face Serum,39.99,1,10,35.99,35.99,Credit Card,Delivered,4
+ORD-20517,CUST-5062,27-12-22,Sports,Resistance Bands,19.99,1,0,19.99,19.99,Credit Card,Delivered,
+ORD-20518,CUST-5062,06-09-24,Electronics,Wireless Earbuds,79.99,1,20,63.99,63.99,UPI,Delivered,4
+ORD-20519,CUST-5062,04-02-24,Books,Business Analytics,39.99,1,0,39.99,39.99,PayPal,Delivered,
+ORD-20520,CUST-5062,07-01-24,Electronics,USB-C Hub,34.99,3,0,34.99,104.97,UPI,Delivered,
+ORD-20521,CUST-5062,21-03-22,Beauty,Face Serum,39.99,1,10,35.99,35.99,Wallet,Delivered,2
+ORD-20522,CUST-5062,15-01-23,Sports,Yoga Mat,29.99,1,20,23.99,23.99,Wallet,Returned,4
+ORD-20523,CUST-5062,06-11-24,Electronics,USB-C Hub,34.99,1,10,31.49,31.49,Wallet,Delivered,5
+ORD-20524,CUST-5062,10-12-22,Clothing,Cotton T-Shirt,24.99,1,10,22.49,22.49,Credit Card,Delivered,
+ORD-20525,CUST-5062,18-09-22,Electronics,Smart Watch,199.99,4,15,169.99,679.96,Wallet,Returned,2
+ORD-20526,CUST-5062,22-09-23,Books,Fiction Novel,14.99,4,0,14.99,59.96,PayPal,Delivered,4
+ORD-20527,CUST-5062,27-12-24,Sports,Water Bottle,24.99,1,15,21.24,21.24,Wallet,Delivered,
+ORD-20528,CUST-5062,01-06-22,Clothing,Yoga Pants,44.99,2,0,44.99,89.98,Wallet,Delivered,
+ORD-20529,CUST-5062,23-02-23,Toys,LEGO Classic Set,49.99,4,20,39.99,159.96,Credit Card,Delivered,4
+ORD-20530,CUST-5063,11-12-24,Sports,Resistance Bands,19.99,2,10,17.99,35.98,Credit Card,Delivered,2
+ORD-20531,CUST-5063,23-11-22,Home & Kitchen,Coffee Maker,59.99,1,10,53.99,53.99,PayPal,Delivered,
+ORD-20532,CUST-5063,06-12-24,Electronics,Smart Watch,199.99,2,5,189.99,379.98,Wallet,Delivered,5
+ORD-20533,CUST-5063,09-03-23,Electronics,Wireless Earbuds,79.99,1,0,79.99,79.99,PayPal,Shipped,4
+ORD-20534,CUST-5063,03-11-22,Books,Data Science Handbook,49.99,1,10,44.99,44.99,Credit Card,Delivered,
+ORD-20535,CUST-5063,21-11-24,Sports,Yoga Mat,29.99,2,0,29.99,59.98,PayPal,Delivered,2
+ORD-20536,CUST-5063,11-11-24,Sports,Jump Rope,14.99,1,15,12.74,12.74,PayPal,Processing,5
+ORD-20537,CUST-5063,22-04-24,Sports,Water Bottle,24.99,3,0,24.99,74.97,PayPal,Delivered,4
+ORD-20538,CUST-5063,10-03-24,Beauty,Lip Balm Set,14.99,2,5,14.24,28.48,Credit Card,Delivered,5
+ORD-20539,CUST-5063,01-07-24,Home & Kitchen,Coffee Maker,59.99,4,0,59.99,239.96,UPI,Delivered,
+ORD-20540,CUST-5063,03-12-24,Clothing,Cotton T-Shirt,24.99,3,0,24.99,74.97,PayPal,Delivered,5
+ORD-20541,CUST-5063,08-04-24,Sports,Water Bottle,24.99,1,15,21.24,21.24,PayPal,Delivered,4
+ORD-20542,CUST-5063,07-09-23,Beauty,Lip Balm Set,14.99,3,10,13.49,40.47,PayPal,Shipped,5
+ORD-20543,CUST-5063,27-03-23,Clothing,Yoga Pants,44.99,2,10,40.49,80.98,PayPal,Delivered,5
+ORD-20544,CUST-5063,15-12-22,Books,Data Science Handbook,49.99,2,0,49.99,99.98,Debit Card,Delivered,3
+ORD-20545,CUST-5064,26-10-22,Electronics,Bluetooth Speaker,49.99,2,10,44.99,89.98,Credit Card,Delivered,1
+ORD-20546,CUST-5064,12-07-24,Sports,Resistance Bands,19.99,4,15,16.99,67.96,Debit Card,Delivered,4
+ORD-20547,CUST-5065,18-01-22,Home & Kitchen,Blender,64.99,3,0,64.99,194.97,Debit Card,Delivered,
+ORD-20548,CUST-5065,08-05-22,Books,Fiction Novel,14.99,1,15,12.74,12.74,Wallet,Shipped,5
+ORD-20549,CUST-5065,16-11-23,Toys,LEGO Classic Set,49.99,4,15,42.49,169.96,Wallet,Delivered,3
+ORD-20550,CUST-5065,03-01-24,Books,Data Science Handbook,49.99,2,20,39.99,79.98,Credit Card,Delivered,3
+ORD-20551,CUST-5065,10-02-22,Sports,Jump Rope,14.99,3,15,12.74,38.22,Debit Card,Delivered,3
+ORD-20552,CUST-5065,04-03-23,Beauty,Moisturizer SPF 50,29.99,1,20,23.99,23.99,PayPal,Shipped,4
+ORD-20553,CUST-5065,23-03-22,Beauty,Lip Balm Set,14.99,2,0,14.99,29.98,Debit Card,Delivered,
+ORD-20554,CUST-5065,23-08-22,Clothing,Yoga Pants,44.99,2,20,35.99,71.98,Debit Card,Delivered,3
+ORD-20555,CUST-5065,03-05-24,Home & Kitchen,Coffee Maker,59.99,1,0,59.99,59.99,Debit Card,Delivered,4
+ORD-20556,CUST-5065,15-10-23,Home & Kitchen,Air Fryer,89.99,2,10,80.99,161.98,Wallet,Delivered,
+ORD-20557,CUST-5065,06-04-22,Toys,LEGO Classic Set,49.99,3,0,49.99,149.97,Debit Card,Delivered,5
+ORD-20558,CUST-5065,05-02-23,Books,Python for Beginners,29.99,2,20,23.99,47.98,Debit Card,Cancelled,
+ORD-20559,CUST-5065,20-11-22,Beauty,Moisturizer SPF 50,29.99,4,10,26.99,107.96,UPI,Delivered,
+ORD-20560,CUST-5065,11-06-22,Toys,Puzzle 1000pcs,24.99,3,20,19.99,59.97,Wallet,Shipped,
+ORD-20561,CUST-5066,19-06-22,Sports,Jump Rope,14.99,4,15,12.74,50.96,UPI,Processing,2
+ORD-20562,CUST-5066,03-11-22,Clothing,Denim Jacket,69.99,2,10,62.99,125.98,PayPal,Delivered,5
+ORD-20563,CUST-5066,08-07-23,Beauty,Moisturizer SPF 50,29.99,3,10,26.99,80.97,Credit Card,Delivered,
+ORD-20564,CUST-5067,05-07-24,Beauty,Lip Balm Set,14.99,2,0,14.99,29.98,Credit Card,Delivered,4
+ORD-20565,CUST-5067,23-09-23,Toys,LEGO Classic Set,49.99,1,5,47.49,47.49,Debit Card,Delivered,4
+ORD-20566,CUST-5067,21-12-24,Clothing,Yoga Pants,44.99,2,0,44.99,89.98,Credit Card,Delivered,4
+ORD-20567,CUST-5067,20-07-24,Beauty,Face Serum,39.99,3,0,39.99,119.97,PayPal,Delivered,5
+ORD-20568,CUST-5067,26-05-23,Sports,Jump Rope,14.99,2,0,14.99,29.98,UPI,Delivered,4
+ORD-20569,CUST-5067,18-09-23,Clothing,Cotton T-Shirt,24.99,3,0,24.99,74.97,UPI,Delivered,4
+ORD-20570,CUST-5067,19-05-23,Electronics,Wireless Earbuds,79.99,1,10,71.99,71.99,Wallet,Delivered,
+ORD-20571,CUST-5068,03-10-23,Books,Data Science Handbook,49.99,4,0,49.99,199.96,Wallet,Delivered,
+ORD-20572,CUST-5069,10-08-24,Sports,Water Bottle,24.99,4,10,22.49,89.96,Credit Card,Delivered,2
+ORD-20573,CUST-5069,21-04-23,Beauty,Moisturizer SPF 50,29.99,3,0,29.99,89.97,PayPal,Delivered,4
+ORD-20574,CUST-5069,06-01-22,Beauty,Face Serum,39.99,3,0,39.99,119.97,PayPal,Delivered,
+ORD-20575,CUST-5069,19-02-24,Toys,Remote Control Car,39.99,4,0,39.99,159.96,Wallet,Delivered,
+ORD-20576,CUST-5069,22-10-23,Electronics,USB-C Hub,34.99,1,0,34.99,34.99,UPI,Delivered,
+ORD-20577,CUST-5069,17-05-23,Toys,Puzzle 1000pcs,24.99,1,10,22.49,22.49,Debit Card,Delivered,
+ORD-20578,CUST-5069,06-06-24,Clothing,Running Shoes,89.99,2,10,80.99,161.98,Credit Card,Delivered,3
+ORD-20579,CUST-5069,26-05-23,Clothing,Cotton T-Shirt,24.99,1,15,21.24,21.24,Credit Card,Delivered,5
+ORD-20580,CUST-5069,01-09-23,Home & Kitchen,Blender,64.99,3,5,61.74,185.22,PayPal,Delivered,5
+ORD-20581,CUST-5069,01-09-23,Electronics,Wireless Earbuds,79.99,4,0,79.99,319.96,PayPal,Delivered,
+ORD-20582,CUST-5069,05-12-24,Clothing,Cotton T-Shirt,24.99,2,0,24.99,49.98,Debit Card,Delivered,
+ORD-20583,CUST-5069,09-04-23,Clothing,Cotton T-Shirt,24.99,3,0,24.99,74.97,Debit Card,Delivered,2
+ORD-20584,CUST-5069,28-03-24,Toys,Action Figure,19.99,2,10,17.99,35.98,Wallet,Shipped,5
+ORD-20585,CUST-5070,14-03-22,Electronics,Bluetooth Speaker,49.99,2,15,42.49,84.98,Wallet,Delivered,3
+ORD-20586,CUST-5071,14-11-23,Beauty,Lip Balm Set,14.99,4,0,14.99,59.96,Debit Card,Delivered,5
+ORD-20587,CUST-5071,23-10-23,Books,Fiction Novel,14.99,4,0,14.99,59.96,PayPal,Delivered,4
+ORD-20588,CUST-5071,18-10-22,Home & Kitchen,Non-stick Pan Set,44.99,3,0,44.99,134.97,UPI,Delivered,
+ORD-20589,CUST-5071,21-02-22,Beauty,Hair Mask,24.99,3,0,24.99,74.97,UPI,Delivered,3
+ORD-20590,CUST-5071,06-08-22,Electronics,USB-C Hub,34.99,4,0,34.99,139.96,Wallet,Delivered,5
+ORD-20591,CUST-5071,07-05-24,Home & Kitchen,Air Fryer,89.99,1,0,89.99,89.99,PayPal,Cancelled,4
+ORD-20592,CUST-5071,24-05-22,Sports,Water Bottle,24.99,4,15,21.24,84.96,PayPal,Delivered,
+ORD-20593,CUST-5071,01-06-23,Books,Data Science Handbook,49.99,1,10,44.99,44.99,Credit Card,Delivered,
+ORD-20594,CUST-5071,13-05-22,Home & Kitchen,Coffee Maker,59.99,3,5,56.99,170.97,UPI,Cancelled,5
+ORD-20595,CUST-5071,05-04-23,Beauty,Face Serum,39.99,2,10,35.99,71.98,Credit Card,Delivered,5
+ORD-20596,CUST-5071,28-11-23,Toys,Remote Control Car,39.99,2,20,31.99,63.98,PayPal,Delivered,4
+ORD-20597,CUST-5072,21-02-23,Home & Kitchen,Coffee Maker,59.99,3,20,47.99,143.97,Wallet,Delivered,1
+ORD-20598,CUST-5072,14-01-24,Sports,Water Bottle,24.99,4,10,22.49,89.96,PayPal,Delivered,
+ORD-20599,CUST-5072,14-04-24,Sports,Water Bottle,24.99,4,0,24.99,99.96,Debit Card,Delivered,
+ORD-20600,CUST-5072,25-09-24,Home & Kitchen,Coffee Maker,59.99,1,15,50.99,50.99,Debit Card,Delivered,5
+ORD-20601,CUST-5072,11-02-23,Beauty,Hair Mask,24.99,2,15,21.24,42.48,Wallet,Shipped,4
+ORD-20602,CUST-5072,25-03-22,Clothing,Cotton T-Shirt,24.99,2,10,22.49,44.98,PayPal,Delivered,
+ORD-20603,CUST-5072,19-06-24,Toys,Puzzle 1000pcs,24.99,2,0,24.99,49.98,Debit Card,Delivered,5
+ORD-20604,CUST-5072,18-04-22,Clothing,Running Shoes,89.99,1,10,80.99,80.99,Credit Card,Delivered,5
+ORD-20605,CUST-5072,07-04-22,Clothing,Running Shoes,89.99,1,0,89.99,89.99,Debit Card,Delivered,4
+ORD-20606,CUST-5072,13-03-24,Home & Kitchen,Blender,64.99,2,5,61.74,123.48,UPI,Processing,5
+ORD-20607,CUST-5072,17-05-23,Beauty,Face Serum,39.99,3,5,37.99,113.97,Wallet,Delivered,5
+ORD-20608,CUST-5072,08-07-22,Sports,Yoga Mat,29.99,4,15,25.49,101.96,Debit Card,Delivered,4
+ORD-20609,CUST-5072,01-09-24,Electronics,Smart Watch,199.99,4,0,199.99,799.96,PayPal,Delivered,
+ORD-20610,CUST-5073,21-05-24,Sports,Water Bottle,24.99,3,0,24.99,74.97,Debit Card,Delivered,
+ORD-20611,CUST-5073,15-09-23,Home & Kitchen,Coffee Maker,59.99,3,0,59.99,179.97,PayPal,Delivered,
+ORD-20612,CUST-5073,26-12-22,Books,Business Analytics,39.99,3,20,31.99,95.97,UPI,Delivered,4
+ORD-20613,CUST-5073,02-03-22,Home & Kitchen,Blender,64.99,4,0,64.99,259.96,UPI,Delivered,
+ORD-20614,CUST-5073,02-04-22,Books,Data Science Handbook,49.99,4,10,44.99,179.96,PayPal,Delivered,4
+ORD-20615,CUST-5074,05-05-24,Home & Kitchen,Coffee Maker,59.99,3,0,59.99,179.97,Credit Card,Delivered,
+ORD-20616,CUST-5074,22-09-24,Toys,LEGO Classic Set,49.99,2,0,49.99,99.98,Credit Card,Delivered,
+ORD-20617,CUST-5074,04-10-24,Beauty,Hair Mask,24.99,3,15,21.24,63.72,Wallet,Delivered,4
+ORD-20618,CUST-5074,28-01-24,Clothing,Cotton T-Shirt,24.99,2,0,24.99,49.98,PayPal,Delivered,
+ORD-20619,CUST-5075,26-12-23,Electronics,USB-C Hub,34.99,2,0,34.99,69.98,Credit Card,Delivered,5
+ORD-20620,CUST-5075,04-04-23,Clothing,Yoga Pants,44.99,2,5,42.74,85.48,UPI,Delivered,5
+ORD-20621,CUST-5075,02-04-22,Books,Data Science Handbook,49.99,4,0,49.99,199.96,PayPal,Delivered,4
+ORD-20622,CUST-5075,13-10-22,Electronics,Smart Watch,199.99,2,20,159.99,319.98,Wallet,Delivered,4
+ORD-20623,CUST-5075,12-05-23,Clothing,Yoga Pants,44.99,3,0,44.99,134.97,Credit Card,Delivered,3
+ORD-20624,CUST-5075,13-06-24,Electronics,Wireless Earbuds,79.99,3,20,63.99,191.97,Debit Card,Delivered,
+ORD-20625,CUST-5075,25-06-22,Beauty,Lip Balm Set,14.99,3,5,14.24,42.72,PayPal,Delivered,3
+ORD-20626,CUST-5075,02-09-24,Clothing,Yoga Pants,44.99,2,0,44.99,89.98,PayPal,Delivered,1
+ORD-20627,CUST-5076,23-11-24,Electronics,USB-C Hub,34.99,4,15,29.74,118.96,Wallet,Processing,4
+ORD-20628,CUST-5076,28-06-24,Clothing,Running Shoes,89.99,3,20,71.99,215.97,Wallet,Cancelled,4
+ORD-20629,CUST-5076,05-05-22,Sports,Resistance Bands,19.99,3,0,19.99,59.97,Wallet,Delivered,
+ORD-20630,CUST-5077,15-03-24,Beauty,Lip Balm Set,14.99,4,0,14.99,59.96,Credit Card,Processing,
+ORD-20631,CUST-5077,17-01-23,Beauty,Moisturizer SPF 50,29.99,1,10,26.99,26.99,PayPal,Delivered,
+ORD-20632,CUST-5077,02-04-24,Home & Kitchen,Blender,64.99,2,15,55.24,110.48,UPI,Delivered,4
+ORD-20633,CUST-5077,11-03-23,Beauty,Lip Balm Set,14.99,2,20,11.99,23.98,Credit Card,Delivered,
+ORD-20634,CUST-5077,18-08-22,Sports,Jump Rope,14.99,3,5,14.24,42.72,PayPal,Delivered,4
+ORD-20635,CUST-5078,19-03-22,Clothing,Yoga Pants,44.99,4,5,42.74,170.96,Wallet,Delivered,3
+ORD-20636,CUST-5078,14-02-24,Books,Fiction Novel,14.99,1,5,14.24,14.24,UPI,Delivered,3
+ORD-20637,CUST-5078,03-11-23,Sports,Resistance Bands,19.99,3,0,19.99,59.97,PayPal,Delivered,
+ORD-20638,CUST-5078,20-07-24,Clothing,Denim Jacket,69.99,3,15,59.49,178.47,Credit Card,Delivered,
+ORD-20639,CUST-5078,12-04-24,Toys,Remote Control Car,39.99,4,0,39.99,159.96,UPI,Delivered,
+ORD-20640,CUST-5078,26-09-23,Clothing,Denim Jacket,69.99,2,0,69.99,139.98,Debit Card,Delivered,4
+ORD-20641,CUST-5078,28-11-23,Clothing,Denim Jacket,69.99,1,5,66.49,66.49,PayPal,Cancelled,
+ORD-20642,CUST-5078,19-12-24,Beauty,Face Serum,39.99,2,20,31.99,63.98,Credit Card,Delivered,5
+ORD-20643,CUST-5078,08-08-23,Beauty,Face Serum,39.99,4,0,39.99,159.96,Debit Card,Delivered,3
+ORD-20644,CUST-5078,08-03-22,Home & Kitchen,Air Fryer,89.99,1,15,76.49,76.49,Credit Card,Delivered,3
+ORD-20645,CUST-5078,14-05-22,Electronics,Wireless Earbuds,79.99,1,10,71.99,71.99,UPI,Delivered,4
+ORD-20646,CUST-5078,28-08-24,Toys,Remote Control Car,39.99,2,5,37.99,75.98,PayPal,Delivered,
+ORD-20647,CUST-5079,26-08-23,Books,Business Analytics,39.99,2,0,39.99,79.98,Debit Card,Delivered,5
+ORD-20648,CUST-5079,28-07-22,Toys,Puzzle 1000pcs,24.99,4,20,19.99,79.96,Debit Card,Delivered,3
+ORD-20649,CUST-5079,04-02-23,Sports,Jump Rope,14.99,4,0,14.99,59.96,Credit Card,Delivered,5
+ORD-20650,CUST-5079,24-01-22,Clothing,Denim Jacket,69.99,2,0,69.99,139.98,Wallet,Delivered,
+ORD-20651,CUST-5079,12-12-24,Home & Kitchen,Coffee Maker,59.99,4,0,59.99,239.96,Wallet,Delivered,4
+ORD-20652,CUST-5079,03-08-23,Clothing,Denim Jacket,69.99,2,5,66.49,132.98,PayPal,Delivered,
+ORD-20653,CUST-5079,01-11-24,Sports,Water Bottle,24.99,3,10,22.49,67.47,UPI,Delivered,4
+ORD-20654,CUST-5080,21-04-22,Beauty,Lip Balm Set,14.99,4,10,13.49,53.96,UPI,Delivered,
+ORD-20655,CUST-5080,06-12-22,Clothing,Yoga Pants,44.99,2,5,42.74,85.48,Wallet,Processing,4
+ORD-20656,CUST-5080,05-10-24,Home & Kitchen,Air Fryer,89.99,3,20,71.99,215.97,UPI,Delivered,3
+ORD-20657,CUST-5080,27-06-23,Beauty,Moisturizer SPF 50,29.99,1,10,26.99,26.99,Debit Card,Delivered,4
+ORD-20658,CUST-5080,21-09-22,Clothing,Cotton T-Shirt,24.99,1,20,19.99,19.99,PayPal,Delivered,5
+ORD-20659,CUST-5081,21-03-23,Sports,Water Bottle,24.99,2,20,19.99,39.98,Wallet,Delivered,5
+ORD-20660,CUST-5081,20-12-24,Clothing,Yoga Pants,44.99,2,0,44.99,89.98,UPI,Delivered,5
+ORD-20661,CUST-5081,06-05-24,Electronics,Smart Watch,199.99,4,0,199.99,799.96,UPI,Delivered,5
+ORD-20662,CUST-5081,23-07-23,Toys,Action Figure,19.99,2,0,19.99,39.98,PayPal,Shipped,5
+ORD-20663,CUST-5081,04-05-22,Home & Kitchen,Blender,64.99,2,15,55.24,110.48,UPI,Delivered,4
+ORD-20664,CUST-5081,23-05-22,Home & Kitchen,Coffee Maker,59.99,1,20,47.99,47.99,Credit Card,Delivered,2
+ORD-20665,CUST-5081,23-02-24,Books,Python for Beginners,29.99,3,0,29.99,89.97,PayPal,Delivered,
+ORD-20666,CUST-5081,27-06-22,Home & Kitchen,Blender,64.99,2,0,64.99,129.98,UPI,Delivered,
+ORD-20667,CUST-5081,27-03-24,Beauty,Lip Balm Set,14.99,2,0,14.99,29.98,Debit Card,Delivered,3
+ORD-20668,CUST-5081,14-07-23,Toys,Remote Control Car,39.99,4,0,39.99,159.96,Debit Card,Delivered,5
+ORD-20669,CUST-5081,06-03-23,Sports,Resistance Bands,19.99,2,20,15.99,31.98,Wallet,Delivered,
+ORD-20670,CUST-5081,05-04-22,Books,Python for Beginners,29.99,2,10,26.99,53.98,Debit Card,Delivered,
+ORD-20671,CUST-5081,10-06-23,Home & Kitchen,Non-stick Pan Set,44.99,2,5,42.74,85.48,PayPal,Delivered,3
+ORD-20672,CUST-5081,22-02-24,Clothing,Cotton T-Shirt,24.99,4,5,23.74,94.96,Debit Card,Delivered,
+ORD-20673,CUST-5082,19-02-24,Sports,Resistance Bands,19.99,4,5,18.99,75.96,Credit Card,Delivered,3
+ORD-20674,CUST-5082,11-02-24,Beauty,Face Serum,39.99,1,20,31.99,31.99,Debit Card,Delivered,
+ORD-20675,CUST-5082,05-07-22,Toys,Puzzle 1000pcs,24.99,4,0,24.99,99.96,Credit Card,Shipped,4
+ORD-20676,CUST-5083,19-10-23,Beauty,Face Serum,39.99,1,0,39.99,39.99,UPI,Returned,
+ORD-20677,CUST-5083,15-08-23,Books,Fiction Novel,14.99,2,5,14.24,28.48,UPI,Delivered,
+ORD-20678,CUST-5083,15-01-23,Clothing,Denim Jacket,69.99,4,0,69.99,279.96,Debit Card,Delivered,5
+ORD-20679,CUST-5084,26-08-23,Electronics,Smart Watch,199.99,3,20,159.99,479.97,Wallet,Delivered,5
+ORD-20680,CUST-5084,22-07-24,Home & Kitchen,Blender,64.99,2,0,64.99,129.98,Debit Card,Delivered,
+ORD-20681,CUST-5084,23-09-23,Sports,Resistance Bands,19.99,3,0,19.99,59.97,PayPal,Delivered,
+ORD-20682,CUST-5084,02-01-24,Books,Business Analytics,39.99,4,15,33.99,135.96,PayPal,Delivered,3
+ORD-20683,CUST-5084,21-01-24,Sports,Water Bottle,24.99,4,20,19.99,79.96,Debit Card,Delivered,5
+ORD-20684,CUST-5084,23-03-22,Electronics,Bluetooth Speaker,49.99,3,5,47.49,142.47,PayPal,Delivered,
+ORD-20685,CUST-5084,02-07-23,Clothing,Yoga Pants,44.99,1,20,35.99,35.99,Credit Card,Delivered,
+ORD-20686,CUST-5084,05-09-22,Sports,Yoga Mat,29.99,1,5,28.49,28.49,PayPal,Cancelled,4
+ORD-20687,CUST-5084,06-08-22,Beauty,Moisturizer SPF 50,29.99,2,15,25.49,50.98,Credit Card,Delivered,2
+ORD-20688,CUST-5084,01-08-23,Sports,Jump Rope,14.99,2,0,14.99,29.98,UPI,Delivered,
+ORD-20689,CUST-5084,16-02-23,Books,Python for Beginners,29.99,2,0,29.99,59.98,Wallet,Delivered,4
+ORD-20690,CUST-5085,06-05-22,Books,Business Analytics,39.99,2,10,35.99,71.98,PayPal,Delivered,
+ORD-20691,CUST-5085,26-03-23,Books,Data Science Handbook,49.99,4,0,49.99,199.96,Credit Card,Delivered,5
+ORD-20692,CUST-5085,09-06-23,Home & Kitchen,Blender,64.99,4,20,51.99,207.96,Wallet,Delivered,5
+ORD-20693,CUST-5085,12-03-23,Home & Kitchen,Blender,64.99,2,10,58.49,116.98,PayPal,Delivered,5
+ORD-20694,CUST-5085,12-12-22,Electronics,USB-C Hub,34.99,2,0,34.99,69.98,Wallet,Delivered,5
+ORD-20695,CUST-5085,26-05-22,Beauty,Lip Balm Set,14.99,1,0,14.99,14.99,Debit Card,Shipped,
+ORD-20696,CUST-5085,14-02-23,Electronics,Wireless Earbuds,79.99,3,0,79.99,239.97,UPI,Delivered,4
+ORD-20697,CUST-5086,20-12-24,Home & Kitchen,Non-stick Pan Set,44.99,2,20,35.99,71.98,UPI,Delivered,3
+ORD-20698,CUST-5086,12-10-24,Electronics,Bluetooth Speaker,49.99,1,0,49.99,49.99,PayPal,Shipped,
+ORD-20699,CUST-5086,18-03-23,Electronics,Wireless Earbuds,79.99,3,0,79.99,239.97,Debit Card,Delivered,3
+ORD-20700,CUST-5086,27-02-22,Home & Kitchen,Blender,64.99,3,0,64.99,194.97,Credit Card,Delivered,
+ORD-20701,CUST-5086,04-11-24,Electronics,Smart Watch,199.99,3,0,199.99,599.97,Wallet,Delivered,4
+ORD-20702,CUST-5086,04-12-23,Clothing,Denim Jacket,69.99,1,0,69.99,69.99,Wallet,Delivered,4
+ORD-20703,CUST-5086,09-05-24,Sports,Resistance Bands,19.99,1,0,19.99,19.99,Credit Card,Delivered,
+ORD-20704,CUST-5086,25-06-23,Beauty,Hair Mask,24.99,4,10,22.49,89.96,Wallet,Delivered,5
+ORD-20705,CUST-5086,20-04-24,Home & Kitchen,Non-stick Pan Set,44.99,2,0,44.99,89.98,Debit Card,Delivered,5
+ORD-20706,CUST-5086,13-04-24,Electronics,Bluetooth Speaker,49.99,4,0,49.99,199.96,PayPal,Delivered,5
+ORD-20707,CUST-5086,22-08-24,Toys,Puzzle 1000pcs,24.99,1,0,24.99,24.99,UPI,Delivered,5
+ORD-20708,CUST-5086,05-10-22,Books,Python for Beginners,29.99,1,15,25.49,25.49,Credit Card,Shipped,5
+ORD-20709,CUST-5086,09-06-22,Electronics,Bluetooth Speaker,49.99,4,5,47.49,189.96,UPI,Delivered,4
+ORD-20710,CUST-5086,08-05-22,Home & Kitchen,Coffee Maker,59.99,4,0,59.99,239.96,Wallet,Delivered,
+ORD-20711,CUST-5087,28-10-22,Toys,Puzzle 1000pcs,24.99,1,5,23.74,23.74,PayPal,Cancelled,3
+ORD-20712,CUST-5087,28-08-24,Clothing,Running Shoes,89.99,4,20,71.99,287.96,PayPal,Delivered,
+ORD-20713,CUST-5087,15-02-23,Home & Kitchen,Coffee Maker,59.99,4,0,59.99,239.96,Debit Card,Delivered,5
+ORD-20714,CUST-5087,26-05-23,Toys,Remote Control Car,39.99,3,20,31.99,95.97,Wallet,Delivered,
+ORD-20715,CUST-5087,27-09-22,Books,Data Science Handbook,49.99,3,0,49.99,149.97,Wallet,Delivered,
+ORD-20716,CUST-5087,21-05-23,Books,Data Science Handbook,49.99,3,20,39.99,119.97,Wallet,Delivered,
+ORD-20717,CUST-5087,20-04-22,Beauty,Hair Mask,24.99,4,0,24.99,99.96,Debit Card,Delivered,3
+ORD-20718,CUST-5087,09-02-23,Toys,LEGO Classic Set,49.99,4,5,47.49,189.96,Wallet,Shipped,4
+ORD-20719,CUST-5087,15-10-24,Beauty,Hair Mask,24.99,4,10,22.49,89.96,Debit Card,Delivered,4
+ORD-20720,CUST-5088,01-01-23,Toys,LEGO Classic Set,49.99,1,0,49.99,49.99,Debit Card,Delivered,
+ORD-20721,CUST-5088,07-04-24,Books,Fiction Novel,14.99,3,5,14.24,42.72,Wallet,Shipped,5
+ORD-20722,CUST-5088,05-07-22,Sports,Yoga Mat,29.99,1,15,25.49,25.49,Wallet,Shipped,
+ORD-20723,CUST-5088,11-01-22,Toys,Action Figure,19.99,3,0,19.99,59.97,Debit Card,Delivered,
+ORD-20724,CUST-5089,02-11-24,Sports,Jump Rope,14.99,2,20,11.99,23.98,Credit Card,Shipped,
+ORD-20725,CUST-5089,07-09-24,Beauty,Lip Balm Set,14.99,4,0,14.99,59.96,PayPal,Delivered,
+ORD-20726,CUST-5089,27-05-24,Home & Kitchen,Blender,64.99,4,5,61.74,246.96,UPI,Delivered,3
+ORD-20727,CUST-5089,20-02-24,Books,Fiction Novel,14.99,1,0,14.99,14.99,Debit Card,Delivered,5
+ORD-20728,CUST-5089,24-08-24,Electronics,Bluetooth Speaker,49.99,1,0,49.99,49.99,Wallet,Delivered,2
+ORD-20729,CUST-5089,19-08-22,Books,Business Analytics,39.99,3,0,39.99,119.97,Debit Card,Delivered,5
+ORD-20730,CUST-5089,25-10-24,Books,Fiction Novel,14.99,2,0,14.99,29.98,UPI,Delivered,5
+ORD-20731,CUST-5090,16-06-24,Electronics,Bluetooth Speaker,49.99,1,5,47.49,47.49,PayPal,Delivered,3
+ORD-20732,CUST-5090,16-09-22,Beauty,Lip Balm Set,14.99,4,5,14.24,56.96,Credit Card,Delivered,
+ORD-20733,CUST-5090,08-03-24,Books,Data Science Handbook,49.99,3,15,42.49,127.47,PayPal,Delivered,5
+ORD-20734,CUST-5090,03-02-22,Clothing,Denim Jacket,69.99,2,15,59.49,118.98,Wallet,Delivered,2
+ORD-20735,CUST-5090,08-09-23,Clothing,Running Shoes,89.99,3,20,71.99,215.97,Credit Card,Delivered,4
+ORD-20736,CUST-5090,24-08-24,Clothing,Cotton T-Shirt,24.99,2,0,24.99,49.98,Credit Card,Delivered,
+ORD-20737,CUST-5090,01-10-24,Sports,Yoga Mat,29.99,3,20,23.99,71.97,Credit Card,Delivered,
+ORD-20738,CUST-5091,13-10-22,Toys,Action Figure,19.99,3,15,16.99,50.97,Wallet,Delivered,4
+ORD-20739,CUST-5091,13-11-24,Electronics,Bluetooth Speaker,49.99,3,20,39.99,119.97,PayPal,Delivered,4
+ORD-20740,CUST-5091,13-07-24,Clothing,Denim Jacket,69.99,2,0,69.99,139.98,PayPal,Delivered,4
+ORD-20741,CUST-5091,21-04-22,Clothing,Cotton T-Shirt,24.99,2,5,23.74,47.48,PayPal,Delivered,5
+ORD-20742,CUST-5091,18-12-22,Home & Kitchen,Blender,64.99,4,0,64.99,259.96,PayPal,Delivered,5
+ORD-20743,CUST-5091,21-05-22,Toys,LEGO Classic Set,49.99,3,10,44.99,134.97,Debit Card,Delivered,
+ORD-20744,CUST-5091,02-08-22,Beauty,Hair Mask,24.99,3,5,23.74,71.22,Debit Card,Delivered,4
+ORD-20745,CUST-5091,21-07-24,Beauty,Face Serum,39.99,4,5,37.99,151.96,Credit Card,Delivered,
+ORD-20746,CUST-5091,18-11-22,Sports,Water Bottle,24.99,1,0,24.99,24.99,Wallet,Shipped,
+ORD-20747,CUST-5091,05-10-24,Books,Fiction Novel,14.99,1,0,14.99,14.99,Debit Card,Delivered,4
+ORD-20748,CUST-5091,02-07-23,Clothing,Denim Jacket,69.99,2,0,69.99,139.98,UPI,Delivered,4
+ORD-20749,CUST-5091,06-05-22,Electronics,Bluetooth Speaker,49.99,2,5,47.49,94.98,Credit Card,Delivered,3
+ORD-20750,CUST-5091,27-05-22,Books,Data Science Handbook,49.99,3,0,49.99,149.97,Credit Card,Delivered,
+ORD-20751,CUST-5091,16-07-22,Clothing,Cotton T-Shirt,24.99,1,0,24.99,24.99,UPI,Delivered,5
+ORD-20752,CUST-5092,04-01-23,Toys,Remote Control Car,39.99,4,5,37.99,151.96,PayPal,Delivered,4
+ORD-20753,CUST-5092,02-09-23,Beauty,Hair Mask,24.99,2,20,19.99,39.98,Wallet,Delivered,5
+ORD-20754,CUST-5092,11-12-23,Clothing,Running Shoes,89.99,3,0,89.99,269.97,Wallet,Delivered,5
+ORD-20755,CUST-5092,07-02-22,Home & Kitchen,Blender,64.99,4,0,64.99,259.96,UPI,Processing,
+ORD-20756,CUST-5092,14-04-23,Toys,Remote Control Car,39.99,3,15,33.99,101.97,UPI,Delivered,
+ORD-20757,CUST-5093,09-06-23,Clothing,Running Shoes,89.99,2,0,89.99,179.98,Debit Card,Delivered,5
+ORD-20758,CUST-5093,14-08-24,Beauty,Face Serum,39.99,4,0,39.99,159.96,Debit Card,Delivered,
+ORD-20759,CUST-5093,11-12-23,Sports,Yoga Mat,29.99,1,0,29.99,29.99,Debit Card,Delivered,4
+ORD-20760,CUST-5093,28-04-23,Home & Kitchen,Coffee Maker,59.99,3,0,59.99,179.97,Debit Card,Delivered,4
+ORD-20761,CUST-5093,02-11-24,Electronics,Bluetooth Speaker,49.99,3,0,49.99,149.97,UPI,Delivered,
+ORD-20762,CUST-5093,22-04-23,Home & Kitchen,Air Fryer,89.99,3,0,89.99,269.97,Debit Card,Delivered,5
+ORD-20763,CUST-5093,17-06-22,Home & Kitchen,Non-stick Pan Set,44.99,3,0,44.99,134.97,PayPal,Delivered,4
+ORD-20764,CUST-5093,09-08-24,Sports,Yoga Mat,29.99,3,15,25.49,76.47,UPI,Delivered,5
+ORD-20765,CUST-5094,12-04-24,Books,Fiction Novel,14.99,3,10,13.49,40.47,PayPal,Delivered,4
+ORD-20766,CUST-5095,18-10-24,Toys,Puzzle 1000pcs,24.99,1,15,21.24,21.24,PayPal,Delivered,
+ORD-20767,CUST-5095,02-05-22,Electronics,USB-C Hub,34.99,2,20,27.99,55.98,Wallet,Delivered,
+ORD-20768,CUST-5095,20-02-23,Clothing,Cotton T-Shirt,24.99,1,10,22.49,22.49,Wallet,Delivered,3
+ORD-20769,CUST-5095,08-07-23,Sports,Yoga Mat,29.99,2,20,23.99,47.98,Debit Card,Delivered,
+ORD-20770,CUST-5095,01-07-24,Toys,Remote Control Car,39.99,2,15,33.99,67.98,Wallet,Delivered,
+ORD-20771,CUST-5095,05-08-23,Home & Kitchen,Coffee Maker,59.99,1,5,56.99,56.99,Wallet,Delivered,4
+ORD-20772,CUST-5095,09-04-22,Toys,Puzzle 1000pcs,24.99,3,15,21.24,63.72,Wallet,Delivered,4
+ORD-20773,CUST-5096,24-06-22,Electronics,Smart Watch,199.99,2,15,169.99,339.98,Credit Card,Delivered,5
+ORD-20774,CUST-5096,18-01-22,Toys,Remote Control Car,39.99,3,0,39.99,119.97,Wallet,Shipped,5
+ORD-20775,CUST-5096,07-01-22,Toys,LEGO Classic Set,49.99,4,0,49.99,199.96,Wallet,Delivered,5
+ORD-20776,CUST-5096,09-02-22,Clothing,Running Shoes,89.99,2,5,85.49,170.98,Wallet,Delivered,
+ORD-20777,CUST-5096,15-04-22,Sports,Yoga Mat,29.99,1,0,29.99,29.99,UPI,Delivered,
+ORD-20778,CUST-5096,16-06-22,Home & Kitchen,Non-stick Pan Set,44.99,2,20,35.99,71.98,Wallet,Delivered,
+ORD-20779,CUST-5096,24-02-22,Beauty,Lip Balm Set,14.99,4,0,14.99,59.96,Debit Card,Returned,4
+ORD-20780,CUST-5096,24-01-22,Home & Kitchen,Blender,64.99,3,5,61.74,185.22,UPI,Delivered,4
+ORD-20781,CUST-5096,26-06-24,Clothing,Yoga Pants,44.99,3,10,40.49,121.47,UPI,Delivered,4
+ORD-20782,CUST-5096,20-03-22,Home & Kitchen,Coffee Maker,59.99,1,10,53.99,53.99,Debit Card,Delivered,4
+ORD-20783,CUST-5096,04-02-23,Sports,Resistance Bands,19.99,1,0,19.99,19.99,Credit Card,Processing,4
+ORD-20784,CUST-5096,18-12-24,Home & Kitchen,Coffee Maker,59.99,3,0,59.99,179.97,Credit Card,Delivered,
+ORD-20785,CUST-5096,24-10-24,Clothing,Cotton T-Shirt,24.99,2,5,23.74,47.48,Debit Card,Delivered,4
+ORD-20786,CUST-5097,18-05-24,Home & Kitchen,Blender,64.99,2,15,55.24,110.48,Wallet,Delivered,
+ORD-20787,CUST-5097,03-12-23,Electronics,Bluetooth Speaker,49.99,1,0,49.99,49.99,Wallet,Delivered,
+ORD-20788,CUST-5097,13-10-23,Clothing,Running Shoes,89.99,2,0,89.99,179.98,Debit Card,Delivered,4
+ORD-20789,CUST-5097,26-08-23,Toys,LEGO Classic Set,49.99,2,0,49.99,99.98,Debit Card,Shipped,3
+ORD-20790,CUST-5097,26-01-24,Books,Business Analytics,39.99,1,10,35.99,35.99,PayPal,Returned,
+ORD-20791,CUST-5097,18-12-24,Home & Kitchen,Blender,64.99,4,10,58.49,233.96,PayPal,Delivered,
+ORD-20792,CUST-5097,01-11-22,Sports,Yoga Mat,29.99,4,20,23.99,95.96,PayPal,Delivered,4
+ORD-20793,CUST-5097,28-07-22,Sports,Resistance Bands,19.99,3,0,19.99,59.97,PayPal,Delivered,4
+ORD-20794,CUST-5097,16-05-22,Toys,LEGO Classic Set,49.99,1,5,47.49,47.49,UPI,Delivered,
+ORD-20795,CUST-5098,10-01-24,Toys,Action Figure,19.99,3,0,19.99,59.97,UPI,Delivered,4
+ORD-20796,CUST-5098,06-02-24,Clothing,Cotton T-Shirt,24.99,4,0,24.99,99.96,Debit Card,Delivered,
+ORD-20797,CUST-5098,09-09-22,Clothing,Cotton T-Shirt,24.99,4,0,24.99,99.96,Wallet,Delivered,
+ORD-20798,CUST-5098,15-06-24,Sports,Yoga Mat,29.99,2,10,26.99,53.98,Wallet,Delivered,5
+ORD-20799,CUST-5098,19-01-24,Electronics,Bluetooth Speaker,49.99,1,15,42.49,42.49,UPI,Delivered,4
+ORD-20800,CUST-5098,26-03-23,Clothing,Running Shoes,89.99,4,20,71.99,287.96,Wallet,Delivered,
+ORD-20801,CUST-5098,23-12-22,Clothing,Running Shoes,89.99,1,5,85.49,85.49,UPI,Delivered,
+ORD-20802,CUST-5098,16-09-23,Toys,LEGO Classic Set,49.99,1,0,49.99,49.99,PayPal,Shipped,4
+ORD-20803,CUST-5098,25-06-22,Electronics,Bluetooth Speaker,49.99,1,5,47.49,47.49,Debit Card,Delivered,
+ORD-20804,CUST-5098,11-09-23,Clothing,Denim Jacket,69.99,1,15,59.49,59.49,UPI,Shipped,4
+ORD-20805,CUST-5098,02-04-23,Toys,Remote Control Car,39.99,4,20,31.99,127.96,PayPal,Delivered,
+ORD-20806,CUST-5099,21-02-22,Toys,Action Figure,19.99,1,10,17.99,17.99,PayPal,Delivered,4
+ORD-20807,CUST-5099,15-04-24,Toys,LEGO Classic Set,49.99,3,10,44.99,134.97,PayPal,Delivered,3
+ORD-20808,CUST-5099,06-04-22,Books,Python for Beginners,29.99,1,10,26.99,26.99,UPI,Delivered,
+ORD-20809,CUST-5099,08-09-23,Toys,Puzzle 1000pcs,24.99,3,15,21.24,63.72,UPI,Cancelled,5
+ORD-20810,CUST-5099,24-02-24,Home & Kitchen,Blender,64.99,1,0,64.99,64.99,PayPal,Delivered,4
+ORD-20811,CUST-5099,03-04-22,Clothing,Yoga Pants,44.99,1,0,44.99,44.99,Debit Card,Delivered,1
+ORD-20812,CUST-5099,17-11-22,Toys,Action Figure,19.99,1,15,16.99,16.99,UPI,Delivered,5
+ORD-20813,CUST-5099,13-09-24,Home & Kitchen,Non-stick Pan Set,44.99,3,0,44.99,134.97,Wallet,Delivered,3
+ORD-20814,CUST-5099,07-10-24,Home & Kitchen,Non-stick Pan Set,44.99,2,10,40.49,80.98,PayPal,Delivered,5
+ORD-20815,CUST-5100,11-02-23,Clothing,Cotton T-Shirt,24.99,3,5,23.74,71.22,Credit Card,Delivered,4
+ORD-20816,CUST-5100,25-04-24,Sports,Yoga Mat,29.99,3,0,29.99,89.97,Wallet,Delivered,4
+ORD-20817,CUST-5100,01-04-22,Toys,Remote Control Car,39.99,4,20,31.99,127.96,PayPal,Delivered,4
+ORD-20818,CUST-5100,24-01-24,Sports,Jump Rope,14.99,1,10,13.49,13.49,Debit Card,Delivered,4
+ORD-20819,CUST-5100,16-04-24,Clothing,Running Shoes,89.99,1,0,89.99,89.99,PayPal,Delivered,3
+ORD-20820,CUST-5100,12-04-23,Clothing,Running Shoes,89.99,1,5,85.49,85.49,Credit Card,Delivered,5
+ORD-20821,CUST-5100,24-10-22,Sports,Resistance Bands,19.99,3,0,19.99,59.97,Debit Card,Delivered,5
+ORD-20822,CUST-5100,12-01-24,Clothing,Yoga Pants,44.99,1,10,40.49,40.49,Credit Card,Delivered,4
+ORD-20823,CUST-5100,28-03-22,Home & Kitchen,Non-stick Pan Set,44.99,3,5,42.74,128.22,PayPal,Delivered,4
+ORD-20824,CUST-5100,19-01-23,Beauty,Moisturizer SPF 50,29.99,1,15,25.49,25.49,PayPal,Delivered,
+ORD-20825,CUST-5100,25-10-23,Sports,Jump Rope,14.99,4,0,14.99,59.96,Credit Card,Delivered,5
+ORD-20826,CUST-5101,08-07-22,Sports,Water Bottle,24.99,2,0,24.99,49.98,Credit Card,Delivered,5
+ORD-20827,CUST-5101,15-09-22,Home & Kitchen,Air Fryer,89.99,1,10,80.99,80.99,PayPal,Delivered,3
+ORD-20828,CUST-5101,08-10-22,Toys,Action Figure,19.99,1,20,15.99,15.99,Wallet,Delivered,5
+ORD-20829,CUST-5101,24-11-23,Home & Kitchen,Non-stick Pan Set,44.99,1,10,40.49,40.49,Wallet,Delivered,2
+ORD-20830,CUST-5101,24-02-22,Home & Kitchen,Coffee Maker,59.99,1,5,56.99,56.99,PayPal,Delivered,3
+ORD-20831,CUST-5101,25-04-22,Sports,Jump Rope,14.99,1,5,14.24,14.24,Wallet,Delivered,4
+ORD-20832,CUST-5101,14-01-24,Home & Kitchen,Blender,64.99,2,10,58.49,116.98,Credit Card,Delivered,4
+ORD-20833,CUST-5102,11-07-23,Electronics,USB-C Hub,34.99,4,0,34.99,139.96,Credit Card,Delivered,
+ORD-20834,CUST-5102,23-03-23,Electronics,Bluetooth Speaker,49.99,2,10,44.99,89.98,Credit Card,Delivered,2
+ORD-20835,CUST-5102,10-12-23,Books,Business Analytics,39.99,4,5,37.99,151.96,Wallet,Delivered,
+ORD-20836,CUST-5102,18-09-22,Electronics,Smart Watch,199.99,4,0,199.99,799.96,Wallet,Delivered,4
+ORD-20837,CUST-5102,24-03-24,Sports,Yoga Mat,29.99,1,15,25.49,25.49,Debit Card,Processing,2
+ORD-20838,CUST-5102,19-05-22,Beauty,Lip Balm Set,14.99,1,10,13.49,13.49,PayPal,Shipped,4
+ORD-20839,CUST-5102,26-12-24,Sports,Jump Rope,14.99,4,20,11.99,47.96,Credit Card,Delivered,3
+ORD-20840,CUST-5102,13-03-23,Beauty,Hair Mask,24.99,4,0,24.99,99.96,Credit Card,Delivered,5
+ORD-20841,CUST-5102,17-08-23,Beauty,Moisturizer SPF 50,29.99,3,0,29.99,89.97,PayPal,Delivered,5
+ORD-20842,CUST-5102,15-04-23,Electronics,USB-C Hub,34.99,3,0,34.99,104.97,Debit Card,Delivered,
+ORD-20843,CUST-5102,15-02-22,Books,Business Analytics,39.99,3,20,31.99,95.97,Wallet,Delivered,4
+ORD-20844,CUST-5102,20-07-22,Beauty,Hair Mask,24.99,2,0,24.99,49.98,Wallet,Delivered,3
+ORD-20845,CUST-5102,10-10-23,Clothing,Cotton T-Shirt,24.99,2,5,23.74,47.48,UPI,Delivered,
+ORD-20846,CUST-5102,21-03-23,Beauty,Face Serum,39.99,1,20,31.99,31.99,Credit Card,Delivered,5
+ORD-20847,CUST-5102,20-04-24,Sports,Yoga Mat,29.99,3,0,29.99,89.97,Credit Card,Delivered,2
+ORD-20848,CUST-5103,25-04-22,Home & Kitchen,Air Fryer,89.99,3,5,85.49,256.47,Debit Card,Delivered,1
+ORD-20849,CUST-5104,10-09-22,Books,Business Analytics,39.99,4,10,35.99,143.96,Credit Card,Delivered,4
+ORD-20850,CUST-5104,05-07-22,Sports,Resistance Bands,19.99,1,0,19.99,19.99,UPI,Delivered,2
+ORD-20851,CUST-5104,21-10-23,Beauty,Hair Mask,24.99,1,20,19.99,19.99,Debit Card,Shipped,
+ORD-20852,CUST-5104,19-01-22,Toys,LEGO Classic Set,49.99,4,15,42.49,169.96,Wallet,Delivered,5
+ORD-20853,CUST-5104,08-12-22,Books,Data Science Handbook,49.99,4,0,49.99,199.96,Credit Card,Delivered,3
+ORD-20854,CUST-5104,17-01-24,Books,Python for Beginners,29.99,2,0,29.99,59.98,UPI,Delivered,
+ORD-20855,CUST-5105,28-11-24,Toys,LEGO Classic Set,49.99,1,20,39.99,39.99,Credit Card,Delivered,
+ORD-20856,CUST-5105,26-09-22,Toys,Action Figure,19.99,4,0,19.99,79.96,Credit Card,Delivered,5
+ORD-20857,CUST-5105,22-08-24,Books,Business Analytics,39.99,4,15,33.99,135.96,PayPal,Delivered,5
+ORD-20858,CUST-5105,19-02-24,Beauty,Moisturizer SPF 50,29.99,3,20,23.99,71.97,Debit Card,Delivered,
+ORD-20859,CUST-5105,07-09-23,Books,Fiction Novel,14.99,4,15,12.74,50.96,UPI,Delivered,
+ORD-20860,CUST-5105,27-02-23,Sports,Yoga Mat,29.99,4,0,29.99,119.96,Credit Card,Delivered,5
+ORD-20861,CUST-5105,16-08-22,Sports,Jump Rope,14.99,1,5,14.24,14.24,Wallet,Delivered,4
+ORD-20862,CUST-5106,20-04-24,Home & Kitchen,Non-stick Pan Set,44.99,2,15,38.24,76.48,Wallet,Delivered,5
+ORD-20863,CUST-5106,25-10-22,Home & Kitchen,Air Fryer,89.99,2,0,89.99,179.98,Debit Card,Delivered,5
+ORD-20864,CUST-5106,03-03-24,Home & Kitchen,Non-stick Pan Set,44.99,4,0,44.99,179.96,Debit Card,Delivered,
+ORD-20865,CUST-5106,12-09-24,Clothing,Yoga Pants,44.99,2,0,44.99,89.98,Wallet,Delivered,
+ORD-20866,CUST-5106,09-12-24,Books,Python for Beginners,29.99,2,15,25.49,50.98,UPI,Delivered,4
+ORD-20867,CUST-5106,04-12-23,Beauty,Moisturizer SPF 50,29.99,2,0,29.99,59.98,Credit Card,Delivered,3
+ORD-20868,CUST-5106,04-04-23,Beauty,Hair Mask,24.99,1,0,24.99,24.99,UPI,Delivered,2
+ORD-20869,CUST-5106,13-01-22,Toys,Remote Control Car,39.99,2,10,35.99,71.98,Wallet,Delivered,3
+ORD-20870,CUST-5106,13-12-24,Clothing,Denim Jacket,69.99,3,5,66.49,199.47,Credit Card,Delivered,3
+ORD-20871,CUST-5106,17-04-22,Electronics,Wireless Earbuds,79.99,3,5,75.99,227.97,Wallet,Delivered,1
+ORD-20872,CUST-5106,14-04-22,Electronics,USB-C Hub,34.99,4,5,33.24,132.96,Credit Card,Delivered,
+ORD-20873,CUST-5107,07-03-23,Sports,Water Bottle,24.99,4,0,24.99,99.96,UPI,Delivered,3
+ORD-20874,CUST-5107,04-10-24,Clothing,Cotton T-Shirt,24.99,3,0,24.99,74.97,Credit Card,Returned,4
+ORD-20875,CUST-5107,01-01-22,Clothing,Running Shoes,89.99,3,5,85.49,256.47,UPI,Delivered,
+ORD-20876,CUST-5108,22-06-24,Books,Fiction Novel,14.99,3,0,14.99,44.97,Credit Card,Delivered,5
+ORD-20877,CUST-5108,23-12-23,Books,Business Analytics,39.99,1,0,39.99,39.99,PayPal,Processing,4
+ORD-20878,CUST-5108,17-12-23,Clothing,Denim Jacket,69.99,1,15,59.49,59.49,PayPal,Delivered,
+ORD-20879,CUST-5108,15-08-24,Clothing,Cotton T-Shirt,24.99,1,0,24.99,24.99,Credit Card,Delivered,3
+ORD-20880,CUST-5108,19-05-23,Clothing,Denim Jacket,69.99,4,15,59.49,237.96,Debit Card,Delivered,5
+ORD-20881,CUST-5108,28-02-24,Toys,LEGO Classic Set,49.99,2,20,39.99,79.98,Credit Card,Delivered,3
+ORD-20882,CUST-5108,26-01-22,Beauty,Lip Balm Set,14.99,2,10,13.49,26.98,Credit Card,Cancelled,
+ORD-20883,CUST-5108,21-10-24,Clothing,Running Shoes,89.99,3,15,76.49,229.47,Debit Card,Cancelled,
+ORD-20884,CUST-5108,14-05-24,Home & Kitchen,Non-stick Pan Set,44.99,1,0,44.99,44.99,PayPal,Delivered,
+ORD-20885,CUST-5108,28-08-24,Sports,Jump Rope,14.99,3,10,13.49,40.47,Credit Card,Delivered,4
+ORD-20886,CUST-5108,15-04-22,Clothing,Running Shoes,89.99,4,10,80.99,323.96,PayPal,Delivered,4
+ORD-20887,CUST-5108,20-03-23,Books,Fiction Novel,14.99,3,15,12.74,38.22,Wallet,Delivered,5
+ORD-20888,CUST-5108,02-09-23,Clothing,Cotton T-Shirt,24.99,4,15,21.24,84.96,UPI,Delivered,
+ORD-20889,CUST-5109,21-03-24,Clothing,Running Shoes,89.99,1,0,89.99,89.99,PayPal,Delivered,5
+ORD-20890,CUST-5109,24-02-23,Clothing,Cotton T-Shirt,24.99,3,0,24.99,74.97,PayPal,Delivered,5
+ORD-20891,CUST-5109,02-02-24,Clothing,Yoga Pants,44.99,2,10,40.49,80.98,Debit Card,Delivered,3
+ORD-20892,CUST-5109,01-12-23,Sports,Yoga Mat,29.99,4,20,23.99,95.96,Credit Card,Delivered,4
+ORD-20893,CUST-5109,16-08-24,Beauty,Moisturizer SPF 50,29.99,4,10,26.99,107.96,UPI,Delivered,5
+ORD-20894,CUST-5109,02-10-22,Books,Data Science Handbook,49.99,4,0,49.99,199.96,Credit Card,Delivered,4
+ORD-20895,CUST-5110,09-12-22,Electronics,Smart Watch,199.99,3,15,169.99,509.97,UPI,Delivered,4
+ORD-20896,CUST-5110,28-08-22,Toys,Action Figure,19.99,4,0,19.99,79.96,UPI,Delivered,4
+ORD-20897,CUST-5110,02-08-24,Clothing,Denim Jacket,69.99,1,15,59.49,59.49,Debit Card,Processing,
+ORD-20898,CUST-5110,03-09-22,Books,Python for Beginners,29.99,3,15,25.49,76.47,UPI,Delivered,
+ORD-20899,CUST-5110,22-12-24,Toys,LEGO Classic Set,49.99,1,0,49.99,49.99,UPI,Delivered,
+ORD-20900,CUST-5111,01-01-23,Beauty,Hair Mask,24.99,3,5,23.74,71.22,Wallet,Delivered,
+ORD-20901,CUST-5111,16-07-23,Electronics,Wireless Earbuds,79.99,3,20,63.99,191.97,UPI,Delivered,3
+ORD-20902,CUST-5111,05-12-23,Clothing,Denim Jacket,69.99,4,5,66.49,265.96,Wallet,Delivered,
+ORD-20903,CUST-5111,24-07-24,Books,Fiction Novel,14.99,4,0,14.99,59.96,Credit Card,Delivered,
+ORD-20904,CUST-5111,17-02-22,Toys,LEGO Classic Set,49.99,4,0,49.99,199.96,PayPal,Delivered,4
+ORD-20905,CUST-5111,25-10-23,Books,Business Analytics,39.99,4,10,35.99,143.96,UPI,Delivered,
+ORD-20906,CUST-5111,11-06-24,Electronics,Bluetooth Speaker,49.99,2,0,49.99,99.98,UPI,Delivered,4
+ORD-20907,CUST-5111,22-02-23,Toys,LEGO Classic Set,49.99,4,20,39.99,159.96,Wallet,Cancelled,5
+ORD-20908,CUST-5111,23-07-24,Home & Kitchen,Non-stick Pan Set,44.99,3,20,35.99,107.97,Wallet,Delivered,4
+ORD-20909,CUST-5111,16-03-22,Toys,Remote Control Car,39.99,4,0,39.99,159.96,UPI,Delivered,4
+ORD-20910,CUST-5111,16-06-23,Sports,Jump Rope,14.99,2,5,14.24,28.48,Debit Card,Delivered,2
+ORD-20911,CUST-5111,12-06-22,Home & Kitchen,Coffee Maker,59.99,4,0,59.99,239.96,UPI,Delivered,3
+ORD-20912,CUST-5111,08-07-22,Electronics,USB-C Hub,34.99,1,0,34.99,34.99,UPI,Delivered,
+ORD-20913,CUST-5111,16-02-24,Sports,Water Bottle,24.99,2,0,24.99,49.98,PayPal,Delivered,
+ORD-20914,CUST-5111,14-10-22,Electronics,Wireless Earbuds,79.99,1,20,63.99,63.99,Wallet,Delivered,5
+ORD-20915,CUST-5112,11-02-24,Clothing,Running Shoes,89.99,2,10,80.99,161.98,UPI,Shipped,3
+ORD-20916,CUST-5112,16-07-22,Electronics,USB-C Hub,34.99,4,0,34.99,139.96,Wallet,Shipped,2
+ORD-20917,CUST-5112,06-12-24,Clothing,Running Shoes,89.99,3,20,71.99,215.97,PayPal,Shipped,
+ORD-20918,CUST-5112,25-10-24,Clothing,Yoga Pants,44.99,3,20,35.99,107.97,UPI,Delivered,
+ORD-20919,CUST-5112,05-09-24,Sports,Jump Rope,14.99,3,0,14.99,44.97,Debit Card,Delivered,4
+ORD-20920,CUST-5112,14-04-24,Home & Kitchen,Blender,64.99,2,15,55.24,110.48,UPI,Delivered,4
+ORD-20921,CUST-5112,27-04-22,Books,Fiction Novel,14.99,1,0,14.99,14.99,Credit Card,Delivered,3
+ORD-20922,CUST-5112,19-03-23,Toys,Action Figure,19.99,3,5,18.99,56.97,UPI,Delivered,4
+ORD-20923,CUST-5112,04-02-22,Electronics,USB-C Hub,34.99,2,0,34.99,69.98,PayPal,Delivered,
+ORD-20924,CUST-5112,17-11-24,Toys,Remote Control Car,39.99,1,0,39.99,39.99,Credit Card,Delivered,2
+ORD-20925,CUST-5112,10-06-22,Books,Fiction Novel,14.99,3,0,14.99,44.97,Wallet,Delivered,4
+ORD-20926,CUST-5113,10-11-22,Beauty,Face Serum,39.99,1,20,31.99,31.99,PayPal,Delivered,5
+ORD-20927,CUST-5113,08-08-22,Sports,Jump Rope,14.99,2,5,14.24,28.48,PayPal,Shipped,4
+ORD-20928,CUST-5113,27-08-23,Home & Kitchen,Coffee Maker,59.99,1,0,59.99,59.99,Wallet,Delivered,5
+ORD-20929,CUST-5113,06-07-24,Clothing,Yoga Pants,44.99,2,20,35.99,71.98,UPI,Delivered,5
+ORD-20930,CUST-5113,14-08-24,Sports,Resistance Bands,19.99,1,10,17.99,17.99,Credit Card,Shipped,5
+ORD-20931,CUST-5113,19-10-24,Toys,LEGO Classic Set,49.99,2,0,49.99,99.98,Debit Card,Delivered,5
+ORD-20932,CUST-5113,24-03-23,Electronics,Wireless Earbuds,79.99,3,20,63.99,191.97,Credit Card,Processing,
+ORD-20933,CUST-5113,16-04-22,Home & Kitchen,Coffee Maker,59.99,3,5,56.99,170.97,Debit Card,Delivered,
+ORD-20934,CUST-5114,01-10-23,Home & Kitchen,Non-stick Pan Set,44.99,3,5,42.74,128.22,UPI,Delivered,4
+ORD-20935,CUST-5114,13-08-23,Books,Business Analytics,39.99,3,10,35.99,107.97,Wallet,Delivered,4
+ORD-20936,CUST-5114,21-03-22,Clothing,Yoga Pants,44.99,4,0,44.99,179.96,Debit Card,Delivered,4
+ORD-20937,CUST-5114,26-10-24,Toys,LEGO Classic Set,49.99,1,10,44.99,44.99,Wallet,Delivered,5
+ORD-20938,CUST-5114,05-06-22,Sports,Water Bottle,24.99,2,10,22.49,44.98,UPI,Delivered,3
+ORD-20939,CUST-5114,13-02-22,Clothing,Running Shoes,89.99,1,10,80.99,80.99,Wallet,Delivered,
+ORD-20940,CUST-5114,18-01-22,Toys,LEGO Classic Set,49.99,1,20,39.99,39.99,Debit Card,Delivered,4
+ORD-20941,CUST-5114,06-09-22,Electronics,Smart Watch,199.99,2,0,199.99,399.98,Credit Card,Delivered,
+ORD-20942,CUST-5114,23-05-23,Sports,Water Bottle,24.99,3,15,21.24,63.72,Credit Card,Delivered,
+ORD-20943,CUST-5114,20-01-24,Sports,Water Bottle,24.99,4,20,19.99,79.96,PayPal,Delivered,5
+ORD-20944,CUST-5115,03-09-24,Electronics,USB-C Hub,34.99,2,15,29.74,59.48,Credit Card,Cancelled,5
+ORD-20945,CUST-5115,25-06-23,Clothing,Running Shoes,89.99,2,20,71.99,143.98,Debit Card,Delivered,4
+ORD-20946,CUST-5115,11-11-24,Electronics,Wireless Earbuds,79.99,1,0,79.99,79.99,UPI,Delivered,5
+ORD-20947,CUST-5115,19-01-24,Beauty,Lip Balm Set,14.99,2,20,11.99,23.98,UPI,Shipped,5
+ORD-20948,CUST-5115,04-08-24,Beauty,Lip Balm Set,14.99,2,10,13.49,26.98,Debit Card,Delivered,5
+ORD-20949,CUST-5115,15-11-23,Home & Kitchen,Air Fryer,89.99,3,0,89.99,269.97,PayPal,Delivered,
+ORD-20950,CUST-5115,25-02-23,Sports,Jump Rope,14.99,1,5,14.24,14.24,PayPal,Delivered,4
+ORD-20951,CUST-5115,21-09-22,Toys,LEGO Classic Set,49.99,2,0,49.99,99.98,Wallet,Delivered,
+ORD-20952,CUST-5115,26-04-24,Toys,LEGO Classic Set,49.99,3,10,44.99,134.97,Wallet,Delivered,4
+ORD-20953,CUST-5116,08-12-24,Books,Business Analytics,39.99,2,20,31.99,63.98,Debit Card,Delivered,3
+ORD-20954,CUST-5116,24-08-24,Beauty,Lip Balm Set,14.99,3,0,14.99,44.97,PayPal,Delivered,3
+ORD-20955,CUST-5116,02-03-23,Sports,Water Bottle,24.99,3,20,19.99,59.97,PayPal,Delivered,5
+ORD-20956,CUST-5116,18-02-24,Books,Data Science Handbook,49.99,3,20,39.99,119.97,Credit Card,Delivered,5
+ORD-20957,CUST-5116,03-07-22,Books,Fiction Novel,14.99,1,20,11.99,11.99,PayPal,Delivered,
+ORD-20958,CUST-5116,14-06-22,Clothing,Running Shoes,89.99,1,0,89.99,89.99,UPI,Delivered,1
+ORD-20959,CUST-5117,25-06-23,Sports,Jump Rope,14.99,4,0,14.99,59.96,UPI,Delivered,4
+ORD-20960,CUST-5117,27-06-24,Books,Python for Beginners,29.99,2,0,29.99,59.98,PayPal,Delivered,4
+ORD-20961,CUST-5118,15-10-23,Books,Data Science Handbook,49.99,2,15,42.49,84.98,PayPal,Delivered,4
+ORD-20962,CUST-5118,03-04-22,Books,Fiction Novel,14.99,3,0,14.99,44.97,Credit Card,Delivered,5
+ORD-20963,CUST-5118,24-06-24,Clothing,Denim Jacket,69.99,2,15,59.49,118.98,Wallet,Processing,2
+ORD-20964,CUST-5118,09-01-23,Books,Business Analytics,39.99,1,10,35.99,35.99,Debit Card,Shipped,4
+ORD-20965,CUST-5118,06-05-24,Sports,Water Bottle,24.99,2,20,19.99,39.98,Debit Card,Delivered,5
+ORD-20966,CUST-5118,07-12-22,Sports,Yoga Mat,29.99,2,20,23.99,47.98,Credit Card,Delivered,5
+ORD-20967,CUST-5118,23-10-24,Home & Kitchen,Non-stick Pan Set,44.99,2,10,40.49,80.98,Credit Card,Delivered,3
+ORD-20968,CUST-5118,20-08-24,Beauty,Hair Mask,24.99,3,0,24.99,74.97,PayPal,Delivered,4
+ORD-20969,CUST-5118,09-01-24,Electronics,USB-C Hub,34.99,2,10,31.49,62.98,Credit Card,Delivered,5
+ORD-20970,CUST-5118,22-01-24,Beauty,Moisturizer SPF 50,29.99,3,5,28.49,85.47,PayPal,Shipped,
+ORD-20971,CUST-5118,26-09-22,Beauty,Lip Balm Set,14.99,1,20,11.99,11.99,Debit Card,Delivered,5
+ORD-20972,CUST-5118,24-11-24,Toys,Action Figure,19.99,4,0,19.99,79.96,Debit Card,Delivered,5
+ORD-20973,CUST-5118,06-06-22,Clothing,Cotton T-Shirt,24.99,1,15,21.24,21.24,Debit Card,Shipped,4
+ORD-20974,CUST-5118,27-12-22,Clothing,Cotton T-Shirt,24.99,2,0,24.99,49.98,PayPal,Delivered,
+ORD-20975,CUST-5118,05-10-23,Toys,Action Figure,19.99,1,0,19.99,19.99,Credit Card,Delivered,
+ORD-20976,CUST-5119,21-08-24,Toys,Remote Control Car,39.99,3,0,39.99,119.97,Wallet,Shipped,5
+ORD-20977,CUST-5119,21-10-22,Home & Kitchen,Coffee Maker,59.99,3,0,59.99,179.97,Debit Card,Delivered,4
+ORD-20978,CUST-5120,21-12-22,Sports,Yoga Mat,29.99,2,0,29.99,59.98,Wallet,Delivered,
+ORD-20979,CUST-5120,08-04-24,Home & Kitchen,Air Fryer,89.99,3,0,89.99,269.97,Wallet,Delivered,4
+ORD-20980,CUST-5120,04-09-24,Sports,Yoga Mat,29.99,2,0,29.99,59.98,Credit Card,Delivered,
+ORD-20981,CUST-5120,21-10-24,Beauty,Lip Balm Set,14.99,3,0,14.99,44.97,Credit Card,Delivered,5
+ORD-20982,CUST-5120,07-02-23,Toys,LEGO Classic Set,49.99,4,0,49.99,199.96,Wallet,Delivered,5
+ORD-20983,CUST-5120,22-04-22,Beauty,Face Serum,39.99,4,10,35.99,143.96,Credit Card,Delivered,5
+ORD-20984,CUST-5120,18-04-22,Electronics,USB-C Hub,34.99,3,0,34.99,104.97,Debit Card,Returned,
+ORD-20985,CUST-5120,14-02-23,Toys,LEGO Classic Set,49.99,4,0,49.99,199.96,Wallet,Delivered,
+ORD-20986,CUST-5120,13-09-22,Books,Data Science Handbook,49.99,4,20,39.99,159.96,UPI,Delivered,3
+ORD-20987,CUST-5120,04-12-22,Home & Kitchen,Air Fryer,89.99,1,0,89.99,89.99,Credit Card,Delivered,5
+ORD-20988,CUST-5121,06-02-22,Home & Kitchen,Air Fryer,89.99,4,0,89.99,359.96,PayPal,Delivered,
+ORD-20989,CUST-5121,09-03-22,Beauty,Moisturizer SPF 50,29.99,4,0,29.99,119.96,Wallet,Shipped,4
+ORD-20990,CUST-5121,20-03-23,Electronics,Bluetooth Speaker,49.99,3,10,44.99,134.97,UPI,Delivered,
+ORD-20991,CUST-5121,22-11-24,Home & Kitchen,Air Fryer,89.99,2,0,89.99,179.98,Wallet,Delivered,
+ORD-20992,CUST-5121,14-06-24,Toys,Puzzle 1000pcs,24.99,1,15,21.24,21.24,UPI,Delivered,2
+ORD-20993,CUST-5121,22-03-23,Books,Data Science Handbook,49.99,1,20,39.99,39.99,Debit Card,Delivered,4
+ORD-20994,CUST-5121,25-07-23,Books,Data Science Handbook,49.99,3,15,42.49,127.47,Debit Card,Delivered,5
+ORD-20995,CUST-5121,24-05-24,Books,Business Analytics,39.99,2,0,39.99,79.98,Wallet,Delivered,4
+ORD-20996,CUST-5121,09-10-23,Sports,Yoga Mat,29.99,1,0,29.99,29.99,Wallet,Delivered,5
+ORD-20997,CUST-5122,08-11-24,Clothing,Denim Jacket,69.99,2,10,62.99,125.98,UPI,Delivered,5
+ORD-20998,CUST-5122,26-09-24,Home & Kitchen,Coffee Maker,59.99,3,0,59.99,179.97,UPI,Delivered,5
+ORD-20999,CUST-5122,18-08-23,Beauty,Hair Mask,24.99,2,15,21.24,42.48,Wallet,Delivered,3
+ORD-21000,CUST-5123,05-06-24,Beauty,Moisturizer SPF 50,29.99,1,15,25.49,25.49,Credit Card,Delivered,
+ORD-21001,CUST-5123,25-05-22,Beauty,Moisturizer SPF 50,29.99,3,0,29.99,89.97,Wallet,Delivered,4
+ORD-21002,CUST-5123,01-12-22,Home & Kitchen,Non-stick Pan Set,44.99,2,5,42.74,85.48,Debit Card,Shipped,
+ORD-21003,CUST-5123,10-12-22,Toys,LEGO Classic Set,49.99,2,15,42.49,84.98,UPI,Delivered,5
+ORD-21004,CUST-5123,15-09-24,Sports,Water Bottle,24.99,2,15,21.24,42.48,Credit Card,Returned,5
+ORD-21005,CUST-5123,16-11-24,Sports,Resistance Bands,19.99,1,5,18.99,18.99,Debit Card,Delivered,4
+ORD-21006,CUST-5123,19-07-22,Electronics,Bluetooth Speaker,49.99,2,0,49.99,99.98,UPI,Delivered,2
+ORD-21007,CUST-5123,06-11-24,Toys,Remote Control Car,39.99,4,10,35.99,143.96,Wallet,Cancelled,4
+ORD-21008,CUST-5123,21-03-23,Sports,Jump Rope,14.99,1,5,14.24,14.24,Wallet,Delivered,5
+ORD-21009,CUST-5123,14-01-24,Toys,LEGO Classic Set,49.99,3,5,47.49,142.47,PayPal,Delivered,4
+ORD-21010,CUST-5123,14-02-23,Toys,Puzzle 1000pcs,24.99,2,15,21.24,42.48,Credit Card,Delivered,
+ORD-21011,CUST-5123,27-04-24,Books,Data Science Handbook,49.99,1,0,49.99,49.99,PayPal,Delivered,
+ORD-21012,CUST-5123,07-05-22,Clothing,Cotton T-Shirt,24.99,3,15,21.24,63.72,UPI,Delivered,5
+ORD-21013,CUST-5124,16-07-22,Books,Data Science Handbook,49.99,4,0,49.99,199.96,PayPal,Delivered,
+ORD-21014,CUST-5124,26-07-23,Beauty,Face Serum,39.99,1,5,37.99,37.99,Wallet,Delivered,4
+ORD-21015,CUST-5124,22-07-23,Toys,Action Figure,19.99,3,5,18.99,56.97,Wallet,Delivered,4
+ORD-21016,CUST-5124,27-05-23,Electronics,Wireless Earbuds,79.99,1,0,79.99,79.99,Credit Card,Delivered,
+ORD-21017,CUST-5124,26-07-24,Books,Business Analytics,39.99,3,10,35.99,107.97,PayPal,Delivered,
+ORD-21018,CUST-5124,07-07-22,Electronics,Wireless Earbuds,79.99,4,10,71.99,287.96,Wallet,Delivered,5
+ORD-21019,CUST-5124,23-08-23,Beauty,Face Serum,39.99,1,0,39.99,39.99,UPI,Delivered,
+ORD-21020,CUST-5124,02-01-23,Books,Fiction Novel,14.99,2,0,14.99,29.98,Credit Card,Delivered,
+ORD-21021,CUST-5124,21-10-24,Sports,Resistance Bands,19.99,2,20,15.99,31.98,UPI,Delivered,5
+ORD-21022,CUST-5124,20-09-22,Toys,Remote Control Car,39.99,4,10,35.99,143.96,Credit Card,Delivered,
+ORD-21023,CUST-5124,21-05-23,Clothing,Denim Jacket,69.99,1,15,59.49,59.49,Debit Card,Delivered,
+ORD-21024,CUST-5124,14-03-24,Clothing,Cotton T-Shirt,24.99,2,20,19.99,39.98,Debit Card,Delivered,5
+ORD-21025,CUST-5125,13-02-22,Electronics,Bluetooth Speaker,49.99,4,0,49.99,199.96,UPI,Delivered,
+ORD-21026,CUST-5125,13-02-22,Beauty,Face Serum,39.99,2,5,37.99,75.98,Debit Card,Delivered,5
+ORD-21027,CUST-5125,12-05-22,Toys,Action Figure,19.99,2,20,15.99,31.98,PayPal,Delivered,5
+ORD-21028,CUST-5125,20-08-22,Beauty,Face Serum,39.99,3,5,37.99,113.97,PayPal,Processing,4
+ORD-21029,CUST-5125,11-06-22,Books,Data Science Handbook,49.99,2,20,39.99,79.98,Credit Card,Delivered,5
+ORD-21030,CUST-5125,11-08-24,Home & Kitchen,Coffee Maker,59.99,4,0,59.99,239.96,PayPal,Processing,3
+ORD-21031,CUST-5125,01-08-24,Books,Business Analytics,39.99,2,0,39.99,79.98,Wallet,Delivered,4
+ORD-21032,CUST-5125,02-04-23,Clothing,Running Shoes,89.99,1,0,89.99,89.99,Debit Card,Delivered,5
+ORD-21033,CUST-5126,19-02-24,Clothing,Cotton T-Shirt,24.99,4,10,22.49,89.96,Debit Card,Delivered,4
+ORD-21034,CUST-5127,13-08-24,Sports,Jump Rope,14.99,4,10,13.49,53.96,PayPal,Delivered,5
+ORD-21035,CUST-5127,05-06-24,Beauty,Face Serum,39.99,3,15,33.99,101.97,Credit Card,Delivered,4
+ORD-21036,CUST-5128,14-04-23,Toys,Puzzle 1000pcs,24.99,3,5,23.74,71.22,Wallet,Shipped,5
+ORD-21037,CUST-5129,21-05-23,Clothing,Yoga Pants,44.99,2,10,40.49,80.98,Credit Card,Delivered,1
+ORD-21038,CUST-5129,02-05-24,Toys,LEGO Classic Set,49.99,4,0,49.99,199.96,UPI,Delivered,5
+ORD-21039,CUST-5129,14-10-22,Clothing,Cotton T-Shirt,24.99,3,0,24.99,74.97,PayPal,Processing,
+ORD-21040,CUST-5129,13-03-24,Sports,Resistance Bands,19.99,1,20,15.99,15.99,UPI,Delivered,2
+ORD-21041,CUST-5130,18-03-24,Electronics,Bluetooth Speaker,49.99,4,0,49.99,199.96,Debit Card,Delivered,
+ORD-21042,CUST-5130,27-11-23,Toys,Action Figure,19.99,4,15,16.99,67.96,Credit Card,Delivered,5
+ORD-21043,CUST-5130,09-11-24,Home & Kitchen,Air Fryer,89.99,4,20,71.99,287.96,Credit Card,Delivered,4
+ORD-21044,CUST-5130,13-01-24,Clothing,Yoga Pants,44.99,2,15,38.24,76.48,PayPal,Delivered,4
+ORD-21045,CUST-5130,03-04-23,Sports,Yoga Mat,29.99,4,0,29.99,119.96,UPI,Delivered,4
+ORD-21046,CUST-5130,03-08-22,Clothing,Cotton T-Shirt,24.99,4,0,24.99,99.96,Debit Card,Delivered,
+ORD-21047,CUST-5130,24-06-24,Toys,LEGO Classic Set,49.99,1,20,39.99,39.99,UPI,Delivered,
+ORD-21048,CUST-5130,21-01-23,Electronics,Smart Watch,199.99,3,10,179.99,539.97,Credit Card,Processing,5
+ORD-21049,CUST-5130,15-04-23,Toys,LEGO Classic Set,49.99,4,0,49.99,199.96,Wallet,Delivered,
+ORD-21050,CUST-5131,15-07-23,Home & Kitchen,Non-stick Pan Set,44.99,2,20,35.99,71.98,Debit Card,Cancelled,4
+ORD-21051,CUST-5131,26-05-22,Beauty,Hair Mask,24.99,3,0,24.99,74.97,Wallet,Delivered,
+ORD-21052,CUST-5131,13-07-24,Home & Kitchen,Coffee Maker,59.99,2,15,50.99,101.98,Credit Card,Delivered,
+ORD-21053,CUST-5131,19-03-23,Clothing,Denim Jacket,69.99,4,5,66.49,265.96,Credit Card,Delivered,4
+ORD-21054,CUST-5131,03-01-24,Sports,Water Bottle,24.99,2,15,21.24,42.48,PayPal,Delivered,5
+ORD-21055,CUST-5131,07-05-23,Electronics,USB-C Hub,34.99,1,0,34.99,34.99,Credit Card,Delivered,4
+ORD-21056,CUST-5131,15-02-24,Home & Kitchen,Air Fryer,89.99,4,20,71.99,287.96,PayPal,Delivered,3
+ORD-21057,CUST-5131,24-04-24,Toys,Puzzle 1000pcs,24.99,1,0,24.99,24.99,UPI,Delivered,
+ORD-21058,CUST-5131,26-05-23,Books,Fiction Novel,14.99,4,15,12.74,50.96,Wallet,Delivered,4
+ORD-21059,CUST-5131,10-11-22,Toys,Puzzle 1000pcs,24.99,2,20,19.99,39.98,PayPal,Delivered,
+ORD-21060,CUST-5131,17-04-22,Beauty,Lip Balm Set,14.99,2,0,14.99,29.98,Wallet,Delivered,3
+ORD-21061,CUST-5131,01-03-24,Home & Kitchen,Air Fryer,89.99,1,0,89.99,89.99,PayPal,Cancelled,3
+ORD-21062,CUST-5132,13-05-24,Beauty,Moisturizer SPF 50,29.99,1,0,29.99,29.99,Debit Card,Delivered,3
+ORD-21063,CUST-5132,19-04-24,Books,Business Analytics,39.99,2,20,31.99,63.98,Credit Card,Delivered,5
+ORD-21064,CUST-5132,21-10-24,Clothing,Cotton T-Shirt,24.99,3,20,19.99,59.97,Debit Card,Delivered,
+ORD-21065,CUST-5132,06-09-24,Electronics,Wireless Earbuds,79.99,3,20,63.99,191.97,PayPal,Delivered,4
+ORD-21066,CUST-5132,20-07-22,Clothing,Cotton T-Shirt,24.99,2,0,24.99,49.98,Credit Card,Delivered,4
+ORD-21067,CUST-5133,27-09-23,Home & Kitchen,Coffee Maker,59.99,4,10,53.99,215.96,Debit Card,Delivered,4
+ORD-21068,CUST-5133,22-11-24,Electronics,USB-C Hub,34.99,4,20,27.99,111.96,Wallet,Delivered,4
+ORD-21069,CUST-5133,04-11-24,Beauty,Lip Balm Set,14.99,3,20,11.99,35.97,UPI,Delivered,5
+ORD-21070,CUST-5133,16-03-24,Clothing,Yoga Pants,44.99,2,10,40.49,80.98,PayPal,Delivered,4
+ORD-21071,CUST-5133,06-03-24,Home & Kitchen,Air Fryer,89.99,3,0,89.99,269.97,UPI,Delivered,5
+ORD-21072,CUST-5133,19-07-23,Home & Kitchen,Non-stick Pan Set,44.99,1,0,44.99,44.99,Wallet,Shipped,
+ORD-21073,CUST-5133,23-06-22,Beauty,Hair Mask,24.99,3,0,24.99,74.97,UPI,Delivered,
+ORD-21074,CUST-5133,13-09-22,Electronics,Smart Watch,199.99,1,0,199.99,199.99,Wallet,Delivered,
+ORD-21075,CUST-5133,11-04-24,Sports,Yoga Mat,29.99,2,20,23.99,47.98,UPI,Delivered,4
+ORD-21076,CUST-5133,25-08-22,Toys,LEGO Classic Set,49.99,1,0,49.99,49.99,Wallet,Delivered,3
+ORD-21077,CUST-5133,09-07-24,Electronics,Smart Watch,199.99,1,0,199.99,199.99,Credit Card,Delivered,5
+ORD-21078,CUST-5134,20-10-24,Clothing,Cotton T-Shirt,24.99,1,20,19.99,19.99,UPI,Delivered,4
+ORD-21079,CUST-5134,07-12-23,Electronics,Smart Watch,199.99,3,15,169.99,509.97,Credit Card,Delivered,
+ORD-21080,CUST-5134,03-10-22,Clothing,Denim Jacket,69.99,2,20,55.99,111.98,UPI,Delivered,
+ORD-21081,CUST-5134,23-08-24,Home & Kitchen,Non-stick Pan Set,44.99,3,0,44.99,134.97,Debit Card,Delivered,3
+ORD-21082,CUST-5134,25-05-22,Books,Business Analytics,39.99,2,10,35.99,71.98,Wallet,Delivered,5
+ORD-21083,CUST-5134,20-11-24,Toys,Puzzle 1000pcs,24.99,1,20,19.99,19.99,Credit Card,Delivered,3
+ORD-21084,CUST-5134,26-03-23,Toys,Action Figure,19.99,2,0,19.99,39.98,UPI,Delivered,5
+ORD-21085,CUST-5134,05-01-23,Books,Data Science Handbook,49.99,4,5,47.49,189.96,Credit Card,Delivered,4
+ORD-21086,CUST-5134,16-08-22,Books,Business Analytics,39.99,3,0,39.99,119.97,Debit Card,Delivered,5
+ORD-21087,CUST-5134,14-11-22,Clothing,Running Shoes,89.99,3,20,71.99,215.97,Debit Card,Delivered,4
+ORD-21088,CUST-5134,12-08-22,Electronics,USB-C Hub,34.99,4,10,31.49,125.96,PayPal,Delivered,4
+ORD-21089,CUST-5134,24-06-23,Clothing,Cotton T-Shirt,24.99,1,0,24.99,24.99,PayPal,Delivered,5
+ORD-21090,CUST-5134,03-12-23,Sports,Jump Rope,14.99,1,10,13.49,13.49,UPI,Delivered,5
+ORD-21091,CUST-5135,25-04-23,Books,Data Science Handbook,49.99,1,0,49.99,49.99,Wallet,Processing,4
+ORD-21092,CUST-5135,03-11-24,Home & Kitchen,Air Fryer,89.99,4,20,71.99,287.96,Credit Card,Delivered,4
+ORD-21093,CUST-5135,04-08-24,Clothing,Yoga Pants,44.99,2,20,35.99,71.98,PayPal,Delivered,4
+ORD-21094,CUST-5135,02-05-24,Toys,Action Figure,19.99,2,5,18.99,37.98,Credit Card,Processing,4
+ORD-21095,CUST-5135,09-04-23,Sports,Yoga Mat,29.99,1,20,23.99,23.99,UPI,Delivered,4
+ORD-21096,CUST-5135,05-12-23,Home & Kitchen,Non-stick Pan Set,44.99,3,20,35.99,107.97,UPI,Delivered,1
+ORD-21097,CUST-5135,07-07-23,Toys,LEGO Classic Set,49.99,4,15,42.49,169.96,PayPal,Delivered,
+ORD-21098,CUST-5135,01-06-22,Beauty,Hair Mask,24.99,3,5,23.74,71.22,PayPal,Delivered,4
+ORD-21099,CUST-5135,24-11-22,Sports,Resistance Bands,19.99,1,10,17.99,17.99,Credit Card,Delivered,5
+ORD-21100,CUST-5135,25-06-24,Electronics,Wireless Earbuds,79.99,3,15,67.99,203.97,UPI,Processing,3
+ORD-21101,CUST-5135,07-05-22,Sports,Water Bottle,24.99,3,10,22.49,67.47,UPI,Delivered,5
+ORD-21102,CUST-5135,01-04-23,Sports,Jump Rope,14.99,2,15,12.74,25.48,UPI,Delivered,
+ORD-21103,CUST-5135,07-10-24,Home & Kitchen,Air Fryer,89.99,2,0,89.99,179.98,PayPal,Delivered,
+ORD-21104,CUST-5136,23-08-24,Beauty,Face Serum,39.99,4,20,31.99,127.96,Debit Card,Delivered,
+ORD-21105,CUST-5136,12-11-23,Beauty,Lip Balm Set,14.99,4,10,13.49,53.96,PayPal,Processing,4
+ORD-21106,CUST-5136,25-12-24,Home & Kitchen,Air Fryer,89.99,3,15,76.49,229.47,Credit Card,Processing,
+ORD-21107,CUST-5136,26-03-22,Home & Kitchen,Blender,64.99,2,15,55.24,110.48,Wallet,Delivered,4
+ORD-21108,CUST-5136,09-03-23,Electronics,Wireless Earbuds,79.99,1,5,75.99,75.99,Debit Card,Delivered,1
+ORD-21109,CUST-5137,18-04-24,Clothing,Denim Jacket,69.99,2,10,62.99,125.98,Debit Card,Delivered,4
+ORD-21110,CUST-5137,02-07-24,Books,Python for Beginners,29.99,3,0,29.99,89.97,Credit Card,Delivered,
+ORD-21111,CUST-5137,27-08-23,Sports,Yoga Mat,29.99,1,0,29.99,29.99,UPI,Delivered,5
+ORD-21112,CUST-5137,12-01-23,Clothing,Running Shoes,89.99,4,20,71.99,287.96,Wallet,Delivered,5
+ORD-21113,CUST-5137,26-04-24,Toys,LEGO Classic Set,49.99,2,10,44.99,89.98,Wallet,Delivered,
+ORD-21114,CUST-5137,16-07-24,Books,Python for Beginners,29.99,2,15,25.49,50.98,UPI,Delivered,
+ORD-21115,CUST-5137,05-12-22,Sports,Yoga Mat,29.99,2,15,25.49,50.98,Credit Card,Delivered,
+ORD-21116,CUST-5137,19-05-22,Toys,Puzzle 1000pcs,24.99,2,20,19.99,39.98,UPI,Delivered,5
+ORD-21117,CUST-5137,12-12-23,Home & Kitchen,Air Fryer,89.99,1,0,89.99,89.99,Debit Card,Delivered,5
+ORD-21118,CUST-5137,01-03-23,Electronics,Wireless Earbuds,79.99,3,0,79.99,239.97,UPI,Delivered,4
+ORD-21119,CUST-5138,25-07-24,Beauty,Hair Mask,24.99,1,0,24.99,24.99,Credit Card,Delivered,5
+ORD-21120,CUST-5139,13-04-24,Toys,LEGO Classic Set,49.99,1,0,49.99,49.99,Debit Card,Processing,2
+ORD-21121,CUST-5139,17-11-22,Books,Fiction Novel,14.99,3,0,14.99,44.97,PayPal,Delivered,
+ORD-21122,CUST-5139,28-03-24,Electronics,USB-C Hub,34.99,3,0,34.99,104.97,Wallet,Delivered,
+ORD-21123,CUST-5139,27-06-22,Sports,Resistance Bands,19.99,3,0,19.99,59.97,Wallet,Delivered,3
+ORD-21124,CUST-5139,27-10-22,Electronics,Wireless Earbuds,79.99,3,5,75.99,227.97,UPI,Delivered,5
+ORD-21125,CUST-5139,15-07-23,Toys,LEGO Classic Set,49.99,4,0,49.99,199.96,Wallet,Delivered,4
+ORD-21126,CUST-5140,19-12-24,Sports,Jump Rope,14.99,1,10,13.49,13.49,UPI,Delivered,5
+ORD-21127,CUST-5140,28-02-23,Toys,Action Figure,19.99,3,0,19.99,59.97,PayPal,Delivered,5
+ORD-21128,CUST-5140,27-04-23,Toys,LEGO Classic Set,49.99,2,15,42.49,84.98,Debit Card,Delivered,5
+ORD-21129,CUST-5140,28-06-23,Sports,Jump Rope,14.99,4,0,14.99,59.96,PayPal,Shipped,
+ORD-21130,CUST-5140,23-05-24,Beauty,Face Serum,39.99,1,10,35.99,35.99,UPI,Delivered,5
+ORD-21131,CUST-5141,07-05-22,Electronics,Wireless Earbuds,79.99,3,0,79.99,239.97,Wallet,Delivered,4
+ORD-21132,CUST-5141,23-11-22,Toys,Puzzle 1000pcs,24.99,1,10,22.49,22.49,Debit Card,Delivered,5
+ORD-21133,CUST-5141,26-07-22,Sports,Resistance Bands,19.99,3,0,19.99,59.97,PayPal,Cancelled,3
+ORD-21134,CUST-5141,18-04-24,Clothing,Running Shoes,89.99,4,0,89.99,359.96,Debit Card,Delivered,3
+ORD-21135,CUST-5141,24-04-22,Books,Python for Beginners,29.99,2,15,25.49,50.98,PayPal,Delivered,4
+ORD-21136,CUST-5141,15-02-22,Home & Kitchen,Coffee Maker,59.99,4,0,59.99,239.96,Credit Card,Delivered,
+ORD-21137,CUST-5141,11-07-24,Toys,LEGO Classic Set,49.99,2,20,39.99,79.98,Wallet,Shipped,
+ORD-21138,CUST-5141,20-05-24,Home & Kitchen,Coffee Maker,59.99,4,5,56.99,227.96,UPI,Delivered,4
+ORD-21139,CUST-5141,20-10-23,Books,Business Analytics,39.99,2,5,37.99,75.98,Credit Card,Delivered,
+ORD-21140,CUST-5141,19-04-24,Beauty,Hair Mask,24.99,1,5,23.74,23.74,UPI,Delivered,4
+ORD-21141,CUST-5141,03-07-22,Home & Kitchen,Blender,64.99,3,5,61.74,185.22,UPI,Shipped,4
+ORD-21142,CUST-5141,12-05-22,Beauty,Moisturizer SPF 50,29.99,2,5,28.49,56.98,PayPal,Delivered,5
+ORD-21143,CUST-5141,02-08-22,Clothing,Denim Jacket,69.99,4,0,69.99,279.96,Credit Card,Shipped,4
+ORD-21144,CUST-5141,15-06-23,Toys,LEGO Classic Set,49.99,4,10,44.99,179.96,Credit Card,Delivered,4
+ORD-21145,CUST-5142,23-05-24,Home & Kitchen,Non-stick Pan Set,44.99,2,15,38.24,76.48,Debit Card,Delivered,4
+ORD-21146,CUST-5143,17-09-24,Sports,Water Bottle,24.99,4,20,19.99,79.96,PayPal,Delivered,
+ORD-21147,CUST-5143,06-01-23,Clothing,Yoga Pants,44.99,2,0,44.99,89.98,Debit Card,Delivered,
+ORD-21148,CUST-5143,11-12-22,Toys,Puzzle 1000pcs,24.99,3,0,24.99,74.97,Debit Card,Delivered,4
+ORD-21149,CUST-5143,27-08-23,Books,Business Analytics,39.99,1,20,31.99,31.99,Wallet,Delivered,4
+ORD-21150,CUST-5143,26-11-23,Toys,Action Figure,19.99,1,5,18.99,18.99,Credit Card,Returned,5
+ORD-21151,CUST-5143,23-10-22,Home & Kitchen,Blender,64.99,3,20,51.99,155.97,UPI,Delivered,5
+ORD-21152,CUST-5143,05-11-24,Beauty,Lip Balm Set,14.99,4,0,14.99,59.96,PayPal,Delivered,5
+ORD-21153,CUST-5143,15-01-24,Toys,Puzzle 1000pcs,24.99,3,0,24.99,74.97,PayPal,Delivered,3
+ORD-21154,CUST-5144,03-01-22,Sports,Yoga Mat,29.99,4,10,26.99,107.96,Wallet,Delivered,5
+ORD-21155,CUST-5144,24-08-22,Toys,Puzzle 1000pcs,24.99,3,5,23.74,71.22,Credit Card,Delivered,
+ORD-21156,CUST-5144,21-10-24,Books,Data Science Handbook,49.99,2,10,44.99,89.98,Debit Card,Delivered,5
+ORD-21157,CUST-5144,22-09-23,Sports,Yoga Mat,29.99,4,20,23.99,95.96,Debit Card,Delivered,5
+ORD-21158,CUST-5144,17-05-23,Beauty,Face Serum,39.99,1,20,31.99,31.99,PayPal,Delivered,5
+ORD-21159,CUST-5144,08-05-24,Clothing,Denim Jacket,69.99,1,20,55.99,55.99,UPI,Shipped,4
+ORD-21160,CUST-5144,20-04-22,Electronics,Bluetooth Speaker,49.99,4,0,49.99,199.96,Debit Card,Delivered,
+ORD-21161,CUST-5144,28-06-23,Books,Data Science Handbook,49.99,4,10,44.99,179.96,Credit Card,Delivered,
+ORD-21162,CUST-5144,11-10-22,Toys,Puzzle 1000pcs,24.99,1,15,21.24,21.24,PayPal,Delivered,3
+ORD-21163,CUST-5144,13-04-22,Home & Kitchen,Blender,64.99,4,15,55.24,220.96,Wallet,Delivered,5
+ORD-21164,CUST-5145,17-01-24,Beauty,Face Serum,39.99,2,20,31.99,63.98,UPI,Delivered,4
+ORD-21165,CUST-5145,16-02-22,Books,Python for Beginners,29.99,3,0,29.99,89.97,PayPal,Delivered,3
+ORD-21166,CUST-5145,19-04-22,Beauty,Hair Mask,24.99,1,0,24.99,24.99,Debit Card,Shipped,4
+ORD-21167,CUST-5145,04-04-24,Clothing,Cotton T-Shirt,24.99,1,5,23.74,23.74,Debit Card,Delivered,5
+ORD-21168,CUST-5145,20-10-22,Electronics,USB-C Hub,34.99,4,10,31.49,125.96,UPI,Shipped,5
+ORD-21169,CUST-5145,01-06-23,Electronics,Bluetooth Speaker,49.99,1,0,49.99,49.99,Credit Card,Delivered,5
+ORD-21170,CUST-5145,26-08-24,Toys,Puzzle 1000pcs,24.99,2,0,24.99,49.98,Wallet,Delivered,1
+ORD-21171,CUST-5145,19-07-24,Clothing,Cotton T-Shirt,24.99,4,0,24.99,99.96,Credit Card,Returned,
+ORD-21172,CUST-5145,04-04-24,Sports,Water Bottle,24.99,2,10,22.49,44.98,UPI,Delivered,5
+ORD-21173,CUST-5145,24-11-24,Sports,Resistance Bands,19.99,2,0,19.99,39.98,Wallet,Delivered,5
+ORD-21174,CUST-5145,25-03-22,Books,Python for Beginners,29.99,1,0,29.99,29.99,PayPal,Delivered,4
+ORD-21175,CUST-5145,22-08-24,Beauty,Lip Balm Set,14.99,2,0,14.99,29.98,Debit Card,Delivered,5
+ORD-21176,CUST-5145,05-09-23,Toys,LEGO Classic Set,49.99,1,10,44.99,44.99,Wallet,Delivered,4
+ORD-21177,CUST-5145,27-06-22,Beauty,Hair Mask,24.99,3,5,23.74,71.22,Debit Card,Delivered,
+ORD-21178,CUST-5146,16-10-23,Electronics,Smart Watch,199.99,2,10,179.99,359.98,Credit Card,Delivered,
+ORD-21179,CUST-5146,14-09-22,Clothing,Cotton T-Shirt,24.99,2,0,24.99,49.98,Wallet,Delivered,3
+ORD-21180,CUST-5146,09-01-24,Beauty,Moisturizer SPF 50,29.99,3,0,29.99,89.97,Credit Card,Delivered,4
+ORD-21181,CUST-5146,20-04-23,Sports,Resistance Bands,19.99,4,20,15.99,63.96,Credit Card,Delivered,5
+ORD-21182,CUST-5146,20-02-22,Books,Fiction Novel,14.99,3,0,14.99,44.97,PayPal,Shipped,5
+ORD-21183,CUST-5146,27-07-23,Home & Kitchen,Air Fryer,89.99,2,5,85.49,170.98,Credit Card,Delivered,5
+ORD-21184,CUST-5146,06-09-23,Clothing,Denim Jacket,69.99,3,0,69.99,209.97,Credit Card,Delivered,1
+ORD-21185,CUST-5147,04-04-24,Electronics,USB-C Hub,34.99,3,0,34.99,104.97,Debit Card,Delivered,5
+ORD-21186,CUST-5147,25-02-23,Books,Business Analytics,39.99,4,0,39.99,159.96,UPI,Delivered,5
+ORD-21187,CUST-5147,23-10-24,Clothing,Yoga Pants,44.99,2,0,44.99,89.98,Credit Card,Shipped,5
+ORD-21188,CUST-5147,03-10-23,Beauty,Moisturizer SPF 50,29.99,2,0,29.99,59.98,Debit Card,Delivered,5
+ORD-21189,CUST-5147,04-09-23,Sports,Jump Rope,14.99,2,0,14.99,29.98,UPI,Delivered,
+ORD-21190,CUST-5147,08-11-22,Electronics,Bluetooth Speaker,49.99,1,20,39.99,39.99,PayPal,Delivered,5
+ORD-21191,CUST-5147,27-05-23,Clothing,Denim Jacket,69.99,4,5,66.49,265.96,Debit Card,Delivered,5
+ORD-21192,CUST-5147,10-03-22,Clothing,Cotton T-Shirt,24.99,2,20,19.99,39.98,Debit Card,Delivered,
+ORD-21193,CUST-5148,01-03-22,Home & Kitchen,Non-stick Pan Set,44.99,2,15,38.24,76.48,PayPal,Shipped,3
+ORD-21194,CUST-5148,22-06-23,Clothing,Cotton T-Shirt,24.99,2,20,19.99,39.98,PayPal,Delivered,
+ORD-21195,CUST-5148,26-12-24,Books,Data Science Handbook,49.99,4,5,47.49,189.96,PayPal,Delivered,
+ORD-21196,CUST-5148,07-03-23,Toys,Remote Control Car,39.99,3,0,39.99,119.97,UPI,Delivered,4
+ORD-21197,CUST-5148,20-05-23,Beauty,Hair Mask,24.99,1,0,24.99,24.99,Credit Card,Delivered,3
+ORD-21198,CUST-5148,26-05-23,Sports,Jump Rope,14.99,4,0,14.99,59.96,UPI,Delivered,5
+ORD-21199,CUST-5148,28-04-24,Books,Python for Beginners,29.99,1,0,29.99,29.99,Credit Card,Delivered,
+ORD-21200,CUST-5148,05-09-24,Beauty,Lip Balm Set,14.99,1,20,11.99,11.99,PayPal,Delivered,5
+ORD-21201,CUST-5148,27-12-24,Sports,Yoga Mat,29.99,2,0,29.99,59.98,Debit Card,Delivered,4
+ORD-21202,CUST-5148,08-12-23,Beauty,Lip Balm Set,14.99,1,0,14.99,14.99,Credit Card,Delivered,
+ORD-21203,CUST-5148,18-03-22,Sports,Water Bottle,24.99,3,20,19.99,59.97,PayPal,Delivered,3
+ORD-21204,CUST-5148,13-04-23,Clothing,Yoga Pants,44.99,2,0,44.99,89.98,Debit Card,Delivered,5
+ORD-21205,CUST-5148,26-05-22,Toys,LEGO Classic Set,49.99,4,5,47.49,189.96,Wallet,Delivered,
+ORD-21206,CUST-5149,08-01-22,Clothing,Yoga Pants,44.99,1,15,38.24,38.24,Credit Card,Shipped,
+ORD-21207,CUST-5149,19-03-23,Beauty,Hair Mask,24.99,1,20,19.99,19.99,Wallet,Delivered,4
+ORD-21208,CUST-5149,22-12-24,Beauty,Hair Mask,24.99,2,0,24.99,49.98,Wallet,Delivered,5
+ORD-21209,CUST-5150,06-05-24,Beauty,Hair Mask,24.99,2,0,24.99,49.98,PayPal,Processing,5
+ORD-21210,CUST-5150,06-02-24,Home & Kitchen,Blender,64.99,3,0,64.99,194.97,Credit Card,Delivered,4
+ORD-21211,CUST-5150,08-06-24,Clothing,Denim Jacket,69.99,3,10,62.99,188.97,UPI,Delivered,4
+ORD-21212,CUST-5150,23-04-24,Clothing,Yoga Pants,44.99,3,15,38.24,114.72,Debit Card,Processing,2
+ORD-21213,CUST-5150,06-06-24,Clothing,Cotton T-Shirt,24.99,1,0,24.99,24.99,PayPal,Delivered,4
+ORD-21214,CUST-5150,19-11-23,Books,Fiction Novel,14.99,1,15,12.74,12.74,Debit Card,Delivered,5
+ORD-21215,CUST-5150,12-04-24,Electronics,Wireless Earbuds,79.99,3,0,79.99,239.97,PayPal,Delivered,3
+ORD-21216,CUST-5150,09-01-22,Sports,Resistance Bands,19.99,1,5,18.99,18.99,Wallet,Delivered,5
+ORD-21217,CUST-5150,20-07-24,Clothing,Running Shoes,89.99,2,0,89.99,179.98,PayPal,Shipped,3
+ORD-21218,CUST-5150,15-05-23,Home & Kitchen,Non-stick Pan Set,44.99,4,10,40.49,161.96,Wallet,Shipped,
+ORD-21219,CUST-5151,03-08-22,Toys,LEGO Classic Set,49.99,3,20,39.99,119.97,UPI,Delivered,3
+ORD-21220,CUST-5151,05-05-22,Beauty,Lip Balm Set,14.99,2,5,14.24,28.48,PayPal,Delivered,
+ORD-21221,CUST-5151,05-05-23,Clothing,Cotton T-Shirt,24.99,2,20,19.99,39.98,Debit Card,Delivered,
+ORD-21222,CUST-5151,18-04-23,Home & Kitchen,Coffee Maker,59.99,4,15,50.99,203.96,Wallet,Delivered,
+ORD-21223,CUST-5151,10-02-24,Books,Python for Beginners,29.99,4,5,28.49,113.96,UPI,Delivered,
+ORD-21224,CUST-5151,20-06-23,Home & Kitchen,Blender,64.99,2,5,61.74,123.48,Wallet,Delivered,4
+ORD-21225,CUST-5151,21-04-23,Home & Kitchen,Non-stick Pan Set,44.99,4,0,44.99,179.96,UPI,Delivered,
+ORD-21226,CUST-5151,05-09-22,Electronics,USB-C Hub,34.99,3,5,33.24,99.72,PayPal,Delivered,5
+ORD-21227,CUST-5151,13-06-22,Sports,Water Bottle,24.99,1,10,22.49,22.49,Debit Card,Delivered,5
+ORD-21228,CUST-5152,08-09-24,Toys,Action Figure,19.99,2,15,16.99,33.98,Wallet,Delivered,3
+ORD-21229,CUST-5152,17-12-24,Beauty,Hair Mask,24.99,1,0,24.99,24.99,PayPal,Delivered,
+ORD-21230,CUST-5152,19-04-23,Clothing,Yoga Pants,44.99,1,10,40.49,40.49,UPI,Delivered,
+ORD-21231,CUST-5152,15-07-24,Electronics,Wireless Earbuds,79.99,1,0,79.99,79.99,Wallet,Delivered,5
+ORD-21232,CUST-5153,13-02-22,Sports,Water Bottle,24.99,4,20,19.99,79.96,Debit Card,Delivered,4
+ORD-21233,CUST-5154,12-07-23,Clothing,Yoga Pants,44.99,2,0,44.99,89.98,Debit Card,Delivered,
+ORD-21234,CUST-5154,09-01-23,Clothing,Running Shoes,89.99,1,0,89.99,89.99,PayPal,Cancelled,4
+ORD-21235,CUST-5154,06-02-22,Toys,Action Figure,19.99,2,5,18.99,37.98,PayPal,Delivered,3
+ORD-21236,CUST-5154,26-06-22,Books,Python for Beginners,29.99,1,0,29.99,29.99,Wallet,Delivered,5
+ORD-21237,CUST-5154,15-05-23,Books,Data Science Handbook,49.99,4,0,49.99,199.96,PayPal,Delivered,
+ORD-21238,CUST-5154,25-04-23,Clothing,Denim Jacket,69.99,4,0,69.99,279.96,PayPal,Delivered,
+ORD-21239,CUST-5154,24-05-23,Sports,Jump Rope,14.99,3,0,14.99,44.97,Wallet,Delivered,4
+ORD-21240,CUST-5154,28-11-24,Home & Kitchen,Non-stick Pan Set,44.99,4,5,42.74,170.96,PayPal,Delivered,5
+ORD-21241,CUST-5154,09-02-22,Sports,Yoga Mat,29.99,1,15,25.49,25.49,Debit Card,Delivered,5
+ORD-21242,CUST-5154,01-09-23,Sports,Yoga Mat,29.99,1,10,26.99,26.99,PayPal,Delivered,
+ORD-21243,CUST-5154,06-02-23,Toys,Remote Control Car,39.99,4,10,35.99,143.96,UPI,Delivered,3
+ORD-21244,CUST-5154,07-08-23,Books,Fiction Novel,14.99,4,0,14.99,59.96,Credit Card,Cancelled,5
+ORD-21245,CUST-5154,21-11-22,Clothing,Yoga Pants,44.99,3,20,35.99,107.97,PayPal,Delivered,
+ORD-21246,CUST-5155,20-07-22,Beauty,Moisturizer SPF 50,29.99,3,10,26.99,80.97,Debit Card,Delivered,
+ORD-21247,CUST-5155,11-12-23,Beauty,Face Serum,39.99,1,0,39.99,39.99,Debit Card,Delivered,5
+ORD-21248,CUST-5155,27-09-24,Home & Kitchen,Blender,64.99,4,0,64.99,259.96,Debit Card,Delivered,2
+ORD-21249,CUST-5155,24-07-24,Toys,Action Figure,19.99,2,15,16.99,33.98,PayPal,Delivered,4
+ORD-21250,CUST-5155,06-07-22,Electronics,Smart Watch,199.99,1,10,179.99,179.99,UPI,Delivered,5
+ORD-21251,CUST-5155,26-03-24,Toys,Remote Control Car,39.99,4,20,31.99,127.96,Wallet,Shipped,4
+ORD-21252,CUST-5155,06-09-23,Clothing,Cotton T-Shirt,24.99,3,0,24.99,74.97,Debit Card,Delivered,
+ORD-21253,CUST-5155,11-09-22,Toys,LEGO Classic Set,49.99,3,5,47.49,142.47,Wallet,Delivered,
+ORD-21254,CUST-5155,17-07-23,Beauty,Moisturizer SPF 50,29.99,1,0,29.99,29.99,Wallet,Delivered,3
+ORD-21255,CUST-5155,08-09-24,Books,Data Science Handbook,49.99,1,10,44.99,44.99,Credit Card,Shipped,5
+ORD-21256,CUST-5155,15-08-24,Electronics,USB-C Hub,34.99,1,0,34.99,34.99,PayPal,Delivered,
+ORD-21257,CUST-5155,26-05-23,Books,Python for Beginners,29.99,1,15,25.49,25.49,UPI,Delivered,
+ORD-21258,CUST-5155,21-06-22,Sports,Jump Rope,14.99,1,5,14.24,14.24,Debit Card,Delivered,
+ORD-21259,CUST-5155,23-10-24,Books,Business Analytics,39.99,4,0,39.99,159.96,Credit Card,Delivered,
+ORD-21260,CUST-5155,18-07-24,Books,Python for Beginners,29.99,3,5,28.49,85.47,PayPal,Delivered,
+ORD-21261,CUST-5156,26-02-22,Beauty,Lip Balm Set,14.99,1,0,14.99,14.99,Wallet,Processing,4
+ORD-21262,CUST-5156,19-08-23,Electronics,Smart Watch,199.99,2,10,179.99,359.98,Wallet,Delivered,3
+ORD-21263,CUST-5156,09-06-23,Beauty,Face Serum,39.99,3,0,39.99,119.97,Wallet,Returned,
+ORD-21264,CUST-5156,10-06-24,Clothing,Denim Jacket,69.99,1,0,69.99,69.99,PayPal,Delivered,
+ORD-21265,CUST-5156,12-02-24,Toys,Puzzle 1000pcs,24.99,2,0,24.99,49.98,Wallet,Delivered,
+ORD-21266,CUST-5156,18-05-22,Clothing,Yoga Pants,44.99,1,10,40.49,40.49,PayPal,Delivered,4
+ORD-21267,CUST-5156,07-04-22,Beauty,Hair Mask,24.99,3,10,22.49,67.47,UPI,Delivered,
+ORD-21268,CUST-5156,22-01-24,Clothing,Denim Jacket,69.99,2,0,69.99,139.98,Credit Card,Delivered,
+ORD-21269,CUST-5156,10-05-24,Electronics,Bluetooth Speaker,49.99,1,0,49.99,49.99,Credit Card,Delivered,5
+ORD-21270,CUST-5156,05-01-22,Beauty,Moisturizer SPF 50,29.99,4,5,28.49,113.96,UPI,Delivered,4
+ORD-21271,CUST-5156,06-11-23,Clothing,Yoga Pants,44.99,3,0,44.99,134.97,PayPal,Delivered,5
+ORD-21272,CUST-5156,16-08-23,Toys,Remote Control Car,39.99,2,5,37.99,75.98,Credit Card,Delivered,
+ORD-21273,CUST-5156,01-06-22,Home & Kitchen,Non-stick Pan Set,44.99,1,5,42.74,42.74,Wallet,Delivered,5
+ORD-21274,CUST-5157,25-12-24,Toys,Remote Control Car,39.99,1,20,31.99,31.99,PayPal,Delivered,
+ORD-21275,CUST-5157,16-12-24,Beauty,Lip Balm Set,14.99,2,5,14.24,28.48,UPI,Delivered,5
+ORD-21276,CUST-5157,01-07-23,Clothing,Cotton T-Shirt,24.99,4,20,19.99,79.96,UPI,Delivered,5
+ORD-21277,CUST-5157,24-10-24,Clothing,Yoga Pants,44.99,2,0,44.99,89.98,UPI,Delivered,4
+ORD-21278,CUST-5157,02-02-23,Home & Kitchen,Coffee Maker,59.99,4,0,59.99,239.96,PayPal,Delivered,
+ORD-21279,CUST-5157,16-03-23,Sports,Jump Rope,14.99,3,20,11.99,35.97,UPI,Delivered,5
+ORD-21280,CUST-5157,07-09-22,Sports,Water Bottle,24.99,3,0,24.99,74.97,Credit Card,Delivered,3
+ORD-21281,CUST-5157,20-10-24,Beauty,Face Serum,39.99,1,0,39.99,39.99,UPI,Processing,5
+ORD-21282,CUST-5157,26-10-23,Electronics,Smart Watch,199.99,1,15,169.99,169.99,Wallet,Delivered,5
+ORD-21283,CUST-5157,25-08-22,Books,Business Analytics,39.99,4,0,39.99,159.96,Credit Card,Cancelled,5
+ORD-21284,CUST-5157,08-07-24,Sports,Resistance Bands,19.99,3,0,19.99,59.97,Credit Card,Delivered,3
+ORD-21285,CUST-5157,03-01-24,Beauty,Face Serum,39.99,1,15,33.99,33.99,Debit Card,Delivered,4
+ORD-21286,CUST-5157,09-04-22,Toys,LEGO Classic Set,49.99,3,0,49.99,149.97,Wallet,Delivered,3
+ORD-21287,CUST-5157,25-04-23,Sports,Yoga Mat,29.99,4,5,28.49,113.96,Wallet,Delivered,
+ORD-21288,CUST-5157,10-11-23,Home & Kitchen,Non-stick Pan Set,44.99,2,10,40.49,80.98,Wallet,Delivered,4
+ORD-21289,CUST-5158,28-05-24,Clothing,Running Shoes,89.99,4,0,89.99,359.96,PayPal,Shipped,4
+ORD-21290,CUST-5158,10-10-22,Clothing,Yoga Pants,44.99,3,0,44.99,134.97,Wallet,Shipped,
+ORD-21291,CUST-5158,01-06-23,Toys,Remote Control Car,39.99,4,20,31.99,127.96,Debit Card,Delivered,
+ORD-21292,CUST-5158,17-03-23,Clothing,Yoga Pants,44.99,1,5,42.74,42.74,Debit Card,Delivered,4
+ORD-21293,CUST-5158,12-05-22,Sports,Jump Rope,14.99,4,5,14.24,56.96,PayPal,Delivered,4
+ORD-21294,CUST-5158,03-12-23,Beauty,Moisturizer SPF 50,29.99,4,15,25.49,101.96,Credit Card,Returned,
+ORD-21295,CUST-5158,01-09-24,Books,Business Analytics,39.99,4,10,35.99,143.96,UPI,Delivered,5
+ORD-21296,CUST-5158,13-02-23,Books,Data Science Handbook,49.99,3,0,49.99,149.97,PayPal,Delivered,5
+ORD-21297,CUST-5158,27-01-22,Toys,Puzzle 1000pcs,24.99,2,0,24.99,49.98,Wallet,Processing,3
+ORD-21298,CUST-5158,11-08-23,Toys,Action Figure,19.99,3,0,19.99,59.97,UPI,Delivered,4
+ORD-21299,CUST-5158,12-06-24,Clothing,Yoga Pants,44.99,4,0,44.99,179.96,Debit Card,Delivered,5
+ORD-21300,CUST-5158,13-04-23,Sports,Jump Rope,14.99,4,5,14.24,56.96,Wallet,Delivered,5
+ORD-21301,CUST-5159,24-01-24,Electronics,Wireless Earbuds,79.99,2,0,79.99,159.98,Credit Card,Delivered,2
+ORD-21302,CUST-5159,20-04-23,Electronics,USB-C Hub,34.99,4,15,29.74,118.96,Credit Card,Delivered,
+ORD-21303,CUST-5159,25-12-23,Books,Fiction Novel,14.99,2,0,14.99,29.98,Credit Card,Delivered,
+ORD-21304,CUST-5159,06-07-23,Clothing,Denim Jacket,69.99,1,0,69.99,69.99,PayPal,Returned,
+ORD-21305,CUST-5159,26-10-22,Electronics,USB-C Hub,34.99,3,20,27.99,83.97,UPI,Delivered,2
+ORD-21306,CUST-5159,12-02-24,Sports,Water Bottle,24.99,2,15,21.24,42.48,Debit Card,Processing,4
+ORD-21307,CUST-5159,17-03-24,Books,Data Science Handbook,49.99,3,15,42.49,127.47,UPI,Delivered,5
+ORD-21308,CUST-5159,23-06-24,Beauty,Lip Balm Set,14.99,2,0,14.99,29.98,Debit Card,Delivered,
+ORD-21309,CUST-5159,28-03-24,Home & Kitchen,Blender,64.99,3,5,61.74,185.22,UPI,Delivered,4
+ORD-21310,CUST-5160,25-09-24,Electronics,USB-C Hub,34.99,1,5,33.24,33.24,Wallet,Delivered,4
+ORD-21311,CUST-5160,05-12-24,Toys,Puzzle 1000pcs,24.99,2,0,24.99,49.98,Credit Card,Processing,3
+ORD-21312,CUST-5160,07-12-23,Books,Fiction Novel,14.99,2,15,12.74,25.48,UPI,Delivered,4
+ORD-21313,CUST-5160,24-12-23,Sports,Resistance Bands,19.99,4,20,15.99,63.96,UPI,Delivered,3
+ORD-21314,CUST-5160,17-11-24,Electronics,Wireless Earbuds,79.99,3,10,71.99,215.97,Wallet,Delivered,4
+ORD-21315,CUST-5160,12-06-22,Toys,LEGO Classic Set,49.99,3,5,47.49,142.47,Debit Card,Returned,5
+ORD-21316,CUST-5160,23-04-22,Clothing,Denim Jacket,69.99,2,0,69.99,139.98,Debit Card,Delivered,
+ORD-21317,CUST-5160,28-11-24,Home & Kitchen,Non-stick Pan Set,44.99,2,0,44.99,89.98,UPI,Delivered,5
+ORD-21318,CUST-5161,08-11-22,Home & Kitchen,Blender,64.99,4,0,64.99,259.96,UPI,Delivered,4
+ORD-21319,CUST-5161,07-12-22,Toys,LEGO Classic Set,49.99,1,0,49.99,49.99,PayPal,Delivered,3
+ORD-21320,CUST-5161,24-09-23,Books,Data Science Handbook,49.99,2,0,49.99,99.98,Debit Card,Delivered,5
+ORD-21321,CUST-5161,28-10-23,Books,Data Science Handbook,49.99,2,15,42.49,84.98,PayPal,Delivered,2
+ORD-21322,CUST-5161,10-02-22,Beauty,Hair Mask,24.99,1,0,24.99,24.99,Wallet,Delivered,4
+ORD-21323,CUST-5161,21-11-22,Electronics,Bluetooth Speaker,49.99,1,0,49.99,49.99,Credit Card,Delivered,5
+ORD-21324,CUST-5161,09-01-24,Clothing,Denim Jacket,69.99,2,10,62.99,125.98,UPI,Delivered,4
+ORD-21325,CUST-5161,06-05-23,Beauty,Face Serum,39.99,3,5,37.99,113.97,UPI,Delivered,5
+ORD-21326,CUST-5161,15-06-22,Sports,Jump Rope,14.99,1,0,14.99,14.99,Credit Card,Delivered,
+ORD-21327,CUST-5161,20-04-22,Home & Kitchen,Coffee Maker,59.99,3,5,56.99,170.97,Credit Card,Delivered,
+ORD-21328,CUST-5161,13-12-22,Home & Kitchen,Blender,64.99,1,20,51.99,51.99,Credit Card,Delivered,4
+ORD-21329,CUST-5161,12-03-22,Toys,Action Figure,19.99,1,20,15.99,15.99,Debit Card,Delivered,4
+ORD-21330,CUST-5161,12-09-23,Beauty,Hair Mask,24.99,1,5,23.74,23.74,Wallet,Returned,5
+ORD-21331,CUST-5162,10-08-23,Beauty,Face Serum,39.99,3,0,39.99,119.97,Wallet,Delivered,
+ORD-21332,CUST-5162,05-03-24,Books,Fiction Novel,14.99,4,0,14.99,59.96,Debit Card,Delivered,4
+ORD-21333,CUST-5162,27-02-24,Beauty,Lip Balm Set,14.99,4,0,14.99,59.96,Wallet,Delivered,4
+ORD-21334,CUST-5162,05-08-22,Electronics,Wireless Earbuds,79.99,4,0,79.99,319.96,Debit Card,Processing,
+ORD-21335,CUST-5162,20-03-23,Clothing,Yoga Pants,44.99,4,15,38.24,152.96,Debit Card,Delivered,
+ORD-21336,CUST-5162,11-02-23,Books,Business Analytics,39.99,4,15,33.99,135.96,PayPal,Delivered,
+ORD-21337,CUST-5162,15-03-23,Toys,Action Figure,19.99,1,5,18.99,18.99,Wallet,Delivered,4
+ORD-21338,CUST-5162,02-09-23,Books,Data Science Handbook,49.99,4,10,44.99,179.96,PayPal,Delivered,4
+ORD-21339,CUST-5162,07-01-23,Books,Python for Beginners,29.99,4,0,29.99,119.96,PayPal,Delivered,
+ORD-21340,CUST-5162,12-11-23,Toys,Remote Control Car,39.99,1,5,37.99,37.99,Debit Card,Delivered,4
+ORD-21341,CUST-5162,09-10-22,Clothing,Yoga Pants,44.99,1,0,44.99,44.99,Debit Card,Delivered,4
+ORD-21342,CUST-5163,25-02-24,Electronics,Wireless Earbuds,79.99,1,10,71.99,71.99,Debit Card,Delivered,
+ORD-21343,CUST-5163,14-10-24,Clothing,Yoga Pants,44.99,3,15,38.24,114.72,UPI,Shipped,4
+ORD-21344,CUST-5163,07-05-22,Sports,Yoga Mat,29.99,2,0,29.99,59.98,Wallet,Delivered,
+ORD-21345,CUST-5163,12-05-23,Beauty,Hair Mask,24.99,3,0,24.99,74.97,UPI,Delivered,5
+ORD-21346,CUST-5163,20-04-22,Electronics,Wireless Earbuds,79.99,1,10,71.99,71.99,Wallet,Delivered,5
+ORD-21347,CUST-5163,15-09-23,Toys,Puzzle 1000pcs,24.99,4,0,24.99,99.96,Wallet,Delivered,2
+ORD-21348,CUST-5163,07-02-23,Sports,Water Bottle,24.99,4,0,24.99,99.96,Debit Card,Delivered,5
+ORD-21349,CUST-5163,11-07-23,Clothing,Running Shoes,89.99,4,0,89.99,359.96,UPI,Delivered,4
+ORD-21350,CUST-5163,27-11-22,Beauty,Hair Mask,24.99,4,5,23.74,94.96,Credit Card,Delivered,3
+ORD-21351,CUST-5163,11-01-22,Toys,Action Figure,19.99,4,20,15.99,63.96,Credit Card,Delivered,4
+ORD-21352,CUST-5164,09-03-23,Beauty,Lip Balm Set,14.99,2,15,12.74,25.48,UPI,Delivered,3
+ORD-21353,CUST-5164,05-05-23,Books,Data Science Handbook,49.99,1,0,49.99,49.99,PayPal,Delivered,
+ORD-21354,CUST-5164,24-11-24,Books,Business Analytics,39.99,4,0,39.99,159.96,Debit Card,Shipped,5
+ORD-21355,CUST-5164,22-04-24,Toys,LEGO Classic Set,49.99,3,15,42.49,127.47,PayPal,Processing,
+ORD-21356,CUST-5165,03-01-24,Electronics,Bluetooth Speaker,49.99,4,5,47.49,189.96,Debit Card,Delivered,5
+ORD-21357,CUST-5165,07-10-24,Electronics,USB-C Hub,34.99,1,10,31.49,31.49,Credit Card,Delivered,5
+ORD-21358,CUST-5165,05-07-22,Clothing,Cotton T-Shirt,24.99,1,0,24.99,24.99,Wallet,Delivered,5
+ORD-21359,CUST-5165,12-10-24,Beauty,Face Serum,39.99,1,15,33.99,33.99,Wallet,Delivered,2
+ORD-21360,CUST-5166,05-07-23,Sports,Water Bottle,24.99,1,0,24.99,24.99,Debit Card,Delivered,5
+ORD-21361,CUST-5166,05-01-24,Sports,Jump Rope,14.99,2,5,14.24,28.48,Wallet,Processing,1
+ORD-21362,CUST-5166,02-08-22,Beauty,Hair Mask,24.99,3,10,22.49,67.47,Debit Card,Delivered,5
+ORD-21363,CUST-5166,18-02-23,Sports,Resistance Bands,19.99,1,0,19.99,19.99,PayPal,Delivered,
+ORD-21364,CUST-5166,03-06-23,Electronics,Smart Watch,199.99,1,0,199.99,199.99,Credit Card,Delivered,4
+ORD-21365,CUST-5166,13-10-23,Books,Business Analytics,39.99,1,10,35.99,35.99,UPI,Delivered,5
+ORD-21366,CUST-5166,12-03-22,Toys,Action Figure,19.99,3,5,18.99,56.97,UPI,Delivered,
+ORD-21367,CUST-5166,23-11-23,Sports,Jump Rope,14.99,1,5,14.24,14.24,UPI,Delivered,4
+ORD-21368,CUST-5167,01-12-22,Electronics,Wireless Earbuds,79.99,2,10,71.99,143.98,UPI,Delivered,4
+ORD-21369,CUST-5167,06-08-23,Toys,Action Figure,19.99,1,15,16.99,16.99,UPI,Delivered,
+ORD-21370,CUST-5167,03-09-24,Books,Business Analytics,39.99,4,0,39.99,159.96,Debit Card,Delivered,5
+ORD-21371,CUST-5167,09-09-23,Clothing,Yoga Pants,44.99,1,20,35.99,35.99,Debit Card,Delivered,5
+ORD-21372,CUST-5167,17-02-22,Toys,Puzzle 1000pcs,24.99,3,5,23.74,71.22,Debit Card,Delivered,5
+ORD-21373,CUST-5167,22-11-23,Home & Kitchen,Non-stick Pan Set,44.99,4,20,35.99,143.96,Wallet,Delivered,5
+ORD-21374,CUST-5167,11-03-22,Books,Business Analytics,39.99,3,15,33.99,101.97,Wallet,Delivered,3
+ORD-21375,CUST-5168,26-06-24,Beauty,Moisturizer SPF 50,29.99,1,10,26.99,26.99,Debit Card,Delivered,5
+ORD-21376,CUST-5168,05-12-24,Home & Kitchen,Air Fryer,89.99,3,0,89.99,269.97,Credit Card,Delivered,
+ORD-21377,CUST-5168,08-01-23,Toys,LEGO Classic Set,49.99,3,0,49.99,149.97,PayPal,Delivered,5
+ORD-21378,CUST-5168,26-03-24,Electronics,Bluetooth Speaker,49.99,2,0,49.99,99.98,UPI,Delivered,
+ORD-21379,CUST-5168,11-05-23,Books,Data Science Handbook,49.99,4,5,47.49,189.96,PayPal,Delivered,
+ORD-21380,CUST-5168,03-08-22,Books,Python for Beginners,29.99,4,10,26.99,107.96,PayPal,Delivered,
+ORD-21381,CUST-5168,05-07-22,Electronics,Wireless Earbuds,79.99,3,0,79.99,239.97,Credit Card,Processing,4
+ORD-21382,CUST-5169,01-08-24,Toys,Puzzle 1000pcs,24.99,2,0,24.99,49.98,Credit Card,Delivered,
+ORD-21383,CUST-5169,26-04-23,Toys,Puzzle 1000pcs,24.99,3,0,24.99,74.97,Wallet,Shipped,5
+ORD-21384,CUST-5169,25-05-23,Toys,Remote Control Car,39.99,1,0,39.99,39.99,Wallet,Processing,
+ORD-21385,CUST-5169,14-03-23,Clothing,Yoga Pants,44.99,4,0,44.99,179.96,UPI,Delivered,4
+ORD-21386,CUST-5169,02-12-23,Sports,Jump Rope,14.99,2,15,12.74,25.48,Credit Card,Delivered,
+ORD-21387,CUST-5169,17-07-22,Electronics,Wireless Earbuds,79.99,4,15,67.99,271.96,Wallet,Delivered,4
+ORD-21388,CUST-5170,17-12-23,Home & Kitchen,Air Fryer,89.99,2,15,76.49,152.98,PayPal,Delivered,5
+ORD-21389,CUST-5170,25-09-22,Clothing,Denim Jacket,69.99,1,0,69.99,69.99,Credit Card,Delivered,5
+ORD-21390,CUST-5170,02-01-22,Clothing,Denim Jacket,69.99,4,0,69.99,279.96,PayPal,Delivered,4
+ORD-21391,CUST-5170,28-07-24,Electronics,USB-C Hub,34.99,2,0,34.99,69.98,Wallet,Delivered,4
+ORD-21392,CUST-5170,25-12-23,Electronics,USB-C Hub,34.99,3,15,29.74,89.22,Wallet,Delivered,2
+ORD-21393,CUST-5170,05-09-22,Sports,Resistance Bands,19.99,4,20,15.99,63.96,Debit Card,Delivered,4
+ORD-21394,CUST-5170,01-02-22,Toys,Puzzle 1000pcs,24.99,4,15,21.24,84.96,PayPal,Shipped,5
+ORD-21395,CUST-5171,20-11-22,Home & Kitchen,Air Fryer,89.99,1,5,85.49,85.49,UPI,Delivered,3
+ORD-21396,CUST-5171,11-04-23,Home & Kitchen,Non-stick Pan Set,44.99,4,15,38.24,152.96,Debit Card,Delivered,3
+ORD-21397,CUST-5171,25-08-24,Books,Python for Beginners,29.99,4,5,28.49,113.96,UPI,Delivered,4
+ORD-21398,CUST-5171,24-04-23,Books,Python for Beginners,29.99,4,0,29.99,119.96,PayPal,Shipped,3
+ORD-21399,CUST-5171,14-07-23,Electronics,Bluetooth Speaker,49.99,3,5,47.49,142.47,Wallet,Delivered,
+ORD-21400,CUST-5171,16-08-23,Electronics,Smart Watch,199.99,3,0,199.99,599.97,Debit Card,Delivered,1
+ORD-21401,CUST-5171,05-02-22,Clothing,Denim Jacket,69.99,1,15,59.49,59.49,Debit Card,Delivered,5
+ORD-21402,CUST-5171,25-01-24,Clothing,Cotton T-Shirt,24.99,4,0,24.99,99.96,Wallet,Delivered,3
+ORD-21403,CUST-5171,24-11-24,Home & Kitchen,Air Fryer,89.99,3,0,89.99,269.97,Credit Card,Delivered,4
+ORD-21404,CUST-5171,27-04-23,Toys,Puzzle 1000pcs,24.99,1,0,24.99,24.99,Debit Card,Returned,5
+ORD-21405,CUST-5171,03-07-24,Electronics,USB-C Hub,34.99,1,5,33.24,33.24,Wallet,Delivered,3
+ORD-21406,CUST-5171,12-03-22,Electronics,USB-C Hub,34.99,3,0,34.99,104.97,UPI,Processing,
+ORD-21407,CUST-5171,26-08-23,Beauty,Lip Balm Set,14.99,1,15,12.74,12.74,UPI,Delivered,4
+ORD-21408,CUST-5172,21-07-22,Toys,Puzzle 1000pcs,24.99,1,10,22.49,22.49,UPI,Delivered,5
+ORD-21409,CUST-5173,10-10-22,Sports,Yoga Mat,29.99,1,20,23.99,23.99,Wallet,Delivered,2
+ORD-21410,CUST-5173,28-01-22,Beauty,Moisturizer SPF 50,29.99,2,15,25.49,50.98,UPI,Delivered,4
+ORD-21411,CUST-5173,02-05-23,Home & Kitchen,Non-stick Pan Set,44.99,1,15,38.24,38.24,Credit Card,Delivered,4
+ORD-21412,CUST-5173,20-02-23,Beauty,Moisturizer SPF 50,29.99,3,0,29.99,89.97,UPI,Delivered,3
+ORD-21413,CUST-5173,05-12-22,Sports,Yoga Mat,29.99,2,5,28.49,56.98,UPI,Delivered,4
+ORD-21414,CUST-5173,02-03-22,Beauty,Hair Mask,24.99,2,15,21.24,42.48,Credit Card,Delivered,
+ORD-21415,CUST-5173,27-08-24,Electronics,Bluetooth Speaker,49.99,4,0,49.99,199.96,Credit Card,Delivered,
+ORD-21416,CUST-5173,17-07-24,Clothing,Denim Jacket,69.99,1,5,66.49,66.49,UPI,Delivered,
+ORD-21417,CUST-5173,01-02-23,Electronics,Smart Watch,199.99,4,0,199.99,799.96,Credit Card,Delivered,
+ORD-21418,CUST-5174,10-01-24,Beauty,Lip Balm Set,14.99,3,5,14.24,42.72,PayPal,Delivered,5
+ORD-21419,CUST-5174,24-02-22,Toys,Action Figure,19.99,1,20,15.99,15.99,PayPal,Delivered,
+ORD-21420,CUST-5174,07-12-23,Beauty,Moisturizer SPF 50,29.99,3,0,29.99,89.97,UPI,Shipped,4
+ORD-21421,CUST-5174,19-06-22,Clothing,Yoga Pants,44.99,3,0,44.99,134.97,Wallet,Delivered,5
+ORD-21422,CUST-5174,07-04-24,Books,Fiction Novel,14.99,1,0,14.99,14.99,PayPal,Delivered,3
+ORD-21423,CUST-5174,28-11-24,Electronics,Bluetooth Speaker,49.99,1,15,42.49,42.49,PayPal,Delivered,
+ORD-21424,CUST-5175,28-09-24,Clothing,Yoga Pants,44.99,4,15,38.24,152.96,Wallet,Delivered,5
+ORD-21425,CUST-5175,24-11-22,Home & Kitchen,Air Fryer,89.99,4,0,89.99,359.96,Debit Card,Delivered,4
+ORD-21426,CUST-5175,09-08-23,Toys,LEGO Classic Set,49.99,1,0,49.99,49.99,Credit Card,Delivered,5
+ORD-21427,CUST-5175,10-09-23,Electronics,Bluetooth Speaker,49.99,2,0,49.99,99.98,UPI,Delivered,4
+ORD-21428,CUST-5175,10-05-22,Books,Python for Beginners,29.99,1,20,23.99,23.99,Debit Card,Delivered,5
+ORD-21429,CUST-5175,28-03-24,Clothing,Denim Jacket,69.99,2,15,59.49,118.98,PayPal,Delivered,3
+ORD-21430,CUST-5175,28-03-24,Home & Kitchen,Non-stick Pan Set,44.99,3,20,35.99,107.97,Wallet,Delivered,5
+ORD-21431,CUST-5175,08-10-24,Toys,LEGO Classic Set,49.99,4,10,44.99,179.96,PayPal,Delivered,5
+ORD-21432,CUST-5175,04-11-24,Electronics,USB-C Hub,34.99,4,15,29.74,118.96,Wallet,Shipped,3
+ORD-21433,CUST-5175,15-07-23,Beauty,Moisturizer SPF 50,29.99,3,0,29.99,89.97,Debit Card,Delivered,
+ORD-21434,CUST-5175,18-09-23,Clothing,Yoga Pants,44.99,2,10,40.49,80.98,UPI,Delivered,5
+ORD-21435,CUST-5175,21-02-24,Clothing,Cotton T-Shirt,24.99,4,0,24.99,99.96,Credit Card,Delivered,4
+ORD-21436,CUST-5175,09-02-23,Home & Kitchen,Air Fryer,89.99,4,5,85.49,341.96,Wallet,Delivered,1
+ORD-21437,CUST-5175,27-05-23,Home & Kitchen,Blender,64.99,3,15,55.24,165.72,Debit Card,Delivered,4
+ORD-21438,CUST-5176,25-09-22,Books,Data Science Handbook,49.99,2,0,49.99,99.98,Debit Card,Delivered,4
+ORD-21439,CUST-5176,01-10-22,Beauty,Lip Balm Set,14.99,2,5,14.24,28.48,Wallet,Delivered,5
+ORD-21440,CUST-5176,05-04-22,Books,Fiction Novel,14.99,1,20,11.99,11.99,PayPal,Delivered,3
+ORD-21441,CUST-5176,12-06-22,Books,Python for Beginners,29.99,4,0,29.99,119.96,Debit Card,Delivered,4
+ORD-21442,CUST-5176,21-11-22,Books,Python for Beginners,29.99,3,0,29.99,89.97,Debit Card,Delivered,5
+ORD-21443,CUST-5176,20-08-22,Home & Kitchen,Air Fryer,89.99,1,0,89.99,89.99,Debit Card,Delivered,
+ORD-21444,CUST-5176,15-12-22,Electronics,Wireless Earbuds,79.99,2,0,79.99,159.98,Debit Card,Delivered,
+ORD-21445,CUST-5176,18-08-23,Beauty,Face Serum,39.99,2,15,33.99,67.98,Credit Card,Delivered,3
+ORD-21446,CUST-5176,09-07-22,Toys,Action Figure,19.99,3,5,18.99,56.97,Debit Card,Delivered,5
+ORD-21447,CUST-5176,16-03-22,Toys,LEGO Classic Set,49.99,4,0,49.99,199.96,Debit Card,Delivered,4
+ORD-21448,CUST-5176,08-01-22,Electronics,USB-C Hub,34.99,2,5,33.24,66.48,Wallet,Delivered,
+ORD-21449,CUST-5176,17-04-24,Toys,Action Figure,19.99,4,5,18.99,75.96,Credit Card,Delivered,5
+ORD-21450,CUST-5177,26-02-24,Books,Fiction Novel,14.99,3,10,13.49,40.47,Wallet,Delivered,
+ORD-21451,CUST-5177,20-06-22,Sports,Jump Rope,14.99,3,10,13.49,40.47,Credit Card,Delivered,3
+ORD-21452,CUST-5177,24-10-23,Electronics,Smart Watch,199.99,3,5,189.99,569.97,Credit Card,Delivered,5
+ORD-21453,CUST-5177,04-07-24,Sports,Jump Rope,14.99,4,0,14.99,59.96,Credit Card,Delivered,4
+ORD-21454,CUST-5177,05-02-24,Clothing,Running Shoes,89.99,1,0,89.99,89.99,PayPal,Delivered,3
+ORD-21455,CUST-5177,12-11-24,Home & Kitchen,Coffee Maker,59.99,1,0,59.99,59.99,Debit Card,Delivered,
+ORD-21456,CUST-5177,17-07-24,Toys,Action Figure,19.99,2,0,19.99,39.98,UPI,Delivered,5
+ORD-21457,CUST-5177,07-04-22,Home & Kitchen,Coffee Maker,59.99,4,0,59.99,239.96,PayPal,Returned,5
+ORD-21458,CUST-5177,11-11-22,Toys,Puzzle 1000pcs,24.99,1,0,24.99,24.99,Debit Card,Delivered,3
+ORD-21459,CUST-5177,25-12-22,Books,Python for Beginners,29.99,2,0,29.99,59.98,Wallet,Cancelled,5
+ORD-21460,CUST-5177,04-09-22,Toys,Remote Control Car,39.99,4,5,37.99,151.96,Debit Card,Processing,3
+ORD-21461,CUST-5177,05-11-24,Sports,Water Bottle,24.99,1,15,21.24,21.24,PayPal,Processing,5
+ORD-21462,CUST-5177,27-04-24,Toys,Action Figure,19.99,1,15,16.99,16.99,Debit Card,Delivered,4
+ORD-21463,CUST-5177,09-10-24,Sports,Resistance Bands,19.99,1,0,19.99,19.99,Credit Card,Delivered,3
+ORD-21464,CUST-5178,14-06-22,Clothing,Yoga Pants,44.99,2,0,44.99,89.98,UPI,Delivered,5
+ORD-21465,CUST-5178,05-10-24,Books,Business Analytics,39.99,3,10,35.99,107.97,Debit Card,Delivered,4
+ORD-21466,CUST-5178,18-04-22,Toys,LEGO Classic Set,49.99,3,0,49.99,149.97,PayPal,Delivered,
+ORD-21467,CUST-5178,28-10-24,Electronics,Smart Watch,199.99,2,10,179.99,359.98,Credit Card,Delivered,5
+ORD-21468,CUST-5178,19-11-24,Electronics,Smart Watch,199.99,2,0,199.99,399.98,PayPal,Delivered,4
+ORD-21469,CUST-5179,04-09-24,Toys,Puzzle 1000pcs,24.99,2,5,23.74,47.48,UPI,Delivered,5
+ORD-21470,CUST-5179,24-05-23,Sports,Resistance Bands,19.99,1,20,15.99,15.99,UPI,Delivered,5
+ORD-21471,CUST-5179,12-01-22,Electronics,Smart Watch,199.99,4,20,159.99,639.96,PayPal,Delivered,5
+ORD-21472,CUST-5179,15-10-23,Beauty,Lip Balm Set,14.99,1,0,14.99,14.99,UPI,Delivered,
+ORD-21473,CUST-5179,06-10-22,Electronics,Bluetooth Speaker,49.99,4,0,49.99,199.96,UPI,Processing,3
+ORD-21474,CUST-5179,16-01-22,Toys,Puzzle 1000pcs,24.99,2,0,24.99,49.98,Wallet,Shipped,
+ORD-21475,CUST-5180,06-11-24,Electronics,Smart Watch,199.99,4,5,189.99,759.96,PayPal,Delivered,5
+ORD-21476,CUST-5180,17-11-22,Clothing,Cotton T-Shirt,24.99,3,5,23.74,71.22,Credit Card,Delivered,5
+ORD-21477,CUST-5180,06-10-24,Electronics,USB-C Hub,34.99,4,0,34.99,139.96,Debit Card,Delivered,2
+ORD-21478,CUST-5180,16-02-22,Home & Kitchen,Non-stick Pan Set,44.99,2,20,35.99,71.98,UPI,Delivered,4
+ORD-21479,CUST-5180,11-05-23,Books,Fiction Novel,14.99,1,10,13.49,13.49,UPI,Delivered,5
+ORD-21480,CUST-5180,26-09-23,Books,Business Analytics,39.99,2,0,39.99,79.98,Debit Card,Delivered,5
+ORD-21481,CUST-5180,13-12-22,Books,Data Science Handbook,49.99,4,20,39.99,159.96,Debit Card,Delivered,5
+ORD-21482,CUST-5181,27-01-22,Home & Kitchen,Non-stick Pan Set,44.99,1,10,40.49,40.49,PayPal,Delivered,2
+ORD-21483,CUST-5181,16-06-24,Books,Fiction Novel,14.99,1,20,11.99,11.99,UPI,Delivered,
+ORD-21484,CUST-5181,13-08-22,Sports,Jump Rope,14.99,3,10,13.49,40.47,Debit Card,Delivered,3
+ORD-21485,CUST-5181,01-03-23,Sports,Water Bottle,24.99,1,20,19.99,19.99,Wallet,Delivered,
+ORD-21486,CUST-5181,21-04-23,Clothing,Denim Jacket,69.99,1,15,59.49,59.49,Debit Card,Delivered,4
+ORD-21487,CUST-5181,26-11-23,Beauty,Face Serum,39.99,4,5,37.99,151.96,Debit Card,Delivered,5
+ORD-21488,CUST-5181,14-08-23,Electronics,USB-C Hub,34.99,2,10,31.49,62.98,Wallet,Delivered,
+ORD-21489,CUST-5181,06-07-24,Sports,Jump Rope,14.99,4,15,12.74,50.96,Debit Card,Delivered,4
+ORD-21490,CUST-5181,09-01-24,Home & Kitchen,Blender,64.99,1,0,64.99,64.99,Wallet,Delivered,5
+ORD-21491,CUST-5181,14-12-22,Sports,Yoga Mat,29.99,2,0,29.99,59.98,Credit Card,Delivered,2
+ORD-21492,CUST-5181,25-11-22,Home & Kitchen,Blender,64.99,4,15,55.24,220.96,Credit Card,Processing,4
+ORD-21493,CUST-5181,23-03-24,Beauty,Face Serum,39.99,1,0,39.99,39.99,Wallet,Delivered,
+ORD-21494,CUST-5181,13-11-23,Beauty,Face Serum,39.99,4,0,39.99,159.96,PayPal,Processing,1
+ORD-21495,CUST-5181,01-12-22,Sports,Jump Rope,14.99,1,15,12.74,12.74,Credit Card,Delivered,
+ORD-21496,CUST-5182,25-10-23,Clothing,Yoga Pants,44.99,4,0,44.99,179.96,Wallet,Delivered,4
+ORD-21497,CUST-5182,01-08-22,Home & Kitchen,Non-stick Pan Set,44.99,3,5,42.74,128.22,Credit Card,Delivered,4
+ORD-21498,CUST-5182,19-10-22,Sports,Yoga Mat,29.99,2,0,29.99,59.98,Credit Card,Delivered,5
+ORD-21499,CUST-5182,12-01-24,Electronics,Smart Watch,199.99,4,0,199.99,799.96,Debit Card,Delivered,
+ORD-21500,CUST-5182,21-03-24,Clothing,Denim Jacket,69.99,1,15,59.49,59.49,Debit Card,Delivered,4
+ORD-21501,CUST-5182,06-11-22,Clothing,Denim Jacket,69.99,1,10,62.99,62.99,Credit Card,Delivered,
+ORD-21502,CUST-5182,21-06-24,Clothing,Running Shoes,89.99,1,5,85.49,85.49,UPI,Shipped,
+ORD-21503,CUST-5182,16-10-22,Home & Kitchen,Air Fryer,89.99,2,15,76.49,152.98,PayPal,Delivered,
+ORD-21504,CUST-5182,14-01-22,Books,Python for Beginners,29.99,1,0,29.99,29.99,PayPal,Delivered,
+ORD-21505,CUST-5182,24-12-24,Clothing,Cotton T-Shirt,24.99,2,10,22.49,44.98,Debit Card,Shipped,
+ORD-21506,CUST-5182,27-06-23,Books,Business Analytics,39.99,4,20,31.99,127.96,Credit Card,Returned,4
+ORD-21507,CUST-5182,27-12-22,Clothing,Denim Jacket,69.99,3,15,59.49,178.47,Debit Card,Delivered,
+ORD-21508,CUST-5182,25-06-23,Beauty,Moisturizer SPF 50,29.99,3,0,29.99,89.97,PayPal,Delivered,5
+ORD-21509,CUST-5182,14-08-23,Books,Python for Beginners,29.99,1,0,29.99,29.99,UPI,Delivered,3
+ORD-21510,CUST-5182,01-10-22,Toys,Action Figure,19.99,4,0,19.99,79.96,Wallet,Delivered,5
+ORD-21511,CUST-5183,10-03-23,Beauty,Hair Mask,24.99,2,0,24.99,49.98,UPI,Delivered,3
+ORD-21512,CUST-5183,12-12-23,Electronics,Smart Watch,199.99,1,10,179.99,179.99,Wallet,Delivered,4
+ORD-21513,CUST-5183,22-10-22,Toys,Puzzle 1000pcs,24.99,4,5,23.74,94.96,UPI,Delivered,4
+ORD-21514,CUST-5183,14-02-23,Clothing,Cotton T-Shirt,24.99,2,0,24.99,49.98,UPI,Delivered,
+ORD-21515,CUST-5183,23-02-23,Toys,Remote Control Car,39.99,3,15,33.99,101.97,Wallet,Delivered,4
+ORD-21516,CUST-5183,23-04-24,Beauty,Face Serum,39.99,1,0,39.99,39.99,Credit Card,Delivered,5
+ORD-21517,CUST-5184,15-02-22,Home & Kitchen,Non-stick Pan Set,44.99,4,20,35.99,143.96,Debit Card,Delivered,4
+ORD-21518,CUST-5184,12-02-23,Home & Kitchen,Coffee Maker,59.99,3,5,56.99,170.97,Wallet,Shipped,5
+ORD-21519,CUST-5184,03-03-22,Electronics,Wireless Earbuds,79.99,1,10,71.99,71.99,PayPal,Delivered,4
+ORD-21520,CUST-5184,19-04-24,Home & Kitchen,Non-stick Pan Set,44.99,2,20,35.99,71.98,Credit Card,Delivered,
+ORD-21521,CUST-5185,19-02-24,Beauty,Lip Balm Set,14.99,3,15,12.74,38.22,Wallet,Delivered,
+ORD-21522,CUST-5185,19-04-23,Books,Data Science Handbook,49.99,3,0,49.99,149.97,Debit Card,Delivered,3
+ORD-21523,CUST-5185,15-01-22,Home & Kitchen,Non-stick Pan Set,44.99,1,20,35.99,35.99,Wallet,Delivered,
+ORD-21524,CUST-5185,10-09-22,Toys,Action Figure,19.99,3,5,18.99,56.97,Wallet,Delivered,
+ORD-21525,CUST-5185,22-05-22,Electronics,Wireless Earbuds,79.99,4,0,79.99,319.96,UPI,Delivered,
+ORD-21526,CUST-5185,25-04-22,Sports,Jump Rope,14.99,3,5,14.24,42.72,Credit Card,Delivered,4
+ORD-21527,CUST-5185,15-09-23,Books,Python for Beginners,29.99,4,5,28.49,113.96,UPI,Delivered,4
+ORD-21528,CUST-5185,19-06-22,Toys,Remote Control Car,39.99,2,20,31.99,63.98,Wallet,Delivered,5
+ORD-21529,CUST-5185,23-12-22,Home & Kitchen,Blender,64.99,1,10,58.49,58.49,Wallet,Delivered,
+ORD-21530,CUST-5185,18-08-24,Sports,Yoga Mat,29.99,4,0,29.99,119.96,Debit Card,Shipped,4
+ORD-21531,CUST-5185,24-08-22,Sports,Jump Rope,14.99,2,5,14.24,28.48,Credit Card,Delivered,5
+ORD-21532,CUST-5185,17-07-22,Home & Kitchen,Blender,64.99,1,0,64.99,64.99,Debit Card,Delivered,3
+ORD-21533,CUST-5185,20-08-22,Clothing,Running Shoes,89.99,4,10,80.99,323.96,UPI,Delivered,
+ORD-21534,CUST-5186,11-09-24,Books,Data Science Handbook,49.99,3,0,49.99,149.97,Wallet,Processing,5
+ORD-21535,CUST-5186,18-05-23,Books,Python for Beginners,29.99,2,0,29.99,59.98,PayPal,Delivered,5
+ORD-21536,CUST-5186,13-03-23,Home & Kitchen,Non-stick Pan Set,44.99,1,5,42.74,42.74,Credit Card,Delivered,4
+ORD-21537,CUST-5186,27-04-22,Toys,Action Figure,19.99,2,0,19.99,39.98,PayPal,Delivered,5
+ORD-21538,CUST-5186,17-07-24,Books,Python for Beginners,29.99,4,10,26.99,107.96,PayPal,Delivered,
+ORD-21539,CUST-5186,14-05-24,Books,Fiction Novel,14.99,3,20,11.99,35.97,Credit Card,Delivered,4
+ORD-21540,CUST-5187,05-04-24,Clothing,Cotton T-Shirt,24.99,4,0,24.99,99.96,Wallet,Delivered,4
+ORD-21541,CUST-5187,04-10-23,Home & Kitchen,Non-stick Pan Set,44.99,2,20,35.99,71.98,PayPal,Delivered,
+ORD-21542,CUST-5187,01-12-22,Electronics,Bluetooth Speaker,49.99,4,20,39.99,159.96,Wallet,Delivered,3
+ORD-21543,CUST-5187,01-07-22,Beauty,Face Serum,39.99,2,15,33.99,67.98,PayPal,Delivered,
+ORD-21544,CUST-5187,23-08-23,Home & Kitchen,Non-stick Pan Set,44.99,4,0,44.99,179.96,UPI,Processing,
+ORD-21545,CUST-5187,10-07-24,Toys,Puzzle 1000pcs,24.99,1,5,23.74,23.74,Debit Card,Delivered,5
+ORD-21546,CUST-5187,09-03-23,Books,Fiction Novel,14.99,3,0,14.99,44.97,UPI,Delivered,5
+ORD-21547,CUST-5187,03-06-24,Electronics,USB-C Hub,34.99,3,20,27.99,83.97,Wallet,Delivered,5
+ORD-21548,CUST-5187,15-03-23,Electronics,Smart Watch,199.99,3,10,179.99,539.97,Credit Card,Delivered,
+ORD-21549,CUST-5187,01-05-22,Home & Kitchen,Blender,64.99,3,10,58.49,175.47,PayPal,Delivered,5
+ORD-21550,CUST-5187,20-11-24,Sports,Yoga Mat,29.99,4,10,26.99,107.96,UPI,Delivered,
+ORD-21551,CUST-5187,28-02-22,Beauty,Face Serum,39.99,4,0,39.99,159.96,Wallet,Delivered,
+ORD-21552,CUST-5187,15-08-24,Sports,Yoga Mat,29.99,4,0,29.99,119.96,Credit Card,Delivered,5
+ORD-21553,CUST-5187,20-10-23,Sports,Jump Rope,14.99,4,0,14.99,59.96,Credit Card,Delivered,5
+ORD-21554,CUST-5188,10-06-23,Books,Python for Beginners,29.99,1,20,23.99,23.99,Wallet,Delivered,
+ORD-21555,CUST-5188,01-12-22,Beauty,Moisturizer SPF 50,29.99,2,5,28.49,56.98,PayPal,Delivered,5
+ORD-21556,CUST-5188,12-11-24,Books,Business Analytics,39.99,2,20,31.99,63.98,PayPal,Delivered,4
+ORD-21557,CUST-5188,15-05-24,Books,Fiction Novel,14.99,3,0,14.99,44.97,Debit Card,Delivered,4
+ORD-21558,CUST-5188,07-01-23,Toys,LEGO Classic Set,49.99,2,20,39.99,79.98,Wallet,Delivered,
+ORD-21559,CUST-5188,07-10-23,Beauty,Face Serum,39.99,4,0,39.99,159.96,Credit Card,Delivered,5
+ORD-21560,CUST-5188,14-06-22,Home & Kitchen,Blender,64.99,3,20,51.99,155.97,Wallet,Delivered,5
+ORD-21561,CUST-5188,14-02-23,Books,Python for Beginners,29.99,2,10,26.99,53.98,Wallet,Delivered,2
+ORD-21562,CUST-5188,02-07-22,Sports,Yoga Mat,29.99,3,0,29.99,89.97,UPI,Delivered,5
+ORD-21563,CUST-5188,02-06-22,Books,Business Analytics,39.99,4,20,31.99,127.96,Wallet,Delivered,4
+ORD-21564,CUST-5189,24-08-22,Clothing,Yoga Pants,44.99,2,10,40.49,80.98,PayPal,Delivered,3
+ORD-21565,CUST-5189,02-09-22,Home & Kitchen,Air Fryer,89.99,4,15,76.49,305.96,Credit Card,Delivered,4
+ORD-21566,CUST-5189,04-09-23,Toys,Remote Control Car,39.99,2,10,35.99,71.98,Credit Card,Delivered,
+ORD-21567,CUST-5189,22-01-22,Books,Python for Beginners,29.99,2,0,29.99,59.98,Debit Card,Delivered,4
+ORD-21568,CUST-5189,21-05-22,Electronics,Smart Watch,199.99,2,0,199.99,399.98,Debit Card,Delivered,5
+ORD-21569,CUST-5189,09-09-24,Beauty,Moisturizer SPF 50,29.99,3,10,26.99,80.97,UPI,Delivered,4
+ORD-21570,CUST-5189,04-09-23,Sports,Resistance Bands,19.99,1,0,19.99,19.99,Debit Card,Delivered,5
+ORD-21571,CUST-5189,11-06-24,Sports,Water Bottle,24.99,2,20,19.99,39.98,Credit Card,Delivered,
+ORD-21572,CUST-5189,24-08-23,Beauty,Hair Mask,24.99,2,0,24.99,49.98,Debit Card,Shipped,4
+ORD-21573,CUST-5190,05-01-22,Electronics,Wireless Earbuds,79.99,1,10,71.99,71.99,Wallet,Delivered,5
+ORD-21574,CUST-5190,28-10-22,Toys,Puzzle 1000pcs,24.99,3,20,19.99,59.97,Credit Card,Shipped,5
+ORD-21575,CUST-5190,12-10-22,Clothing,Yoga Pants,44.99,3,10,40.49,121.47,Wallet,Delivered,
+ORD-21576,CUST-5190,04-04-23,Electronics,USB-C Hub,34.99,3,10,31.49,94.47,Debit Card,Delivered,
+ORD-21577,CUST-5190,19-08-24,Toys,Action Figure,19.99,4,5,18.99,75.96,Credit Card,Delivered,5
+ORD-21578,CUST-5190,24-02-22,Beauty,Hair Mask,24.99,4,15,21.24,84.96,Wallet,Delivered,5
+ORD-21579,CUST-5190,16-07-24,Beauty,Hair Mask,24.99,4,5,23.74,94.96,PayPal,Delivered,4
+ORD-21580,CUST-5190,06-12-22,Electronics,Bluetooth Speaker,49.99,3,20,39.99,119.97,UPI,Delivered,
+ORD-21581,CUST-5190,26-02-24,Sports,Resistance Bands,19.99,3,0,19.99,59.97,Credit Card,Returned,
+ORD-21582,CUST-5190,26-10-23,Books,Python for Beginners,29.99,4,20,23.99,95.96,Credit Card,Delivered,4
+ORD-21583,CUST-5190,11-11-23,Books,Business Analytics,39.99,2,0,39.99,79.98,Wallet,Cancelled,
+ORD-21584,CUST-5191,14-02-23,Books,Fiction Novel,14.99,1,10,13.49,13.49,Wallet,Delivered,5
+ORD-21585,CUST-5191,22-11-22,Electronics,Smart Watch,199.99,4,20,159.99,639.96,UPI,Delivered,4
+ORD-21586,CUST-5191,05-06-22,Toys,Remote Control Car,39.99,3,0,39.99,119.97,Credit Card,Delivered,5
+ORD-21587,CUST-5191,27-04-24,Electronics,USB-C Hub,34.99,2,0,34.99,69.98,UPI,Delivered,
+ORD-21588,CUST-5192,08-04-22,Beauty,Hair Mask,24.99,4,0,24.99,99.96,Wallet,Delivered,4
+ORD-21589,CUST-5192,21-10-24,Electronics,Bluetooth Speaker,49.99,1,20,39.99,39.99,UPI,Delivered,3
+ORD-21590,CUST-5192,26-07-22,Sports,Yoga Mat,29.99,2,5,28.49,56.98,PayPal,Delivered,2
+ORD-21591,CUST-5192,05-05-23,Clothing,Yoga Pants,44.99,2,0,44.99,89.98,Debit Card,Delivered,4
+ORD-21592,CUST-5192,17-04-22,Toys,Remote Control Car,39.99,4,5,37.99,151.96,UPI,Delivered,1
+ORD-21593,CUST-5192,12-03-22,Beauty,Lip Balm Set,14.99,4,10,13.49,53.96,Credit Card,Delivered,5
+ORD-21594,CUST-5192,09-09-24,Electronics,Smart Watch,199.99,1,10,179.99,179.99,Credit Card,Processing,5
+ORD-21595,CUST-5192,15-07-23,Toys,Remote Control Car,39.99,3,15,33.99,101.97,UPI,Delivered,4
+ORD-21596,CUST-5193,14-08-22,Beauty,Moisturizer SPF 50,29.99,2,0,29.99,59.98,PayPal,Delivered,
+ORD-21597,CUST-5193,09-05-22,Sports,Water Bottle,24.99,4,5,23.74,94.96,PayPal,Delivered,
+ORD-21598,CUST-5193,14-03-22,Clothing,Running Shoes,89.99,2,10,80.99,161.98,PayPal,Delivered,
+ORD-21599,CUST-5193,03-10-23,Electronics,Smart Watch,199.99,1,0,199.99,199.99,Wallet,Shipped,
+ORD-21600,CUST-5193,23-04-23,Books,Python for Beginners,29.99,4,0,29.99,119.96,Credit Card,Delivered,5
+ORD-21601,CUST-5193,25-04-23,Books,Python for Beginners,29.99,3,0,29.99,89.97,UPI,Delivered,
+ORD-21602,CUST-5193,16-11-23,Home & Kitchen,Air Fryer,89.99,3,5,85.49,256.47,Credit Card,Delivered,3
+ORD-21603,CUST-5193,28-08-22,Home & Kitchen,Blender,64.99,3,0,64.99,194.97,Credit Card,Delivered,4
+ORD-21604,CUST-5193,18-09-22,Toys,Puzzle 1000pcs,24.99,1,0,24.99,24.99,Credit Card,Shipped,
+ORD-21605,CUST-5193,07-04-24,Beauty,Hair Mask,24.99,4,10,22.49,89.96,Wallet,Delivered,5
+ORD-21606,CUST-5193,11-07-24,Electronics,USB-C Hub,34.99,2,20,27.99,55.98,Credit Card,Delivered,
+ORD-21607,CUST-5193,14-06-23,Books,Data Science Handbook,49.99,4,0,49.99,199.96,Wallet,Delivered,5
+ORD-21608,CUST-5193,19-01-22,Beauty,Face Serum,39.99,4,5,37.99,151.96,Debit Card,Delivered,5
+ORD-21609,CUST-5193,13-05-23,Clothing,Cotton T-Shirt,24.99,4,10,22.49,89.96,PayPal,Delivered,5
+ORD-21610,CUST-5193,04-05-24,Home & Kitchen,Coffee Maker,59.99,3,5,56.99,170.97,UPI,Delivered,3
+ORD-21611,CUST-5194,18-01-22,Sports,Jump Rope,14.99,3,15,12.74,38.22,UPI,Delivered,4
+ORD-21612,CUST-5194,09-03-22,Home & Kitchen,Non-stick Pan Set,44.99,1,5,42.74,42.74,Debit Card,Delivered,5
+ORD-21613,CUST-5194,10-08-24,Toys,Remote Control Car,39.99,4,5,37.99,151.96,Debit Card,Delivered,
+ORD-21614,CUST-5194,01-01-22,Sports,Resistance Bands,19.99,1,15,16.99,16.99,UPI,Delivered,5
+ORD-21615,CUST-5194,10-05-23,Toys,Puzzle 1000pcs,24.99,4,15,21.24,84.96,PayPal,Delivered,4
+ORD-21616,CUST-5194,24-03-24,Sports,Jump Rope,14.99,2,5,14.24,28.48,Debit Card,Delivered,5
+ORD-21617,CUST-5194,14-09-22,Books,Business Analytics,39.99,1,5,37.99,37.99,Debit Card,Delivered,
+ORD-21618,CUST-5194,10-04-23,Toys,Remote Control Car,39.99,2,15,33.99,67.98,Debit Card,Delivered,5
+ORD-21619,CUST-5194,02-10-23,Clothing,Running Shoes,89.99,1,15,76.49,76.49,PayPal,Delivered,3
+ORD-21620,CUST-5194,26-08-24,Beauty,Lip Balm Set,14.99,2,0,14.99,29.98,Credit Card,Shipped,4
+ORD-21621,CUST-5195,21-10-23,Home & Kitchen,Air Fryer,89.99,1,0,89.99,89.99,PayPal,Delivered,3
+ORD-21622,CUST-5195,26-01-22,Clothing,Running Shoes,89.99,3,0,89.99,269.97,Credit Card,Delivered,5
+ORD-21623,CUST-5195,12-03-24,Electronics,Bluetooth Speaker,49.99,4,0,49.99,199.96,Credit Card,Delivered,5
+ORD-21624,CUST-5195,02-12-22,Toys,Remote Control Car,39.99,2,10,35.99,71.98,Debit Card,Delivered,
+ORD-21625,CUST-5195,03-02-22,Books,Business Analytics,39.99,2,0,39.99,79.98,Credit Card,Delivered,5
+ORD-21626,CUST-5195,26-06-24,Beauty,Face Serum,39.99,1,0,39.99,39.99,Wallet,Cancelled,4
+ORD-21627,CUST-5195,27-11-22,Clothing,Denim Jacket,69.99,4,15,59.49,237.96,UPI,Delivered,3
+ORD-21628,CUST-5196,21-07-24,Clothing,Yoga Pants,44.99,1,15,38.24,38.24,Debit Card,Returned,4
+ORD-21629,CUST-5197,27-10-23,Books,Data Science Handbook,49.99,1,10,44.99,44.99,PayPal,Delivered,5
+ORD-21630,CUST-5197,20-07-24,Clothing,Cotton T-Shirt,24.99,1,20,19.99,19.99,Credit Card,Delivered,5
+ORD-21631,CUST-5198,06-05-22,Beauty,Moisturizer SPF 50,29.99,1,10,26.99,26.99,Wallet,Shipped,3
+ORD-21632,CUST-5198,09-10-24,Sports,Yoga Mat,29.99,1,0,29.99,29.99,UPI,Delivered,4
+ORD-21633,CUST-5198,27-11-23,Books,Data Science Handbook,49.99,4,0,49.99,199.96,UPI,Delivered,5
+ORD-21634,CUST-5198,23-01-24,Beauty,Moisturizer SPF 50,29.99,4,5,28.49,113.96,Wallet,Shipped,4
+ORD-21635,CUST-5198,24-07-24,Electronics,Bluetooth Speaker,49.99,4,10,44.99,179.96,PayPal,Delivered,1
+ORD-21636,CUST-5198,27-03-24,Books,Data Science Handbook,49.99,2,20,39.99,79.98,Debit Card,Delivered,3
+ORD-21637,CUST-5198,27-06-24,Electronics,Wireless Earbuds,79.99,3,0,79.99,239.97,PayPal,Processing,5
+ORD-21638,CUST-5198,03-03-22,Books,Business Analytics,39.99,2,0,39.99,79.98,Credit Card,Delivered,5
+ORD-21639,CUST-5198,16-09-22,Clothing,Denim Jacket,69.99,4,0,69.99,279.96,Debit Card,Delivered,
+ORD-21640,CUST-5198,13-07-23,Books,Python for Beginners,29.99,1,5,28.49,28.49,Credit Card,Delivered,2
+ORD-21641,CUST-5198,18-11-23,Electronics,Bluetooth Speaker,49.99,2,10,44.99,89.98,Wallet,Delivered,
+ORD-21642,CUST-5199,26-02-23,Beauty,Hair Mask,24.99,4,15,21.24,84.96,UPI,Delivered,3
+ORD-21643,CUST-5199,14-06-22,Sports,Resistance Bands,19.99,3,15,16.99,50.97,Debit Card,Delivered,
+ORD-21644,CUST-5199,19-06-22,Electronics,Wireless Earbuds,79.99,2,0,79.99,159.98,Wallet,Delivered,2
+ORD-21645,CUST-5199,07-12-23,Electronics,USB-C Hub,34.99,4,15,29.74,118.96,Credit Card,Delivered,
+ORD-21646,CUST-5200,10-07-22,Home & Kitchen,Blender,64.99,1,0,64.99,64.99,Credit Card,Delivered,5
+ORD-21647,CUST-5200,11-09-24,Books,Data Science Handbook,49.99,1,20,39.99,39.99,PayPal,Delivered,
+ORD-21648,CUST-5200,19-04-24,Clothing,Yoga Pants,44.99,4,10,40.49,161.96,Debit Card,Delivered,
+ORD-21649,CUST-5200,09-09-23,Beauty,Lip Balm Set,14.99,4,10,13.49,53.96,Debit Card,Delivered,4
+ORD-21650,CUST-5200,01-03-22,Clothing,Yoga Pants,44.99,4,0,44.99,179.96,Credit Card,Delivered,3
+ORD-21651,CUST-5200,27-04-24,Electronics,Wireless Earbuds,79.99,4,0,79.99,319.96,Debit Card,Delivered,5
+ORD-21652,CUST-5200,01-07-22,Home & Kitchen,Coffee Maker,59.99,4,0,59.99,239.96,Credit Card,Delivered,5
+ORD-21653,CUST-5200,28-07-23,Home & Kitchen,Blender,64.99,4,5,61.74,246.96,Wallet,Delivered,
+ORD-21654,CUST-5200,27-11-23,Electronics,Bluetooth Speaker,49.99,2,20,39.99,79.98,Wallet,Delivered,
