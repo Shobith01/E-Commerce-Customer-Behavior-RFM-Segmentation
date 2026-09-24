@@ -345,8 +345,8 @@ E-Commerce-Customer-Behavior-RFM-Segmentation/
 │   └── E-Commerce Customer Intelligence Dashboard.png
 │
 ├── documentation/
-│   ├── BRD_ECommerce_RFM_v1.0.pdf
-│   ├── UserStories_ECommerce_RFM.pdf
-│   └── Strategic_Recommendations_ECommerce_RFM.pdf
+│   ├── BRD - E-Commerce Customer Behavior & RFM Segmentation.pdf
+│   ├── UserStories_ E-Commerce Customer Behavior & RFM Segmentation.pdf
+│   └── Strategic Recommendations - E-Commerce Customer Behavior & RFM Segmentation.pdf
 │
 └── README.md
